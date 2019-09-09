@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:0,Channel 1
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:0,Channel 2
-https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8
-#EXTINF:0,Channel 3
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0,Channel 4
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTM3U
 #EXTINF:-1,A&E HD
 http://csrv.tv:80/123456/123456/1906
 #EXTINF:-1,A&E HD [Alter]
