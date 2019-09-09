@@ -1,9 +1,2430 @@
+
 #EXTM3U
-#EXTINF:0,Channel 1
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:0,Channel 2
-https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8
-#EXTINF:0,Channel 3
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,A&E HD
+#EXTINF:0,Channel 
+http://csrv.tv:80/123456/123456/1906
 #EXTINF:0,Channel 4
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,A&E HD [Alter]
+#EXTINF:0,Channel 5
+http://csrv.tv:80/123456/123456/2402
+#EXTINF:0,Channel 6
+#EXTINF:-1,A&E SD
+#EXTINF:0,Channel 7
+http://csrv.tv:80/123456/123456/1907
+#EXTINF:0,Channel 8
+#EXTINF:-1,A&E SD [Alter]
+#EXTINF:0,Channel 9
+http://csrv.tv:80/123456/123456/2215
+#EXTINF:0,Channel 10
+#EXTINF:-1,Aladdin [24H]
+#EXTINF:0,Channel 11
+http://csrv.tv:80/123456/123456/2100
+#EXTINF:0,Channel 12
+#EXTINF:-1,AMC HD
+#EXTINF:0,Channel 13
+http://csrv.tv:80/123456/123456/1904
+#EXTINF:0,Channel 14
+#EXTINF:-1,AMC HD [Alter]
+#EXTINF:0,Channel 15
+http://csrv.tv:80/123456/123456/2401
+#EXTINF:0,Channel 16
+#EXTINF:-1,AMC SD
+#EXTINF:0,Channel 17
+http://csrv.tv:80/123456/123456/1905
+#EXTINF:0,Channel 18
+#EXTINF:-1,AMC SD [Alter]
+#EXTINF:0,Channel 19
+http://csrv.tv:80/123456/123456/2214
+#EXTINF:0,Channel 20
+#EXTINF:-1,Animal Planet HD
+#EXTINF:0,Channel 21
+http://csrv.tv:80/123456/123456/1902
+#EXTINF:0,Channel 22
+#EXTINF:-1,Animal Planet HD [Alter]
+#EXTINF:0,Channel 23
+http://csrv.tv:80/123456/123456/2400
+#EXTINF:0,Channel 24
+#EXTINF:-1,Animal Planet SD
+#EXTINF:0,Channel 25
+http://csrv.tv:80/123456/123456/1903
+#EXTINF:0,Channel 26
+#EXTINF:-1,Animal Planet SD [Alter]
+#EXTINF:0,Channel 27
+http://csrv.tv:80/123456/123456/2213
+#EXTINF:0,Channel 28
+#EXTINF:-1,Arte 1 HD
+#EXTINF:0,Channel 29
+http://csrv.tv:80/123456/123456/1900
+#EXTINF:0,Channel 30
+#EXTINF:-1,Arte 1 SD
+#EXTINF:0,Channel 31
+http://csrv.tv:80/123456/123456/1901
+#EXTINF:0,Channel 32
+#EXTINF:-1,Arte 1 SD [Alter]
+#EXTINF:0,Channel 33
+http://csrv.tv:80/123456/123456/2113
+#EXTINF:0,Channel 34
+#EXTINF:-1,As Meninas Superpoderosas [24H]
+#EXTINF:0,Channel 35
+http://csrv.tv:80/123456/123456/2099
+#EXTINF:0,Channel 36
+#EXTINF:-1,As Tartarugas Ninja [24H]
+#EXTINF:0,Channel 37
+http://csrv.tv:80/123456/123456/2098
+#EXTINF:0,Channel 38
+#EXTINF:-1,AXN HD
+#EXTINF:0,Channel 39
+http://csrv.tv:80/123456/123456/1898
+#EXTINF:0,Channel 40
+#EXTINF:-1,AXN HD [Alter]
+#EXTINF:0,Channel 41
+http://csrv.tv:80/123456/123456/2399
+#EXTINF:0,Channel 42
+#EXTINF:-1,AXN SD
+#EXTINF:0,Channel 43
+http://csrv.tv:80/123456/123456/1899
+#EXTINF:0,Channel 44
+#EXTINF:-1,AXN SD [Alter]
+#EXTINF:0,Channel 45
+http://csrv.tv:80/123456/123456/2212
+#EXTINF:0,Channel 46
+#EXTINF:-1,Baby TV SD
+#EXTINF:0,Channel 47
+http://csrv.tv:80/123456/123456/1897
+#EXTINF:0,Channel 48
+#EXTINF:-1,Baby TV SD [Alter]
+#EXTINF:0,Channel 49
+http://csrv.tv:80/123456/123456/2211
+#EXTINF:0,Channel 50
+#EXTINF:-1,Band SP HD
+#EXTINF:0,Channel 51
+http://csrv.tv:80/123456/123456/1895
+#EXTINF:0,Channel 52
+#EXTINF:-1,Band SP HD [Alter]
+#EXTINF:0,Channel 53
+http://csrv.tv:80/123456/123456/2398
+#EXTINF:0,Channel 54
+#EXTINF:-1,Band SP SD
+#EXTINF:0,Channel 55
+http://csrv.tv:80/123456/123456/1896
+#EXTINF:0,Channel 56
+#EXTINF:-1,BandNews HD
+#EXTINF:0,Channel 57
+http://csrv.tv:80/123456/123456/1893
+#EXTINF:0,Channel 58
+#EXTINF:-1,BandNews SD
+#EXTINF:0,Channel 59
+http://csrv.tv:80/123456/123456/1894
+#EXTINF:0,Channel 60
+#EXTINF:-1,BandNews SD [Alter]
+#EXTINF:0,Channel 61
+http://csrv.tv:80/123456/123456/2210
+#EXTINF:0,Channel 62
+#EXTINF:-1,BandSports HD
+#EXTINF:0,Channel 63
+http://csrv.tv:80/123456/123456/1891
+#EXTINF:0,Channel 64
+#EXTINF:-1,BandSports HD [Alter]
+#EXTINF:0,Channel 65
+http://csrv.tv:80/123456/123456/2397
+#EXTINF:0,Channel 66
+#EXTINF:-1,BandSports SD
+#EXTINF:0,Channel 67
+http://csrv.tv:80/123456/123456/1892
+#EXTINF:0,Channel 68
+#EXTINF:-1,BandSports SD [Alter]
+#EXTINF:0,Channel 69
+http://csrv.tv:80/123456/123456/2209
+#EXTINF:0,Channel 70
+#EXTINF:-1,Bis HD
+#EXTINF:0,Channel 71
+http://csrv.tv:80/123456/123456/1889
+#EXTINF:0,Channel 72
+#EXTINF:-1,Bis HD [Alter]
+#EXTINF:0,Channel 73
+http://csrv.tv:80/123456/123456/2396
+#EXTINF:0,Channel 74
+#EXTINF:-1,Bis SD
+#EXTINF:0,Channel 75
+http://csrv.tv:80/123456/123456/1890
+#EXTINF:0,Channel 76
+#EXTINF:-1,Bis SD [Alter]
+#EXTINF:0,Channel 77
+http://csrv.tv:80/123456/123456/2121
+#EXTINF:0,Channel 78
+#EXTINF:-1,Boa Vontade TV HD
+#EXTINF:0,Channel 79
+http://csrv.tv:80/123456/123456/1888
+#EXTINF:0,Channel 80
+#EXTINF:-1,Bob Esponja [24H]
+#EXTINF:0,Channel 81
+http://csrv.tv:80/123456/123456/2097
+#EXTINF:0,Channel 82
+#EXTINF:-1,Boomerang HD
+#EXTINF:0,Channel 83
+http://csrv.tv:80/123456/123456/1886
+#EXTINF:0,Channel 84
+#EXTINF:-1,Boomerang SD
+#EXTINF:0,Channel 85
+http://csrv.tv:80/123456/123456/1887
+#EXTINF:0,Channel 86
+#EXTINF:-1,Boomerang SD [Alter]
+#EXTINF:0,Channel 87
+http://csrv.tv:80/123456/123456/2208
+#EXTINF:0,Channel 88
+#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
+#EXTINF:0,Channel 89
+http://csrv.tv:80/123456/123456/1640
+#EXTINF:0,Channel 90
+#EXTINF:-1,Breaking Bad [24H]
+#EXTINF:0,Channel 91
+http://csrv.tv:80/123456/123456/2029
+#EXTINF:0,Channel 92
+#EXTINF:-1,Canal Brasil HD
+#EXTINF:0,Channel 93
+http://csrv.tv:80/123456/123456/1884
+#EXTINF:0,Channel 94
+#EXTINF:-1,Canal Brasil SD
+#EXTINF:0,Channel 95
+http://csrv.tv:80/123456/123456/1885
+#EXTINF:0,Channel 96
+#EXTINF:-1,Canal Brasil SD [Alter]
+#EXTINF:0,Channel 97
+http://csrv.tv:80/123456/123456/2115
+#EXTINF:0,Channel 98
+#EXTINF:-1,Canal Do Boi SD
+#EXTINF:0,Channel 99
+http://csrv.tv:80/123456/123456/1655
+#EXTINF:0,Channel 100
+#EXTINF:-1,Canal Do Boi SD [Alter]
+#EXTINF:0,Channel 101
+http://csrv.tv:80/123456/123456/2114
+#EXTINF:0,Channel 102
+#EXTINF:-1,Canal Sony HD
+#EXTINF:0,Channel 103
+http://csrv.tv:80/123456/123456/1882
+#EXTINF:0,Channel 104
+#EXTINF:-1,Canal Sony HD [Alter]
+#EXTINF:0,Channel 105
+http://csrv.tv:80/123456/123456/2395
+#EXTINF:0,Channel 106
+#EXTINF:-1,Canal Sony SD
+#EXTINF:0,Channel 107
+http://csrv.tv:80/123456/123456/1883
+#EXTINF:0,Channel 108
+#EXTINF:-1,Canal Sony SD [Alter]
+#EXTINF:0,Channel 109
+http://csrv.tv:80/123456/123456/2207
+#EXTINF:0,Channel 110
+#EXTINF:-1,Cancao Nova SD
+#EXTINF:0,Channel 111
+http://csrv.tv:80/123456/123456/1881
+#EXTINF:0,Channel 112
+#EXTINF:-1,Cancao Nova SD [Alter]
+#EXTINF:0,Channel 113
+http://csrv.tv:80/123456/123456/2107
+#EXTINF:0,Channel 114
+#EXTINF:-1,Cartoon Network HD
+#EXTINF:0,Channel 115
+http://csrv.tv:80/123456/123456/1879
+#EXTINF:0,Channel 116
+#EXTINF:-1,Cartoon Network HD [Alter]
+#EXTINF:0,Channel 117
+http://csrv.tv:80/123456/123456/2394
+#EXTINF:0,Channel 118
+#EXTINF:-1,Cartoon Network SD
+#EXTINF:0,Channel 119
+http://csrv.tv:80/123456/123456/1880
+#EXTINF:0,Channel 120
+#EXTINF:-1,Cartoon Network SD [Alter]
+#EXTINF:0,Channel 121
+http://csrv.tv:80/123456/123456/2112
+#EXTINF:0,Channel 122
+#EXTINF:-1,Chapolin Colorado [24H]
+#EXTINF:0,Channel 123
+http://csrv.tv:80/123456/123456/2027
+#EXTINF:0,Channel 124
+#EXTINF:-1,Chaves Animado [24H]
+#EXTINF:0,Channel 125
+http://csrv.tv:80/123456/123456/2094
+#EXTINF:0,Channel 126
+#EXTINF:-1,Chicago [Camera]
+#EXTINF:0,Channel 127
+http://csrv.tv:80/123456/123456/2425
+#EXTINF:0,Channel 128
+#EXTINF:-1,Cinemax HD
+#EXTINF:0,Channel 129
+http://csrv.tv:80/123456/123456/1877
+#EXTINF:0,Channel 130
+#EXTINF:-1,Cinemax HD [Alter]
+#EXTINF:0,Channel 131
+http://csrv.tv:80/123456/123456/2393
+#EXTINF:0,Channel 132
+#EXTINF:-1,Cinemax SD
+#EXTINF:0,Channel 133
+http://csrv.tv:80/123456/123456/1878
+#EXTINF:0,Channel 134
+#EXTINF:-1,Cinemax SD [Alter]
+#EXTINF:0,Channel 135
+http://csrv.tv:80/123456/123456/2130
+#EXTINF:0,Channel 136
+#EXTINF:-1,Combate HD
+#EXTINF:0,Channel 137
+http://csrv.tv:80/123456/123456/1875
+#EXTINF:0,Channel 138
+#EXTINF:-1,Combate HD [Alter]
+#EXTINF:0,Channel 139
+http://csrv.tv:80/123456/123456/2392
+#EXTINF:0,Channel 140
+#EXTINF:-1,Combate SD
+#EXTINF:0,Channel 141
+http://csrv.tv:80/123456/123456/1876
+#EXTINF:0,Channel 142
+#EXTINF:-1,Combate SD [Alter]
+#EXTINF:0,Channel 143
+http://csrv.tv:80/123456/123456/2206
+#EXTINF:0,Channel 144
+#EXTINF:-1,Comedy Central HD
+#EXTINF:0,Channel 145
+http://csrv.tv:80/123456/123456/1873
+#EXTINF:0,Channel 146
+#EXTINF:-1,Comedy Central HD [Alter]
+#EXTINF:0,Channel 147
+http://csrv.tv:80/123456/123456/2391
+#EXTINF:0,Channel 148
+#EXTINF:-1,Comedy Central SD
+#EXTINF:0,Channel 149
+http://csrv.tv:80/123456/123456/1874
+#EXTINF:0,Channel 150
+#EXTINF:-1,Comedy Central SD [Alter]
+#EXTINF:0,Channel 151
+http://csrv.tv:80/123456/123456/2205
+#EXTINF:0,Channel 152
+#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
+#EXTINF:0,Channel 153
+http://csrv.tv:80/123456/123456/1642
+#EXTINF:0,Channel 154
+#EXTINF:-1,DAZN 2 - Copa Libertadores HD
+#EXTINF:0,Channel 155
+http://csrv.tv:80/123456/123456/1641
+#EXTINF:0,Channel 156
+#EXTINF:-1,Coragem [24H]
+#EXTINF:0,Channel 157
+http://csrv.tv:80/123456/123456/2092
+#EXTINF:0,Channel 158
+#EXTINF:-1,Curta HD
+#EXTINF:0,Channel 159
+http://csrv.tv:80/123456/123456/1871
+#EXTINF:0,Channel 160
+#EXTINF:-1,Curta SD
+#EXTINF:0,Channel 161
+http://csrv.tv:80/123456/123456/1872
+#EXTINF:0,Channel 162
+#EXTINF:-1,Curta SD [Alter]
+#EXTINF:0,Channel 163
+http://csrv.tv:80/123456/123456/2204
+#EXTINF:0,Channel 164
+#EXTINF:-1,Denis - O Pimentinha [24H]
+#EXTINF:0,Channel 165
+http://csrv.tv:80/123456/123456/2091
+#EXTINF:0,Channel 166
+#EXTINF:-1,Digimon [24H]
+#EXTINF:0,Channel 167
+http://csrv.tv:80/123456/123456/2090
+#EXTINF:0,Channel 168
+#EXTINF:-1,Discovery Channel HD
+#EXTINF:0,Channel 169
+http://csrv.tv:80/123456/123456/1869
+#EXTINF:0,Channel 170
+#EXTINF:-1,Discovery Channel HD [Alter]
+#EXTINF:0,Channel 171
+http://csrv.tv:80/123456/123456/2390
+#EXTINF:0,Channel 172
+#EXTINF:-1,Discovery Channel SD
+#EXTINF:0,Channel 173
+http://csrv.tv:80/123456/123456/1870
+#EXTINF:0,Channel 174
+#EXTINF:-1,Discovery Channel SD [Alter]
+#EXTINF:0,Channel 175
+http://csrv.tv:80/123456/123456/2203
+#EXTINF:0,Channel 176
+#EXTINF:-1,Discovery Civilization HD
+#EXTINF:0,Channel 177
+http://csrv.tv:80/123456/123456/1867
+#EXTINF:0,Channel 178
+#EXTINF:-1,Discovery Civilization HD [Alter]
+#EXTINF:0,Channel 179
+http://csrv.tv:80/123456/123456/2389
+#EXTINF:0,Channel 180
+#EXTINF:-1,Discovery Civilization SD
+#EXTINF:0,Channel 181
+http://csrv.tv:80/123456/123456/1868
+#EXTINF:0,Channel 182
+#EXTINF:-1,Discovery Civilization SD [Alter]
+#EXTINF:0,Channel 183
+http://csrv.tv:80/123456/123456/2117
+#EXTINF:0,Channel 184
+#EXTINF:-1,Discovery H&H HD
+#EXTINF:0,Channel 185
+http://csrv.tv:80/123456/123456/1865
+#EXTINF:0,Channel 186
+#EXTINF:-1,Discovery H&H HD [Alter]
+#EXTINF:0,Channel 187
+http://csrv.tv:80/123456/123456/2388
+#EXTINF:0,Channel 188
+#EXTINF:-1,Discovery H&H SD
+#EXTINF:0,Channel 189
+http://csrv.tv:80/123456/123456/1866
+#EXTINF:0,Channel 190
+#EXTINF:-1,Discovery H&H SD [Alter]
+#EXTINF:0,Channel 191
+http://csrv.tv:80/123456/123456/2106
+#EXTINF:0,Channel 192
+#EXTINF:-1,Discovery Kids HD
+#EXTINF:0,Channel 193
+http://csrv.tv:80/123456/123456/1863
+#EXTINF:0,Channel 194
+#EXTINF:-1,Discovery Kids HD [Alter]
+#EXTINF:0,Channel 195
+http://csrv.tv:80/123456/123456/2387
+#EXTINF:0,Channel 196
+#EXTINF:-1,Discovery Kids SD
+#EXTINF:0,Channel 197
+http://csrv.tv:80/123456/123456/1864
+#EXTINF:0,Channel 198
+#EXTINF:-1,Discovery Kids SD [Alter]
+#EXTINF:0,Channel 199
+http://csrv.tv:80/123456/123456/2202
+#EXTINF:0,Channel 200
+#EXTINF:-1,Discovery Science HD
+#EXTINF:0,Channel 201
+http://csrv.tv:80/123456/123456/1861
+#EXTINF:0,Channel 202
+#EXTINF:-1,Discovery Science HD [Alter]
+#EXTINF:0,Channel 203
+http://csrv.tv:80/123456/123456/2386
+#EXTINF:0,Channel 204
+#EXTINF:-1,Discovery Science SD
+#EXTINF:0,Channel 205
+http://csrv.tv:80/123456/123456/1862
+#EXTINF:0,Channel 206
+#EXTINF:-1,Discovery Science SD [Alter]
+#EXTINF:0,Channel 207
+http://csrv.tv:80/123456/123456/2123
+#EXTINF:0,Channel 208
+#EXTINF:-1,Discovery Theater HD
+#EXTINF:0,Channel 209
+http://csrv.tv:80/123456/123456/1859
+#EXTINF:0,Channel 210
+#EXTINF:-1,Discovery Theater HD [Alter]
+#EXTINF:0,Channel 211
+http://csrv.tv:80/123456/123456/2385
+#EXTINF:0,Channel 212
+#EXTINF:-1,Discovery Theater SD
+#EXTINF:0,Channel 213
+http://csrv.tv:80/123456/123456/1860
+#EXTINF:0,Channel 214
+#EXTINF:-1,Discovery Theater SD [Alter]
+#EXTINF:0,Channel 215
+http://csrv.tv:80/123456/123456/2124
+#EXTINF:0,Channel 216
+#EXTINF:-1,Discovery Turbo HD
+#EXTINF:0,Channel 217
+http://csrv.tv:80/123456/123456/1857
+#EXTINF:0,Channel 218
+#EXTINF:-1,Discovery Turbo HD [Alter]
+#EXTINF:0,Channel 219
+http://csrv.tv:80/123456/123456/2384
+#EXTINF:0,Channel 220
+#EXTINF:-1,Discovery Turbo SD
+#EXTINF:0,Channel 221
+http://csrv.tv:80/123456/123456/1858
+#EXTINF:0,Channel 222
+#EXTINF:-1,Discovery Turbo SD [Alter]
+#EXTINF:0,Channel 223
+http://csrv.tv:80/123456/123456/2201
+#EXTINF:0,Channel 224
+#EXTINF:-1,Discovery World HD
+#EXTINF:0,Channel 225
+http://csrv.tv:80/123456/123456/1855
+#EXTINF:0,Channel 226
+#EXTINF:-1,Discovery World HD [Alter]
+#EXTINF:0,Channel 227
+http://csrv.tv:80/123456/123456/2383
+#EXTINF:0,Channel 228
+#EXTINF:-1,Discovery World SD
+#EXTINF:0,Channel 229
+http://csrv.tv:80/123456/123456/1856
+#EXTINF:0,Channel 230
+#EXTINF:-1,Discovery World SD [Alter]
+#EXTINF:0,Channel 231
+http://csrv.tv:80/123456/123456/2122
+#EXTINF:0,Channel 232
+#EXTINF:-1,Disney Channel HD
+#EXTINF:0,Channel 233
+http://csrv.tv:80/123456/123456/1853
+#EXTINF:0,Channel 234
+#EXTINF:-1,Disney Channel HD [Alter]
+#EXTINF:0,Channel 235
+http://csrv.tv:80/123456/123456/2382
+#EXTINF:0,Channel 236
+#EXTINF:-1,Disney Channel SD
+#EXTINF:0,Channel 237
+http://csrv.tv:80/123456/123456/1854
+#EXTINF:0,Channel 238
+#EXTINF:-1,Disney Channel SD [Alter]
+#EXTINF:0,Channel 239
+http://csrv.tv:80/123456/123456/2200
+#EXTINF:0,Channel 240
+#EXTINF:-1,Disney Jr HD
+#EXTINF:0,Channel 241
+http://csrv.tv:80/123456/123456/1678
+#EXTINF:0,Channel 242
+#EXTINF:-1,Disney Jr HD [Alter]
+#EXTINF:0,Channel 243
+http://csrv.tv:80/123456/123456/2381
+#EXTINF:0,Channel 244
+#EXTINF:-1,Disney Jr SD
+#EXTINF:0,Channel 245
+http://csrv.tv:80/123456/123456/1852
+#EXTINF:0,Channel 246
+#EXTINF:-1,Disney Jr SD [Alter]
+#EXTINF:0,Channel 247
+http://csrv.tv:80/123456/123456/2199
+#EXTINF:0,Channel 248
+#EXTINF:-1,Disney XD SD
+#EXTINF:0,Channel 249
+http://csrv.tv:80/123456/123456/1851
+#EXTINF:0,Channel 250
+#EXTINF:-1,Disney XD SD [Alter]
+#EXTINF:0,Channel 251
+http://csrv.tv:80/123456/123456/2198
+#EXTINF:0,Channel 252
+#EXTINF:-1,Doha [Camera]
+#EXTINF:0,Channel 253
+http://csrv.tv:80/123456/123456/2428
+#EXTINF:0,Channel 254
+#EXTINF:-1,Dois Homens e Meio [24H]
+#EXTINF:0,Channel 255
+http://csrv.tv:80/123456/123456/2089
+#EXTINF:0,Channel 256
+#EXTINF:-1,Doug [24H]
+#EXTINF:0,Channel 257
+http://csrv.tv:80/123456/123456/2049
+#EXTINF:0,Channel 258
+#EXTINF:-1,Dragon Ball Super [24H]
+#EXTINF:0,Channel 259
+http://csrv.tv:80/123456/123456/2056
+#EXTINF:0,Channel 260
+#EXTINF:-1,Dragon Ball Z [24H]
+#EXTINF:0,Channel 261
+http://csrv.tv:80/123456/123456/2088
+#EXTINF:0,Channel 262
+#EXTINF:-1,Dubai [Camera]
+#EXTINF:0,Channel 263
+http://csrv.tv:80/123456/123456/2423
+#EXTINF:0,Channel 264
+#EXTINF:-1,Dublin [Camera]
+#EXTINF:0,Channel 265
+http://csrv.tv:80/123456/123456/2421
+#EXTINF:0,Channel 266
+#EXTINF:-1,E! HD
+#EXTINF:0,Channel 267
+http://csrv.tv:80/123456/123456/1849
+#EXTINF:0,Channel 268
+#EXTINF:-1,E! HD [Alter]
+#EXTINF:0,Channel 269
+http://csrv.tv:80/123456/123456/2380
+#EXTINF:0,Channel 270
+#EXTINF:-1,E! SD
+#EXTINF:0,Channel 271
+http://csrv.tv:80/123456/123456/1850
+#EXTINF:0,Channel 272
+#EXTINF:-1,E! SD [Alter]
+#EXTINF:0,Channel 273
+http://csrv.tv:80/123456/123456/2197
+#EXTINF:0,Channel 274
+#EXTINF:-1,Ei Plus HD
+#EXTINF:0,Channel 275
+http://csrv.tv:80/123456/123456/1645
+#EXTINF:0,Channel 276
+#EXTINF:-1,Ei Plus SD
+#EXTINF:0,Channel 277
+http://csrv.tv:80/123456/123456/1644
+#EXTINF:0,Channel 278
+#EXTINF:-1,ESPN 2 HD
+#EXTINF:0,Channel 279
+http://csrv.tv:80/123456/123456/1846
+#EXTINF:0,Channel 280
+#EXTINF:-1,ESPN 2 HD [Alter]
+#EXTINF:0,Channel 281
+http://csrv.tv:80/123456/123456/2379
+#EXTINF:0,Channel 282
+#EXTINF:-1,ESPN 2 SD
+#EXTINF:0,Channel 283
+http://csrv.tv:80/123456/123456/1847
+#EXTINF:0,Channel 284
+#EXTINF:-1,ESPN 2 SD [Alter]
+#EXTINF:0,Channel 285
+http://csrv.tv:80/123456/123456/2196
+#EXTINF:0,Channel 286
+#EXTINF:-1,ESPN Brasil HD
+#EXTINF:0,Channel 287
+http://csrv.tv:80/123456/123456/1844
+#EXTINF:0,Channel 288
+#EXTINF:-1,ESPN Brasil HD [Alter]
+#EXTINF:0,Channel 289
+http://csrv.tv:80/123456/123456/2378
+#EXTINF:0,Channel 290
+#EXTINF:-1,ESPN Brasil SD
+#EXTINF:0,Channel 291
+http://csrv.tv:80/123456/123456/1845
+#EXTINF:0,Channel 292
+#EXTINF:-1,ESPN Brasil SD [Alter]
+#EXTINF:0,Channel 293
+http://csrv.tv:80/123456/123456/2195
+#EXTINF:0,Channel 294
+#EXTINF:-1,ESPN Extra HD
+#EXTINF:0,Channel 295
+http://csrv.tv:80/123456/123456/1842
+#EXTINF:0,Channel 296
+#EXTINF:-1,ESPN Extra HD [Alter]
+#EXTINF:0,Channel 297
+http://csrv.tv:80/123456/123456/2377
+#EXTINF:0,Channel 298
+#EXTINF:-1,ESPN Extra SD
+#EXTINF:0,Channel 299
+http://csrv.tv:80/123456/123456/1843
+#EXTINF:0,Channel 300
+#EXTINF:-1,ESPN HD
+#EXTINF:0,Channel 301
+http://csrv.tv:80/123456/123456/1841
+#EXTINF:0,Channel 302
+#EXTINF:-1,ESPN HD [Alter]
+#EXTINF:0,Channel 303
+http://csrv.tv:80/123456/123456/2376
+#EXTINF:0,Channel 304
+#EXTINF:-1,ESPN SD
+#EXTINF:0,Channel 305
+http://csrv.tv:80/123456/123456/1848
+#EXTINF:0,Channel 306
+#EXTINF:-1,ESPN SD [Alter]
+#EXTINF:0,Channel 307
+http://csrv.tv:80/123456/123456/2194
+#EXTINF:0,Channel 308
+#EXTINF:-1,Eu a Patroa e as Criancas [24H]
+#EXTINF:0,Channel 309
+http://csrv.tv:80/123456/123456/2054
+#EXTINF:0,Channel 310
+#EXTINF:-1,Film & Arts SD
+#EXTINF:0,Channel 311
+http://csrv.tv:80/123456/123456/1666
+#EXTINF:0,Channel 312
+#EXTINF:-1,Fish TV HD
+#EXTINF:0,Channel 313
+http://csrv.tv:80/123456/123456/1839
+#EXTINF:0,Channel 314
+#EXTINF:-1,Fish TV SD
+#EXTINF:0,Channel 315
+http://csrv.tv:80/123456/123456/1840
+#EXTINF:0,Channel 316
+#EXTINF:-1,Fish TV SD [Alter]
+#EXTINF:0,Channel 317
+http://csrv.tv:80/123456/123456/2109
+#EXTINF:0,Channel 318
+#EXTINF:-1,Food Network HD
+#EXTINF:0,Channel 319
+http://csrv.tv:80/123456/123456/1837
+#EXTINF:0,Channel 320
+#EXTINF:-1,Food Network HD [Alter]
+#EXTINF:0,Channel 321
+http://csrv.tv:80/123456/123456/2375
+#EXTINF:0,Channel 322
+#EXTINF:-1,Food Network SD
+#EXTINF:0,Channel 323
+http://csrv.tv:80/123456/123456/1838
+#EXTINF:0,Channel 324
+#EXTINF:-1,Food Network SD [Alter]
+#EXTINF:0,Channel 325
+http://csrv.tv:80/123456/123456/2125
+#EXTINF:0,Channel 326
+#EXTINF:-1,Formiga Atomica [24H]
+#EXTINF:0,Channel 327
+http://csrv.tv:80/123456/123456/2039
+#EXTINF:0,Channel 328
+#EXTINF:-1,FOX HD
+#EXTINF:0,Channel 329
+http://csrv.tv:80/123456/123456/1835
+#EXTINF:0,Channel 330
+#EXTINF:-1,FOX HD [Alter]
+#EXTINF:0,Channel 331
+http://csrv.tv:80/123456/123456/2374
+#EXTINF:0,Channel 332
+#EXTINF:-1,FOX Life HD
+#EXTINF:0,Channel 333
+http://csrv.tv:80/123456/123456/1833
+#EXTINF:0,Channel 334
+#EXTINF:-1,FOX Life HD [Alter]
+#EXTINF:0,Channel 335
+http://csrv.tv:80/123456/123456/2373
+#EXTINF:0,Channel 336
+#EXTINF:-1,FOX Life SD
+#EXTINF:0,Channel 337
+http://csrv.tv:80/123456/123456/1834
+#EXTINF:0,Channel 338
+#EXTINF:-1,FOX Life SD [Alter]
+#EXTINF:0,Channel 339
+http://csrv.tv:80/123456/123456/2193
+#EXTINF:0,Channel 340
+#EXTINF:-1,FOX Premium 1 HD
+#EXTINF:0,Channel 341
+http://csrv.tv:80/123456/123456/1831
+#EXTINF:0,Channel 342
+#EXTINF:-1,FOX Premium 1 HD [Alter]
+#EXTINF:0,Channel 343
+http://csrv.tv:80/123456/123456/2372
+#EXTINF:0,Channel 344
+#EXTINF:-1,FOX Premium 1 SD
+#EXTINF:0,Channel 345
+http://csrv.tv:80/123456/123456/1832
+#EXTINF:0,Channel 346
+#EXTINF:-1,FOX Premium 2 HD
+#EXTINF:0,Channel 347
+http://csrv.tv:80/123456/123456/1829
+#EXTINF:0,Channel 348
+#EXTINF:-1,FOX Premium 2 HD [Alter]
+#EXTINF:0,Channel 349
+http://csrv.tv:80/123456/123456/2371
+#EXTINF:0,Channel 350
+#EXTINF:-1,FOX Premium 2 SD
+#EXTINF:0,Channel 351
+http://csrv.tv:80/123456/123456/1830
+#EXTINF:0,Channel 352
+#EXTINF:-1,FOX SD
+#EXTINF:0,Channel 353
+http://csrv.tv:80/123456/123456/1836
+#EXTINF:0,Channel 354
+#EXTINF:-1,FOX SD [Alter]
+#EXTINF:0,Channel 355
+http://csrv.tv:80/123456/123456/2192
+#EXTINF:0,Channel 356
+#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:0,Channel 357
+http://csrv.tv:80/123456/123456/1825
+#EXTINF:0,Channel 358
+#EXTINF:-1,FOX Sports 2 HD [Alter]
+#EXTINF:0,Channel 359
+http://csrv.tv:80/123456/123456/2370
+#EXTINF:0,Channel 360
+#EXTINF:-1,FOX Sports 2 SD
+#EXTINF:0,Channel 361
+http://csrv.tv:80/123456/123456/1826
+#EXTINF:0,Channel 362
+#EXTINF:-1,FOX Sports 2 SD [Alter]
+#EXTINF:0,Channel 363
+http://csrv.tv:80/123456/123456/2191
+#EXTINF:0,Channel 364
+#EXTINF:-1,FOX Sports HD
+#EXTINF:0,Channel 365
+http://csrv.tv:80/123456/123456/1827
+#EXTINF:0,Channel 366
+#EXTINF:-1,FOX Sports HD [Alter]
+#EXTINF:0,Channel 367
+http://csrv.tv:80/123456/123456/2369
+#EXTINF:0,Channel 368
+#EXTINF:-1,FOX Sports SD
+#EXTINF:0,Channel 369
+http://csrv.tv:80/123456/123456/1828
+#EXTINF:0,Channel 370
+#EXTINF:-1,FOX Sports SD [Alter]
+#EXTINF:0,Channel 371
+http://csrv.tv:80/123456/123456/2190
+#EXTINF:0,Channel 372
+#EXTINF:-1,Futura HD
+#EXTINF:0,Channel 373
+http://csrv.tv:80/123456/123456/1823
+#EXTINF:0,Channel 374
+#EXTINF:-1,Futura SD
+#EXTINF:0,Channel 375
+http://csrv.tv:80/123456/123456/1824
+#EXTINF:0,Channel 376
+#EXTINF:-1,Futura SD [Alter]
+#EXTINF:0,Channel 377
+http://csrv.tv:80/123456/123456/2189
+#EXTINF:0,Channel 378
+#EXTINF:-1,FX HD
+#EXTINF:0,Channel 379
+http://csrv.tv:80/123456/123456/1821
+#EXTINF:0,Channel 380
+#EXTINF:-1,FX HD [Alter]
+#EXTINF:0,Channel 381
+http://csrv.tv:80/123456/123456/2368
+#EXTINF:0,Channel 382
+#EXTINF:-1,FX SD
+#EXTINF:0,Channel 383
+http://csrv.tv:80/123456/123456/1822
+#EXTINF:0,Channel 384
+#EXTINF:-1,FX SD [Alter]
+#EXTINF:0,Channel 385
+http://csrv.tv:80/123456/123456/2118
+#EXTINF:0,Channel 386
+#EXTINF:-1,Galinha Pintadinha [24H]
+#EXTINF:0,Channel 387
+http://csrv.tv:80/123456/123456/2087
+#EXTINF:0,Channel 388
+#EXTINF:-1,GloboEsporte.com HD
+#EXTINF:0,Channel 389
+http://csrv.tv:80/123456/123456/28653
+#EXTINF:0,Channel 390
+#EXTINF:-1,Globo Brasilia HD
+#EXTINF:0,Channel 391
+http://csrv.tv:80/123456/123456/1638
+#EXTINF:0,Channel 392
+#EXTINF:-1,Globo Brasilia SD
+#EXTINF:0,Channel 393
+http://csrv.tv:80/123456/123456/1639
+#EXTINF:0,Channel 394
+#EXTINF:-1,Globo Brasilia SD [Alter]
+#EXTINF:0,Channel 395
+http://csrv.tv:80/123456/123456/2410
+#EXTINF:0,Channel 396
+#EXTINF:-1,Globo EPTV Araraquara SD
+#EXTINF:0,Channel 397
+http://csrv.tv:80/123456/123456/1637
+#EXTINF:0,Channel 398
+#EXTINF:-1,Globo EPTV Campinas HD
+#EXTINF:0,Channel 399
+http://csrv.tv:80/123456/123456/1635
+#EXTINF:0,Channel 400
+#EXTINF:-1,Globo EPTV Campinas SD
+#EXTINF:0,Channel 401
+http://csrv.tv:80/123456/123456/1636
+#EXTINF:0,Channel 402
+#EXTINF:-1,Globo EPTV Campinas SD [Alter]
+#EXTINF:0,Channel 403
+http://csrv.tv:80/123456/123456/2409
+#EXTINF:0,Channel 404
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+#EXTINF:0,Channel 405
+http://csrv.tv:80/123456/123456/1634
+#EXTINF:0,Channel 406
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+#EXTINF:0,Channel 407
+http://csrv.tv:80/123456/123456/1633
+#EXTINF:0,Channel 408
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter]
+#EXTINF:0,Channel 409
+http://csrv.tv:80/123456/123456/2408
+#EXTINF:0,Channel 410
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+#EXTINF:0,Channel 411
+http://csrv.tv:80/123456/123456/1632
+#EXTINF:0,Channel 412
+#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter]
+#EXTINF:0,Channel 413
+http://csrv.tv:80/123456/123456/2407
+#EXTINF:0,Channel 414
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+#EXTINF:0,Channel 415
+http://csrv.tv:80/123456/123456/1561
+#EXTINF:0,Channel 416
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+#EXTINF:0,Channel 417
+http://csrv.tv:80/123456/123456/1560
+#EXTINF:0,Channel 418
+#EXTINF:-1,Globo Inter TV dos Vales HD
+#EXTINF:0,Channel 419
+http://csrv.tv:80/123456/123456/1558
+#EXTINF:0,Channel 420
+#EXTINF:-1,Globo Inter TV dos Vales SD
+#EXTINF:0,Channel 421
+http://csrv.tv:80/123456/123456/1557
+#EXTINF:0,Channel 422
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+#EXTINF:0,Channel 423
+http://csrv.tv:80/123456/123456/1555
+#EXTINF:0,Channel 424
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+#EXTINF:0,Channel 425
+http://csrv.tv:80/123456/123456/1554
+#EXTINF:0,Channel 426
+#EXTINF:-1,Globo Inter TV Natal SD
+#EXTINF:0,Channel 427
+http://csrv.tv:80/123456/123456/1631
+#EXTINF:0,Channel 428
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+#EXTINF:0,Channel 429
+http://csrv.tv:80/123456/123456/1552
+#EXTINF:0,Channel 430
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+#EXTINF:0,Channel 431
+http://csrv.tv:80/123456/123456/1551
+#EXTINF:0,Channel 432
+#EXTINF:-1,Globo Internacional HD
+#EXTINF:0,Channel 433
+http://csrv.tv:80/123456/123456/1599
+#EXTINF:0,Channel 434
+#EXTINF:-1,Globo Minas HD
+#EXTINF:0,Channel 435
+http://csrv.tv:80/123456/123456/1629
+#EXTINF:0,Channel 436
+#EXTINF:-1,Globo Minas HD [Alter]
+#EXTINF:0,Channel 437
+http://csrv.tv:80/123456/123456/2414
+#EXTINF:0,Channel 438
+#EXTINF:-1,Globo Minas SD
+#EXTINF:0,Channel 439
+http://csrv.tv:80/123456/123456/1630
+#EXTINF:0,Channel 440
+#EXTINF:-1,Globo Minas SD [Alter]
+#EXTINF:0,Channel 441
+http://csrv.tv:80/123456/123456/2406
+#EXTINF:0,Channel 442
+#EXTINF:-1,Globo News HD
+#EXTINF:0,Channel 443
+http://csrv.tv:80/123456/123456/1819
+#EXTINF:0,Channel 444
+#EXTINF:-1,Globo News HD [Alter]
+#EXTINF:0,Channel 445
+http://csrv.tv:80/123456/123456/2367
+#EXTINF:0,Channel 446
+#EXTINF:-1,Globo News SD
+#EXTINF:0,Channel 447
+http://csrv.tv:80/123456/123456/1820
+#EXTINF:0,Channel 448
+#EXTINF:-1,Globo News SD [Alter]
+#EXTINF:0,Channel 449
+http://csrv.tv:80/123456/123456/2132
+#EXTINF:0,Channel 450
+#EXTINF:-1,Globo Nordeste HD
+#EXTINF:0,Channel 451
+http://csrv.tv:80/123456/123456/1627
+#EXTINF:0,Channel 452
+#EXTINF:-1,Globo Nordeste SD
+#EXTINF:0,Channel 453
+http://csrv.tv:80/123456/123456/1628
+#EXTINF:0,Channel 454
+#EXTINF:-1,Globo Nordeste SD [Alter]
+#EXTINF:0,Channel 455
+http://csrv.tv:80/123456/123456/2405
+#EXTINF:0,Channel 456
+#EXTINF:-1,Globo NSC TV Blumenau HD
+#EXTINF:0,Channel 457
+http://csrv.tv:80/123456/123456/1549
+#EXTINF:0,Channel 458
+#EXTINF:-1,Globo NSC TV Blumenau SD
+#EXTINF:0,Channel 459
+http://csrv.tv:80/123456/123456/1548
+#EXTINF:0,Channel 460
+#EXTINF:-1,Globo NSC TV Chapeco HD
+#EXTINF:0,Channel 461
+http://csrv.tv:80/123456/123456/1597
+#EXTINF:0,Channel 462
+#EXTINF:-1,Globo NSC TV Chapeco SD
+#EXTINF:0,Channel 463
+http://csrv.tv:80/123456/123456/1596
+#EXTINF:0,Channel 464
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+#EXTINF:0,Channel 465
+http://csrv.tv:80/123456/123456/1625
+#EXTINF:0,Channel 466
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+#EXTINF:0,Channel 467
+http://csrv.tv:80/123456/123456/1626
+#EXTINF:0,Channel 468
+#EXTINF:-1,Globo NSC TV Joinville HD
+#EXTINF:0,Channel 469
+http://csrv.tv:80/123456/123456/1543
+#EXTINF:0,Channel 470
+#EXTINF:-1,Globo NSC TV Joinville SD
+#EXTINF:0,Channel 471
+http://csrv.tv:80/123456/123456/1542
+#EXTINF:0,Channel 472
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+#EXTINF:0,Channel 473
+http://csrv.tv:80/123456/123456/1546
+#EXTINF:0,Channel 474
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+#EXTINF:0,Channel 475
+http://csrv.tv:80/123456/123456/1545
+#EXTINF:0,Channel 476
+#EXTINF:-1,Globo RBS TV Pelotas HD
+#EXTINF:0,Channel 477
+http://csrv.tv:80/123456/123456/1540
+#EXTINF:0,Channel 478
+#EXTINF:-1,Globo RBS TV Pelotas SD
+#EXTINF:0,Channel 479
+http://csrv.tv:80/123456/123456/1539
+#EXTINF:0,Channel 480
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+#EXTINF:0,Channel 481
+http://csrv.tv:80/123456/123456/1623
+#EXTINF:0,Channel 482
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+#EXTINF:0,Channel 483
+http://csrv.tv:80/123456/123456/1624
+#EXTINF:0,Channel 484
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter]
+#EXTINF:0,Channel 485
+http://csrv.tv:80/123456/123456/2404
+#EXTINF:0,Channel 486
+#EXTINF:-1,Globo Rede AM. Manaus SD
+#EXTINF:0,Channel 487
+http://csrv.tv:80/123456/123456/1622
+#EXTINF:0,Channel 488
+#EXTINF:-1,Globo RJ HD
+#EXTINF:0,Channel 489
+http://csrv.tv:80/123456/123456/1620
+#EXTINF:0,Channel 490
+#EXTINF:-1,Globo RJ HD [Alter]
+#EXTINF:0,Channel 491
+http://csrv.tv:80/123456/123456/2413
+#EXTINF:0,Channel 492
+#EXTINF:-1,Globo RJ SD
+#EXTINF:0,Channel 493
+http://csrv.tv:80/123456/123456/1621
+#EXTINF:0,Channel 494
+#EXTINF:-1,Globo RJ SD [Alter]
+#EXTINF:0,Channel 495
+http://csrv.tv:80/123456/123456/2403
+#EXTINF:0,Channel 496
+#EXTINF:-1,Globo RPC Curitiba HD
+#EXTINF:0,Channel 497
+http://csrv.tv:80/123456/123456/1617
+#EXTINF:0,Channel 498
+#EXTINF:-1,Globo RPC Curitiba SD
+#EXTINF:0,Channel 499
+http://csrv.tv:80/123456/123456/1618
+#EXTINF:0,Channel 500
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+#EXTINF:0,Channel 501
+http://csrv.tv:80/123456/123456/1593
+#EXTINF:0,Channel 502
+#EXTINF:-1,Globo RPC Foz do Iguacu SD
+#EXTINF:0,Channel 503
+http://csrv.tv:80/123456/123456/1595
+#EXTINF:0,Channel 504
+#EXTINF:-1,Globo SP HD
+#EXTINF:0,Channel 505
+http://csrv.tv:80/123456/123456/1614
+#EXTINF:0,Channel 506
+#EXTINF:-1,Globo SP HD [Alter]
+#EXTINF:0,Channel 507
+http://csrv.tv:80/123456/123456/2311
+#EXTINF:0,Channel 508
+#EXTINF:-1,Globo SP SD
+#EXTINF:0,Channel 509
+http://csrv.tv:80/123456/123456/1615
+#EXTINF:0,Channel 510
+#EXTINF:-1,Globo SP SD [Alter]
+#EXTINF:0,Channel 511
+http://csrv.tv:80/123456/123456/2127
+#EXTINF:0,Channel 512
+#EXTINF:-1,Globo TV Anhanguera HD
+#EXTINF:0,Channel 513
+http://csrv.tv:80/123456/123456/1611
+#EXTINF:0,Channel 514
+#EXTINF:-1,Globo TV Anhanguera SD
+#EXTINF:0,Channel 515
+http://csrv.tv:80/123456/123456/1612
+#EXTINF:0,Channel 516
+#EXTINF:-1,Globo TV Bahia HD
+#EXTINF:0,Channel 517
+http://csrv.tv:80/123456/123456/1609
+#EXTINF:0,Channel 518
+#EXTINF:-1,Globo TV Bahia SD
+#EXTINF:0,Channel 519
+http://csrv.tv:80/123456/123456/1610
+#EXTINF:0,Channel 520
+#EXTINF:-1,Globo TV C. America Cuiaba SD
+#EXTINF:0,Channel 521
+http://csrv.tv:80/123456/123456/1608
+#EXTINF:0,Channel 522
+#EXTINF:-1,Globo TV Cabo Branco HD
+#EXTINF:0,Channel 523
+http://csrv.tv:80/123456/123456/1537
+#EXTINF:0,Channel 524
+#EXTINF:-1,Globo TV Cabo Branco SD
+#EXTINF:0,Channel 525
+http://csrv.tv:80/123456/123456/1536
+#EXTINF:0,Channel 526
+#EXTINF:-1,Globo TV Clube Teresina HD
+#EXTINF:0,Channel 527
+http://csrv.tv:80/123456/123456/1590
+#EXTINF:0,Channel 528
+#EXTINF:-1,Globo TV Clube Teresina SD
+#EXTINF:0,Channel 529
+http://csrv.tv:80/123456/123456/1592
+#EXTINF:0,Channel 530
+#EXTINF:-1,Globo TV Diario Fortaleza HD
+#EXTINF:0,Channel 531
+http://csrv.tv:80/123456/123456/1659
+#EXTINF:0,Channel 532
+#EXTINF:-1,Globo TV Diario Fortaleza SD
+#EXTINF:0,Channel 533
+http://csrv.tv:80/123456/123456/1658
+#EXTINF:0,Channel 534
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+#EXTINF:0,Channel 535
+http://csrv.tv:80/123456/123456/1566
+#EXTINF:0,Channel 536
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+#EXTINF:0,Channel 537
+http://csrv.tv:80/123456/123456/1568
+#EXTINF:0,Channel 538
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+#EXTINF:0,Channel 539
+http://csrv.tv:80/123456/123456/1564
+#EXTINF:0,Channel 540
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+#EXTINF:0,Channel 541
+http://csrv.tv:80/123456/123456/1587
+#EXTINF:0,Channel 542
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+#EXTINF:0,Channel 543
+http://csrv.tv:80/123456/123456/1589
+#EXTINF:0,Channel 544
+#EXTINF:-1,Globo TV Liberal Belem SD
+#EXTINF:0,Channel 545
+http://csrv.tv:80/123456/123456/1607
+#EXTINF:0,Channel 546
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+#EXTINF:0,Channel 547
+http://csrv.tv:80/123456/123456/1574
+#EXTINF:0,Channel 548
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+#EXTINF:0,Channel 549
+http://csrv.tv:80/123456/123456/1573
+#EXTINF:0,Channel 550
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+#EXTINF:0,Channel 551
+http://csrv.tv:80/123456/123456/1571
+#EXTINF:0,Channel 552
+#EXTINF:-1,Globo TV Morena Campo Grande SD
+#EXTINF:0,Channel 553
+http://csrv.tv:80/123456/123456/1570
+#EXTINF:0,Channel 554
+#EXTINF:-1,Globo TV Rio Sul HD
+#EXTINF:0,Channel 555
+http://csrv.tv:80/123456/123456/1534
+#EXTINF:0,Channel 556
+#EXTINF:-1,Globo TV Rio Sul SD
+#EXTINF:0,Channel 557
+http://csrv.tv:80/123456/123456/1533
+#EXTINF:0,Channel 558
+#EXTINF:-1,Globo TV Santa Cruz HD
+#EXTINF:0,Channel 559
+http://csrv.tv:80/123456/123456/1531
+#EXTINF:0,Channel 560
+#EXTINF:-1,Globo TV Santa Cruz SD
+#EXTINF:0,Channel 561
+http://csrv.tv:80/123456/123456/1530
+#EXTINF:0,Channel 562
+#EXTINF:-1,Globo TV Sergipe HD
+#EXTINF:0,Channel 563
+http://csrv.tv:80/123456/123456/1584
+#EXTINF:0,Channel 564
+#EXTINF:-1,Globo TV Sergipe SD
+#EXTINF:0,Channel 565
+http://csrv.tv:80/123456/123456/1586
+#EXTINF:0,Channel 566
+#EXTINF:-1,Globo TV Tem Bauru SD
+#EXTINF:0,Channel 567
+http://csrv.tv:80/123456/123456/1606
+#EXTINF:0,Channel 568
+#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD
+#EXTINF:0,Channel 569
+http://csrv.tv:80/123456/123456/1604
+#EXTINF:0,Channel 570
+#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD
+#EXTINF:0,Channel 571
+http://csrv.tv:80/123456/123456/1603
+#EXTINF:0,Channel 572
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+#EXTINF:0,Channel 573
+http://csrv.tv:80/123456/123456/1605
+#EXTINF:0,Channel 574
+#EXTINF:-1,Globo TV Tribuna Santos SD
+#EXTINF:0,Channel 575
+http://csrv.tv:80/123456/123456/1602
+#EXTINF:0,Channel 576
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD
+#EXTINF:0,Channel 577
+http://csrv.tv:80/123456/123456/1601
+#EXTINF:0,Channel 578
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+#EXTINF:0,Channel 579
+http://csrv.tv:80/123456/123456/1600
+#EXTINF:0,Channel 580
+#EXTINF:-1,Gloob HD
+#EXTINF:0,Channel 581
+http://csrv.tv:80/123456/123456/1817
+#EXTINF:0,Channel 582
+#EXTINF:-1,Gloob HD [Alter]
+#EXTINF:0,Channel 583
+http://csrv.tv:80/123456/123456/2365
+#EXTINF:0,Channel 584
+#EXTINF:-1,Gloob SD
+#EXTINF:0,Channel 585
+http://csrv.tv:80/123456/123456/1818
+#EXTINF:0,Channel 586
+#EXTINF:-1,Gloob SD [Alter]
+#EXTINF:0,Channel 587
+http://csrv.tv:80/123456/123456/2187
+#EXTINF:0,Channel 588
+#EXTINF:-1,Gloobinho HD
+#EXTINF:0,Channel 589
+http://csrv.tv:80/123456/123456/1816
+#EXTINF:0,Channel 590
+#EXTINF:-1,Gloobinho SD
+#EXTINF:0,Channel 591
+http://csrv.tv:80/123456/123456/1815
+#EXTINF:0,Channel 592
+#EXTINF:-1,GNT HD
+#EXTINF:0,Channel 593
+http://csrv.tv:80/123456/123456/1813
+#EXTINF:0,Channel 594
+#EXTINF:-1,GNT HD [Alter]
+#EXTINF:0,Channel 595
+http://csrv.tv:80/123456/123456/2364
+#EXTINF:0,Channel 596
+#EXTINF:-1,GNT SD
+#EXTINF:0,Channel 597
+http://csrv.tv:80/123456/123456/1814
+#EXTINF:0,Channel 598
+#EXTINF:-1,GNT SD [Alter]
+#EXTINF:0,Channel 599
+http://csrv.tv:80/123456/123456/2120
+#EXTINF:0,Channel 600
+#EXTINF:-1,Gospel Cartoon [24H]
+#EXTINF:0,Channel 601
+http://csrv.tv:80/123456/123456/2086
+#EXTINF:0,Channel 602
+#EXTINF:-1,Guardioes da Galaxia [24H]
+#EXTINF:0,Channel 603
+http://csrv.tv:80/123456/123456/2040
+#EXTINF:0,Channel 604
+#EXTINF:-1,H2 HD
+#EXTINF:0,Channel 605
+http://csrv.tv:80/123456/123456/1811
+#EXTINF:0,Channel 606
+#EXTINF:-1,H2 HD [Alter]
+#EXTINF:0,Channel 607
+http://csrv.tv:80/123456/123456/2363
+#EXTINF:0,Channel 608
+#EXTINF:-1,H2 SD
+#EXTINF:0,Channel 609
+http://csrv.tv:80/123456/123456/1812
+#EXTINF:0,Channel 610
+#EXTINF:-1,H2 SD [Alter]
+#EXTINF:0,Channel 611
+http://csrv.tv:80/123456/123456/2186
+#EXTINF:0,Channel 612
+#EXTINF:-1,HBO 2 HD
+#EXTINF:0,Channel 613
+http://csrv.tv:80/123456/123456/1808
+#EXTINF:0,Channel 614
+#EXTINF:-1,HBO 2 HD [Alter]
+#EXTINF:0,Channel 615
+http://csrv.tv:80/123456/123456/2362
+#EXTINF:0,Channel 616
+#EXTINF:-1,HBO 2 SD
+#EXTINF:0,Channel 617
+http://csrv.tv:80/123456/123456/1809
+#EXTINF:0,Channel 618
+#EXTINF:-1,HBO 2 SD [Alter]
+#EXTINF:0,Channel 619
+http://csrv.tv:80/123456/123456/2126
+#EXTINF:0,Channel 620
+#EXTINF:-1,HBO Family HD
+#EXTINF:0,Channel 621
+http://csrv.tv:80/123456/123456/1806
+#EXTINF:0,Channel 622
+#EXTINF:-1,HBO Family HD [Alter]
+#EXTINF:0,Channel 623
+http://csrv.tv:80/123456/123456/2361
+#EXTINF:0,Channel 624
+#EXTINF:-1,HBO Family SD
+#EXTINF:0,Channel 625
+http://csrv.tv:80/123456/123456/1807
+#EXTINF:0,Channel 626
+#EXTINF:-1,HBO Family SD [Alter]
+#EXTINF:0,Channel 627
+http://csrv.tv:80/123456/123456/2185
+#EXTINF:0,Channel 628
+#EXTINF:-1,HBO HD
+#EXTINF:0,Channel 629
+http://csrv.tv:80/123456/123456/1805
+#EXTINF:0,Channel 630
+#EXTINF:-1,HBO HD [Alter]
+#EXTINF:0,Channel 631
+http://csrv.tv:80/123456/123456/2360
+#EXTINF:0,Channel 632
+#EXTINF:-1,HBO Plus E SD [Alter]
+#EXTINF:0,Channel 633
+http://csrv.tv:80/123456/123456/2184
+#EXTINF:0,Channel 634
+#EXTINF:-1,HBO Plus HD
+#EXTINF:0,Channel 635
+http://csrv.tv:80/123456/123456/1803
+#EXTINF:0,Channel 636
+#EXTINF:-1,HBO Plus HD [Alter]
+#EXTINF:0,Channel 637
+http://csrv.tv:80/123456/123456/2359
+#EXTINF:0,Channel 638
+#EXTINF:-1,HBO Plus SD
+#EXTINF:0,Channel 639
+http://csrv.tv:80/123456/123456/1804
+#EXTINF:0,Channel 640
+#EXTINF:-1,HBO Plus SD [Alter]
+#EXTINF:0,Channel 641
+http://csrv.tv:80/123456/123456/2183
+#EXTINF:0,Channel 642
+#EXTINF:-1,HBO SD
+#EXTINF:0,Channel 643
+http://csrv.tv:80/123456/123456/1810
+#EXTINF:0,Channel 644
+#EXTINF:-1,HBO SD [Alter]
+#EXTINF:0,Channel 645
+http://csrv.tv:80/123456/123456/2182
+#EXTINF:0,Channel 646
+#EXTINF:-1,HBO Signature HD
+#EXTINF:0,Channel 647
+http://csrv.tv:80/123456/123456/1801
+#EXTINF:0,Channel 648
+#EXTINF:-1,HBO Signature HD [Alter]
+#EXTINF:0,Channel 649
+http://csrv.tv:80/123456/123456/2358
+#EXTINF:0,Channel 650
+#EXTINF:-1,HBO Signature SD
+#EXTINF:0,Channel 651
+http://csrv.tv:80/123456/123456/1802
+#EXTINF:0,Channel 652
+#EXTINF:-1,HBO Signature SD [Alter]
+#EXTINF:0,Channel 653
+http://csrv.tv:80/123456/123456/2181
+#EXTINF:0,Channel 654
+#EXTINF:-1,He-Man [24H]
+#EXTINF:0,Channel 655
+http://csrv.tv:80/123456/123456/2085
+#EXTINF:0,Channel 656
+#EXTINF:-1,Hércules [24H]
+#EXTINF:0,Channel 657
+http://csrv.tv:80/123456/123456/2026
+#EXTINF:0,Channel 658
+#EXTINF:-1,Historias da Disney [24H]
+#EXTINF:0,Channel 659
+http://csrv.tv:80/123456/123456/2084
+#EXTINF:0,Channel 660
+#EXTINF:-1,History Channel HD
+#EXTINF:0,Channel 661
+http://csrv.tv:80/123456/123456/1799
+#EXTINF:0,Channel 662
+#EXTINF:-1,History Channel HD [Alter]
+#EXTINF:0,Channel 663
+http://csrv.tv:80/123456/123456/2320
+#EXTINF:0,Channel 664
+#EXTINF:-1,History Channel SD
+#EXTINF:0,Channel 665
+http://csrv.tv:80/123456/123456/1800
+#EXTINF:0,Channel 666
+#EXTINF:-1,History Channel SD [Alter]
+#EXTINF:0,Channel 667
+http://csrv.tv:80/123456/123456/2143
+#EXTINF:0,Channel 668
+#EXTINF:-1,Homem de Ferro [24H]
+#EXTINF:0,Channel 669
+http://csrv.tv:80/123456/123456/2036
+#EXTINF:0,Channel 670
+#EXTINF:-1,Homem-Aranha [24H]
+#EXTINF:0,Channel 671
+http://csrv.tv:80/123456/123456/2083
+#EXTINF:0,Channel 672
+#EXTINF:-1,Incrivel Hulk [24H]
+#EXTINF:0,Channel 673
+http://csrv.tv:80/123456/123456/2038
+#EXTINF:0,Channel 674
+#EXTINF:-1,Investigation Discovery HD
+#EXTINF:0,Channel 675
+http://csrv.tv:80/123456/123456/1797
+#EXTINF:0,Channel 676
+#EXTINF:-1,Investigation Discovery HD [Alter]
+#EXTINF:0,Channel 677
+http://csrv.tv:80/123456/123456/2357
+#EXTINF:0,Channel 678
+#EXTINF:-1,Investigation Discovery SD
+#EXTINF:0,Channel 679
+http://csrv.tv:80/123456/123456/1798
+#EXTINF:0,Channel 680
+#EXTINF:-1,Investigation Discovery SD [Alter]
+#EXTINF:0,Channel 681
+http://csrv.tv:80/123456/123456/2119
+#EXTINF:0,Channel 682
+#EXTINF:-1,Jack-Chan [24H]
+#EXTINF:0,Channel 683
+http://csrv.tv:80/123456/123456/2052
+#EXTINF:0,Channel 684
+#EXTINF:-1,Jaspion [24H]
+#EXTINF:0,Channel 685
+http://csrv.tv:80/123456/123456/2082
+#EXTINF:0,Channel 686
+#EXTINF:-1,Jerusalem [Camera]
+#EXTINF:0,Channel 687
+http://csrv.tv:80/123456/123456/2430
+#EXTINF:0,Channel 688
+#EXTINF:-1,Jiraya [24H]
+#EXTINF:0,Channel 689
+http://csrv.tv:80/123456/123456/2081
+#EXTINF:0,Channel 690
+#EXTINF:-1,Kenan e Kel [24H]
+#EXTINF:0,Channel 691
+http://csrv.tv:80/123456/123456/2044
+#EXTINF:0,Channel 692
+#EXTINF:-1,Lifetime HD
+#EXTINF:0,Channel 693
+http://csrv.tv:80/123456/123456/1795
+#EXTINF:0,Channel 694
+#EXTINF:-1,Lifetime HD [Alter]
+#EXTINF:0,Channel 695
+http://csrv.tv:80/123456/123456/2356
+#EXTINF:0,Channel 696
+#EXTINF:-1,Lifetime SD
+#EXTINF:0,Channel 697
+http://csrv.tv:80/123456/123456/1796
+#EXTINF:0,Channel 698
+#EXTINF:-1,Lifetime SD [Alter]
+#EXTINF:0,Channel 699
+http://csrv.tv:80/123456/123456/2180
+#EXTINF:0,Channel 700
+#EXTINF:-1,Los Angeles [Camera]
+#EXTINF:0,Channel 701
+http://csrv.tv:80/123456/123456/2432
+#EXTINF:0,Channel 702
+#EXTINF:-1,Mais GloboSat HD
+#EXTINF:0,Channel 703
+http://csrv.tv:80/123456/123456/1793
+#EXTINF:0,Channel 704
+#EXTINF:-1,Mais GloboSat HD [Alter]
+#EXTINF:0,Channel 705
+http://csrv.tv:80/123456/123456/2366
+#EXTINF:0,Channel 706
+#EXTINF:-1,Mais GloboSat SD
+#EXTINF:0,Channel 707
+http://csrv.tv:80/123456/123456/1794
+#EXTINF:0,Channel 708
+#EXTINF:-1,Mais GloboSat SD [Alter]
+#EXTINF:0,Channel 709
+http://csrv.tv:80/123456/123456/2188
+#EXTINF:0,Channel 710
+#EXTINF:-1,Maldivas [Camera]
+#EXTINF:0,Channel 711
+http://csrv.tv:80/123456/123456/2422
+#EXTINF:0,Channel 712
+#EXTINF:-1,MAX HD
+#EXTINF:0,Channel 713
+http://csrv.tv:80/123456/123456/1791
+#EXTINF:0,Channel 714
+#EXTINF:-1,MAX HD [Alter]
+#EXTINF:0,Channel 715
+http://csrv.tv:80/123456/123456/2355
+#EXTINF:0,Channel 716
+#EXTINF:-1,MAX Prime HD
+#EXTINF:0,Channel 717
+http://csrv.tv:80/123456/123456/1789
+#EXTINF:0,Channel 718
+#EXTINF:-1,MAX Prime HD [Alter]
+#EXTINF:0,Channel 719
+http://csrv.tv:80/123456/123456/2354
+#EXTINF:0,Channel 720
+#EXTINF:-1,MAX Prime SD
+#EXTINF:0,Channel 721
+http://csrv.tv:80/123456/123456/1790
+#EXTINF:0,Channel 722
+#EXTINF:-1,MAX Prime SD [Alter]
+#EXTINF:0,Channel 723
+http://csrv.tv:80/123456/123456/2179
+#EXTINF:0,Channel 724
+#EXTINF:-1,MAX SD
+#EXTINF:0,Channel 725
+http://csrv.tv:80/123456/123456/1792
+#EXTINF:0,Channel 726
+#EXTINF:-1,MAX SD [Alter]
+#EXTINF:0,Channel 727
+http://csrv.tv:80/123456/123456/2178
+#EXTINF:0,Channel 728
+#EXTINF:-1,MAX Up HD
+#EXTINF:0,Channel 729
+http://csrv.tv:80/123456/123456/1787
+#EXTINF:0,Channel 730
+#EXTINF:-1,MAX Up HD [Alter]
+#EXTINF:0,Channel 731
+http://csrv.tv:80/123456/123456/2353
+#EXTINF:0,Channel 732
+#EXTINF:-1,MAX Up SD
+#EXTINF:0,Channel 733
+http://csrv.tv:80/123456/123456/1788
+#EXTINF:0,Channel 734
+#EXTINF:-1,MTV HD
+#EXTINF:0,Channel 735
+http://csrv.tv:80/123456/123456/1783
+#EXTINF:0,Channel 736
+#EXTINF:-1,MTV HD [Alter]
+#EXTINF:0,Channel 737
+http://csrv.tv:80/123456/123456/2351
+#EXTINF:0,Channel 738
+#EXTINF:-1,MTV Live HD
+#EXTINF:0,Channel 739
+http://csrv.tv:80/123456/123456/1676
+#EXTINF:0,Channel 740
+#EXTINF:-1,MTV Live SD
+#EXTINF:0,Channel 741
+http://csrv.tv:80/123456/123456/1677
+#EXTINF:0,Channel 742
+#EXTINF:-1,MTV SD
+#EXTINF:0,Channel 743
+http://csrv.tv:80/123456/123456/1784
+#EXTINF:0,Channel 744
+#EXTINF:-1,Multishow HD
+#EXTINF:0,Channel 745
+http://csrv.tv:80/123456/123456/1781
+#EXTINF:0,Channel 746
+#EXTINF:-1,Multishow HD [Alter]
+#EXTINF:0,Channel 747
+http://csrv.tv:80/123456/123456/2350
+#EXTINF:0,Channel 748
+#EXTINF:-1,Multishow SD
+#EXTINF:0,Channel 749
+http://csrv.tv:80/123456/123456/1782
+#EXTINF:0,Channel 750
+#EXTINF:-1,Multishow SD [Alter]
+#EXTINF:0,Channel 751
+http://csrv.tv:80/123456/123456/2175
+#EXTINF:0,Channel 752
+#EXTINF:-1,Music Box Brasil HD
+#EXTINF:0,Channel 753
+http://csrv.tv:80/123456/123456/1779
+#EXTINF:0,Channel 754
+#EXTINF:-1,Music Box Brasil SD
+#EXTINF:0,Channel 755
+http://csrv.tv:80/123456/123456/1780
+#EXTINF:0,Channel 756
+#EXTINF:-1,NatGeo HD
+#EXTINF:0,Channel 757
+http://csrv.tv:80/123456/123456/1777
+#EXTINF:0,Channel 758
+#EXTINF:-1,NatGeo HD [Alter]
+#EXTINF:0,Channel 759
+http://csrv.tv:80/123456/123456/2349
+#EXTINF:0,Channel 760
+#EXTINF:-1,NatGeo Kids HD
+#EXTINF:0,Channel 761
+http://csrv.tv:80/123456/123456/1775
+#EXTINF:0,Channel 762
+#EXTINF:-1,NatGeo Kids HD [Alter]
+#EXTINF:0,Channel 763
+http://csrv.tv:80/123456/123456/2348
+#EXTINF:0,Channel 764
+#EXTINF:-1,NatGeo Kids SD
+#EXTINF:0,Channel 765
+http://csrv.tv:80/123456/123456/1776
+#EXTINF:0,Channel 766
+#EXTINF:-1,NatGeo Kids SD [Alter]
+#EXTINF:0,Channel 767
+http://csrv.tv:80/123456/123456/2174
+#EXTINF:0,Channel 768
+#EXTINF:-1,NatGeo SD
+#EXTINF:0,Channel 769
+http://csrv.tv:80/123456/123456/1778
+#EXTINF:0,Channel 770
+#EXTINF:-1,NatGeo SD [Alter]
+#EXTINF:0,Channel 771
+http://csrv.tv:80/123456/123456/2173
+#EXTINF:0,Channel 772
+#EXTINF:-1,NatGeo Wild HD
+#EXTINF:0,Channel 773
+http://csrv.tv:80/123456/123456/1774
+#EXTINF:0,Channel 774
+#EXTINF:-1,NatGeo Wild HD [Alter]
+#EXTINF:0,Channel 775
+http://csrv.tv:80/123456/123456/2347
+#EXTINF:0,Channel 776
+#EXTINF:-1,NatGeo Wild SD
+#EXTINF:0,Channel 777
+http://csrv.tv:80/123456/123456/1773
+#EXTINF:0,Channel 778
+#EXTINF:-1,NatGeo Wild SD [Alter]
+#EXTINF:0,Channel 779
+http://csrv.tv:80/123456/123456/2172
+#EXTINF:0,Channel 780
+#EXTINF:-1,NBR SD
+#EXTINF:0,Channel 781
+http://csrv.tv:80/123456/123456/1772
+#EXTINF:0,Channel 782
+#EXTINF:-1,New York City [Camera]
+#EXTINF:0,Channel 783
+http://csrv.tv:80/123456/123456/2418
+#EXTINF:0,Channel 784
+#EXTINF:-1,Nick Jr HD
+#EXTINF:0,Channel 785
+http://csrv.tv:80/123456/123456/1770
+#EXTINF:0,Channel 786
+#EXTINF:-1,Nick Jr HD [Alter]
+#EXTINF:0,Channel 787
+http://csrv.tv:80/123456/123456/2346
+#EXTINF:0,Channel 788
+#EXTINF:-1,Nick Jr SD
+#EXTINF:0,Channel 789
+http://csrv.tv:80/123456/123456/1771
+#EXTINF:0,Channel 790
+#EXTINF:-1,Nick Jr SD [Alter]
+#EXTINF:0,Channel 791
+http://csrv.tv:80/123456/123456/2171
+#EXTINF:0,Channel 792
+#EXTINF:-1,Nickelodeon HD
+#EXTINF:0,Channel 793
+http://csrv.tv:80/123456/123456/1768
+#EXTINF:0,Channel 794
+#EXTINF:-1,Nickelodeon HD [Alter]
+#EXTINF:0,Channel 795
+http://csrv.tv:80/123456/123456/2345
+#EXTINF:0,Channel 796
+#EXTINF:-1,Nickelodeon SD
+#EXTINF:0,Channel 797
+http://csrv.tv:80/123456/123456/1769
+#EXTINF:0,Channel 798
+#EXTINF:-1,Nickelodeon SD [Alter]
+#EXTINF:0,Channel 799
+http://csrv.tv:80/123456/123456/2170
+#EXTINF:0,Channel 800
+#EXTINF:-1,Play TV SD [Alter]
+#EXTINF:0,Channel 801
+http://csrv.tv:80/123456/123456/2167
+#EXTINF:0,Channel 802
+#EXTINF:-1,[+18] Playboy HD
+#EXTINF:0,Channel 803
+http://csrv.tv:80/123456/123456/1649
+#EXTINF:0,Channel 804
+#EXTINF:-1,[+18] Playboy HD [Alter]
+#EXTINF:0,Channel 805
+http://csrv.tv:80/123456/123456/2309
+#EXTINF:0,Channel 806
+#EXTINF:-1,[+18] Playboy SD
+#EXTINF:0,Channel 807
+http://csrv.tv:80/123456/123456/1650
+#EXTINF:0,Channel 808
+#EXTINF:-1,[+18] Playboy SD [Alter]
+#EXTINF:0,Channel 809
+http://csrv.tv:80/123456/123456/2166
+#EXTINF:0,Channel 810
+#EXTINF:-1,PlayKids HD
+#EXTINF:0,Channel 811
+http://csrv.tv:80/123456/123456/1668
+#EXTINF:0,Channel 812
+#EXTINF:-1,PlayKids SD
+#EXTINF:0,Channel 813
+http://csrv.tv:80/123456/123456/1667
+#EXTINF:0,Channel 814
+#EXTINF:-1,Pokemon [24H]
+#EXTINF:0,Channel 815
+http://csrv.tv:80/123456/123456/2051
+#EXTINF:0,Channel 816
+#EXTINF:-1,Polishop TV HD
+#EXTINF:0,Channel 817
+http://csrv.tv:80/123456/123456/1652
+#EXTINF:0,Channel 818
+#EXTINF:-1,Popeye O Marinheiro [24H]
+#EXTINF:0,Channel 819
+http://csrv.tv:80/123456/123456/2041
+#EXTINF:0,Channel 820
+#EXTINF:-1,Power Couple Brasil HD
+#EXTINF:0,Channel 821
+http://csrv.tv:80/123456/123456/1643
+#EXTINF:0,Channel 822
+#EXTINF:-1,Power Couple Brasil HD [Alter]
+#EXTINF:0,Channel 823
+http://csrv.tv:80/123456/123456/2308
+#EXTINF:0,Channel 824
+#EXTINF:-1,Prague [Camera]
+#EXTINF:0,Channel 825
+http://csrv.tv:80/123456/123456/2419
+#EXTINF:0,Channel 826
+#EXTINF:-1,Premiere 2 HD
+#EXTINF:0,Channel 827
+http://csrv.tv:80/123456/123456/1762
+#EXTINF:0,Channel 828
+#EXTINF:-1,Premiere 2 HD [Alter]
+#EXTINF:0,Channel 829
+http://csrv.tv:80/123456/123456/2342
+#EXTINF:0,Channel 830
+#EXTINF:-1,Premiere 2 SD
+#EXTINF:0,Channel 831
+http://csrv.tv:80/123456/123456/1763
+#EXTINF:0,Channel 832
+#EXTINF:-1,Premiere 2 SD [Alter]
+#EXTINF:0,Channel 833
+http://csrv.tv:80/123456/123456/2165
+#EXTINF:0,Channel 834
+#EXTINF:-1,Premiere 3 HD
+#EXTINF:0,Channel 835
+http://csrv.tv:80/123456/123456/1760
+#EXTINF:0,Channel 836
+#EXTINF:-1,Premiere 3 HD [Alter]
+#EXTINF:0,Channel 837
+http://csrv.tv:80/123456/123456/2341
+#EXTINF:0,Channel 838
+#EXTINF:-1,Premiere 3 SD
+#EXTINF:0,Channel 839
+http://csrv.tv:80/123456/123456/1761
+#EXTINF:0,Channel 840
+#EXTINF:-1,Premiere 3 SD [Alter]
+#EXTINF:0,Channel 841
+http://csrv.tv:80/123456/123456/2164
+#EXTINF:0,Channel 842
+#EXTINF:-1,Premiere 4 HD
+#EXTINF:0,Channel 843
+http://csrv.tv:80/123456/123456/1758
+#EXTINF:0,Channel 844
+#EXTINF:-1,Premiere 4 HD [Alter]
+#EXTINF:0,Channel 845
+http://csrv.tv:80/123456/123456/2340
+#EXTINF:0,Channel 846
+#EXTINF:-1,Premiere 4 SD
+#EXTINF:0,Channel 847
+http://csrv.tv:80/123456/123456/1759
+#EXTINF:0,Channel 848
+#EXTINF:-1,Premiere 4 SD [Alter]
+#EXTINF:0,Channel 849
+http://csrv.tv:80/123456/123456/2163
+#EXTINF:0,Channel 850
+#EXTINF:-1,Premiere 5 HD
+#EXTINF:0,Channel 851
+http://csrv.tv:80/123456/123456/1756
+#EXTINF:0,Channel 852
+#EXTINF:-1,Premiere 5 HD [Alter]
+#EXTINF:0,Channel 853
+http://csrv.tv:80/123456/123456/2339
+#EXTINF:0,Channel 854
+#EXTINF:-1,Premiere 5 SD
+#EXTINF:0,Channel 855
+http://csrv.tv:80/123456/123456/1757
+#EXTINF:0,Channel 856
+#EXTINF:-1,Premiere 5 SD [Alter]
+#EXTINF:0,Channel 857
+http://csrv.tv:80/123456/123456/2162
+#EXTINF:0,Channel 858
+#EXTINF:-1,Premiere 6 HD
+#EXTINF:0,Channel 859
+http://csrv.tv:80/123456/123456/1754
+#EXTINF:0,Channel 860
+#EXTINF:-1,Premiere 6 HD [Alter]
+#EXTINF:0,Channel 861
+http://csrv.tv:80/123456/123456/2338
+#EXTINF:0,Channel 862
+#EXTINF:-1,Premiere 6 SD
+#EXTINF:0,Channel 863
+http://csrv.tv:80/123456/123456/1755
+#EXTINF:0,Channel 864
+#EXTINF:-1,Premiere 6 SD [Alter]
+#EXTINF:0,Channel 865
+http://csrv.tv:80/123456/123456/2161
+#EXTINF:0,Channel 866
+#EXTINF:-1,Premiere 7 HD
+#EXTINF:0,Channel 867
+http://csrv.tv:80/123456/123456/1752
+#EXTINF:0,Channel 868
+#EXTINF:-1,Premiere 7 HD [Alter]
+#EXTINF:0,Channel 869
+http://csrv.tv:80/123456/123456/2337
+#EXTINF:0,Channel 870
+#EXTINF:-1,Premiere 7 SD
+#EXTINF:0,Channel 871
+http://csrv.tv:80/123456/123456/1753
+#EXTINF:0,Channel 872
+#EXTINF:-1,Premiere 7 SD [Alter]
+#EXTINF:0,Channel 873
+http://csrv.tv:80/123456/123456/2160
+#EXTINF:0,Channel 874
+#EXTINF:-1,Premiere 8 SD [Alter]
+#EXTINF:0,Channel 875
+http://csrv.tv:80/123456/123456/2159
+#EXTINF:0,Channel 876
+#EXTINF:-1,Premiere Clubes HD
+#EXTINF:0,Channel 877
+http://csrv.tv:80/123456/123456/1750
+#EXTINF:0,Channel 878
+#EXTINF:-1,Premiere Clubes HD [Alter]
+#EXTINF:0,Channel 879
+http://csrv.tv:80/123456/123456/2336
+#EXTINF:0,Channel 880
+#EXTINF:-1,Premiere Clubes SD
+#EXTINF:0,Channel 881
+http://csrv.tv:80/123456/123456/1751
+#EXTINF:0,Channel 882
+#EXTINF:-1,Premiere Clubes SD [Alter]
+#EXTINF:0,Channel 883
+http://csrv.tv:80/123456/123456/2158
+#EXTINF:0,Channel 884
+#EXTINF:-1,Prime Box Brasil HD
+#EXTINF:0,Channel 885
+http://csrv.tv:80/123456/123456/1748
+#EXTINF:0,Channel 886
+#EXTINF:-1,Prime Box Brasil SD
+#EXTINF:0,Channel 887
+http://csrv.tv:80/123456/123456/1749
+#EXTINF:0,Channel 888
+#EXTINF:-1,Rambo [24H]
+#EXTINF:0,Channel 889
+http://csrv.tv:80/123456/123456/2068
+#EXTINF:0,Channel 890
+#EXTINF:-1,RCI SD
+#EXTINF:0,Channel 891
+http://csrv.tv:80/123456/123456/1651
+#EXTINF:0,Channel 892
+#EXTINF:-1,Record News HD
+#EXTINF:0,Channel 893
+http://csrv.tv:80/123456/123456/1745
+#EXTINF:0,Channel 894
+#EXTINF:-1,Record News SD
+#EXTINF:0,Channel 895
+http://csrv.tv:80/123456/123456/1746
+#EXTINF:0,Channel 896
+#EXTINF:-1,RecordTV BA HD
+#EXTINF:0,Channel 897
+http://csrv.tv:80/123456/123456/1665
+#EXTINF:0,Channel 898
+#EXTINF:-1,RecordTV BA SD
+#EXTINF:0,Channel 899
+http://csrv.tv:80/123456/123456/1664
+#EXTINF:0,Channel 900
+#EXTINF:-1,RecordTV DF HD
+#EXTINF:0,Channel 901
+http://csrv.tv:80/123456/123456/1663
+#EXTINF:0,Channel 902
+#EXTINF:-1,RecordTV DF SD
+#EXTINF:0,Channel 903
+http://csrv.tv:80/123456/123456/1662
+#EXTINF:0,Channel 904
+#EXTINF:-1,RecordTV MG HD
+#EXTINF:0,Channel 905
+http://csrv.tv:80/123456/123456/1670
+#EXTINF:0,Channel 906
+#EXTINF:-1,RecordTV MG SD
+#EXTINF:0,Channel 907
+http://csrv.tv:80/123456/123456/1669
+#EXTINF:0,Channel 908
+#EXTINF:-1,RecordTV RJ HD
+#EXTINF:0,Channel 909
+http://csrv.tv:80/123456/123456/1672
+#EXTINF:0,Channel 910
+#EXTINF:-1,RecordTV RJ SD
+#EXTINF:0,Channel 911
+http://csrv.tv:80/123456/123456/1671
+#EXTINF:0,Channel 912
+#EXTINF:-1,RecordTV RS HD
+#EXTINF:0,Channel 913
+http://csrv.tv:80/123456/123456/1661
+#EXTINF:0,Channel 914
+#EXTINF:-1,RecordTV RS SD
+#EXTINF:0,Channel 915
+http://csrv.tv:80/123456/123456/1660
+#EXTINF:0,Channel 916
+#EXTINF:-1,RecordTV SP HD
+#EXTINF:0,Channel 917
+http://csrv.tv:80/123456/123456/1743
+#EXTINF:0,Channel 918
+#EXTINF:-1,RecordTV SP SD
+#EXTINF:0,Channel 919
+http://csrv.tv:80/123456/123456/1747
+#EXTINF:0,Channel 920
+#EXTINF:-1,Rede Brasil SD
+#EXTINF:0,Channel 921
+http://csrv.tv:80/123456/123456/1742
+#EXTINF:0,Channel 922
+#EXTINF:-1,Rede TV HD
+#EXTINF:0,Channel 923
+http://csrv.tv:80/123456/123456/1740
+#EXTINF:0,Channel 924
+#EXTINF:-1,Rede TV HD [Alter]
+#EXTINF:0,Channel 925
+http://csrv.tv:80/123456/123456/2335
+#EXTINF:0,Channel 926
+#EXTINF:-1,Rede TV SD
+#EXTINF:0,Channel 927
+http://csrv.tv:80/123456/123456/1741
+#EXTINF:0,Channel 928
+#EXTINF:-1,Rede TV SD [Alter]
+#EXTINF:0,Channel 929
+http://csrv.tv:80/123456/123456/2116
+#EXTINF:0,Channel 930
+#EXTINF:-1,Rede Vida HD
+#EXTINF:0,Channel 931
+http://csrv.tv:80/123456/123456/1673
+#EXTINF:0,Channel 932
+#EXTINF:-1,Rede Vida SD
+#EXTINF:0,Channel 933
+http://csrv.tv:80/123456/123456/1739
+#EXTINF:0,Channel 934
+#EXTINF:-1,Rede Vida SD [Alter]
+#EXTINF:0,Channel 935
+http://csrv.tv:80/123456/123456/2110
+#EXTINF:0,Channel 936
+#EXTINF:-1,Rio de Janeiro [Camera]
+#EXTINF:0,Channel 937
+http://csrv.tv:80/123456/123456/2420
+#EXTINF:0,Channel 938
+#EXTINF:-1,Rit TV SD
+#EXTINF:0,Channel 939
+http://csrv.tv:80/123456/123456/1654
+#EXTINF:0,Channel 940
+#EXTINF:-1,Saipan [Camera]
+#EXTINF:0,Channel 941
+http://csrv.tv:80/123456/123456/2424
+#EXTINF:0,Channel 942
+#EXTINF:-1,SBT HD
+#EXTINF:0,Channel 943
+http://csrv.tv:80/123456/123456/1737
+#EXTINF:0,Channel 944
+#EXTINF:-1,SBT HD [Alter]
+#EXTINF:0,Channel 945
+http://csrv.tv:80/123456/123456/2334
+#EXTINF:0,Channel 946
+#EXTINF:-1,SBT SD
+#EXTINF:0,Channel 947
+http://csrv.tv:80/123456/123456/1738
+#EXTINF:0,Channel 948
+#EXTINF:-1,SBT SD [Alter]
+#EXTINF:0,Channel 949
+http://csrv.tv:80/123456/123456/2157
+#EXTINF:0,Channel 950
+#EXTINF:-1,SBT SP Interior SD
+#EXTINF:0,Channel 951
+http://csrv.tv:80/123456/123456/1736
+#EXTINF:0,Channel 952
+#EXTINF:-1,Scooby Doo [24H]
+#EXTINF:0,Channel 953
+http://csrv.tv:80/123456/123456/2067
+#EXTINF:0,Channel 954
+#EXTINF:-1,[+18] Sextreme SD
+#EXTINF:0,Channel 955
+http://csrv.tv:80/123456/123456/1648
+#EXTINF:0,Channel 956
+#EXTINF:-1,[+18] Sextreme SD [Alter]
+#EXTINF:0,Channel 957
+http://csrv.tv:80/123456/123456/2105
+#EXTINF:0,Channel 958
+#EXTINF:-1,[+18] Sexy Hot SD
+#EXTINF:0,Channel 959
+http://csrv.tv:80/123456/123456/1647
+#EXTINF:0,Channel 960
+#EXTINF:-1,[+18] Sexy Hot SD [Alter]
+#EXTINF:0,Channel 961
+http://csrv.tv:80/123456/123456/2104
+#EXTINF:0,Channel 962
+#EXTINF:-1,Smallville [24H]
+#EXTINF:0,Channel 963
+http://csrv.tv:80/123456/123456/2030
+#EXTINF:0,Channel 964
+#EXTINF:-1,Smithsonian Channel HD
+#EXTINF:0,Channel 965
+http://csrv.tv:80/123456/123456/1657
+#EXTINF:0,Channel 966
+#EXTINF:-1,Smithsonian Channel SD
+#EXTINF:0,Channel 967
+http://csrv.tv:80/123456/123456/1656
+#EXTINF:0,Channel 968
+#EXTINF:-1,Sobrenatural [24H]
+#EXTINF:0,Channel 969
+http://csrv.tv:80/123456/123456/2043
+#EXTINF:0,Channel 970
+#EXTINF:-1,South Park [24H]
+#EXTINF:0,Channel 971
+http://csrv.tv:80/123456/123456/2066
+#EXTINF:0,Channel 972
+#EXTINF:-1,Space HD
+#EXTINF:0,Channel 973
+http://csrv.tv:80/123456/123456/1732
+#EXTINF:0,Channel 974
+#EXTINF:-1,Space HD [Alter]
+#EXTINF:0,Channel 975
+http://csrv.tv:80/123456/123456/2333
+#EXTINF:0,Channel 976
+#EXTINF:-1,Space SD
+#EXTINF:0,Channel 977
+http://csrv.tv:80/123456/123456/1733
+#EXTINF:0,Channel 978
+#EXTINF:-1,Space SD [Alter]
+#EXTINF:0,Channel 979
+http://csrv.tv:80/123456/123456/2156
+#EXTINF:0,Channel 980
+#EXTINF:-1,SporTV 2 HD
+#EXTINF:0,Channel 981
+http://csrv.tv:80/123456/123456/1729
+#EXTINF:0,Channel 982
+#EXTINF:-1,SporTV 2 HD [Alter]
+#EXTINF:0,Channel 983
+http://csrv.tv:80/123456/123456/2332
+#EXTINF:0,Channel 984
+#EXTINF:-1,SporTV 2 SD
+#EXTINF:0,Channel 985
+http://csrv.tv:80/123456/123456/1730
+#EXTINF:0,Channel 986
+#EXTINF:-1,SporTV 2 SD [Alter]
+#EXTINF:0,Channel 987
+http://csrv.tv:80/123456/123456/2155
+#EXTINF:0,Channel 988
+#EXTINF:-1,SporTV 3 HD
+#EXTINF:0,Channel 989
+http://csrv.tv:80/123456/123456/1727
+#EXTINF:0,Channel 990
+#EXTINF:-1,SporTV 3 HD [Alter]
+#EXTINF:0,Channel 991
+http://csrv.tv:80/123456/123456/2331
+#EXTINF:0,Channel 992
+#EXTINF:-1,SporTV 3 SD
+#EXTINF:0,Channel 993
+http://csrv.tv:80/123456/123456/1728
+#EXTINF:0,Channel 994
+#EXTINF:-1,SporTV 3 SD [Alter]
+#EXTINF:0,Channel 995
+http://csrv.tv:80/123456/123456/2131
+#EXTINF:0,Channel 996
+#EXTINF:-1,SporTV HD
+#EXTINF:0,Channel 997
+http://csrv.tv:80/123456/123456/1726
+#EXTINF:0,Channel 998
+#EXTINF:-1,SporTV HD [Alter]
+#EXTINF:0,Channel 999
+http://csrv.tv:80/123456/123456/2330
+#EXTINF:0,Channel 1000
+#EXTINF:-1,SporTV SD
+#EXTINF:0,Channel 1001
+http://csrv.tv:80/123456/123456/1731
+#EXTINF:0,Channel 1002
+#EXTINF:-1,SporTV SD [Alter]
+#EXTINF:0,Channel 1003
+http://csrv.tv:80/123456/123456/2154
+#EXTINF:0,Channel 1004
+#EXTINF:-1,Steven Universe [24H]
+#EXTINF:0,Channel 1005
+http://csrv.tv:80/123456/123456/2065
+#EXTINF:0,Channel 1006
+#EXTINF:-1,Studio Universal HD
+#EXTINF:0,Channel 1007
+http://csrv.tv:80/123456/123456/1724
+#EXTINF:0,Channel 1008
+#EXTINF:-1,Studio Universal HD [Alter]
+#EXTINF:0,Channel 1009
+http://csrv.tv:80/123456/123456/2329
+#EXTINF:0,Channel 1010
+#EXTINF:-1,Studio Universal SD
+#EXTINF:0,Channel 1011
+http://csrv.tv:80/123456/123456/1725
+#EXTINF:0,Channel 1012
+#EXTINF:-1,Studio Universal SD [Alter]
+#EXTINF:0,Channel 1013
+http://csrv.tv:80/123456/123456/2153
+#EXTINF:0,Channel 1014
+#EXTINF:-1,Superman [24H]
+#EXTINF:0,Channel 1015
+http://csrv.tv:80/123456/123456/2035
+#EXTINF:0,Channel 1016
+#EXTINF:-1,SyFy HD
+#EXTINF:0,Channel 1017
+http://csrv.tv:80/123456/123456/1734
+#EXTINF:0,Channel 1018
+#EXTINF:-1,SyFy HD [Alter]
+#EXTINF:0,Channel 1019
+http://csrv.tv:80/123456/123456/2328
+#EXTINF:0,Channel 1020
+#EXTINF:-1,SyFy SD
+#EXTINF:0,Channel 1021
+http://csrv.tv:80/123456/123456/1735
+#EXTINF:0,Channel 1022
+#EXTINF:-1,SyFy SD [Alter]
+#EXTINF:0,Channel 1023
+http://csrv.tv:80/123456/123456/2152
+#EXTINF:0,Channel 1024
+#EXTINF:-1,TBS HD
+#EXTINF:0,Channel 1025
+http://csrv.tv:80/123456/123456/1722
+#EXTINF:0,Channel 1026
+#EXTINF:-1,TBS HD [Alter]
+#EXTINF:0,Channel 1027
+http://csrv.tv:80/123456/123456/2327
+#EXTINF:0,Channel 1028
+#EXTINF:-1,TBS SD
+#EXTINF:0,Channel 1029
+http://csrv.tv:80/123456/123456/1723
+#EXTINF:0,Channel 1030
+#EXTINF:-1,TBS SD [Alter]
+#EXTINF:0,Channel 1031
+http://csrv.tv:80/123456/123456/2151
+#EXTINF:0,Channel 1032
+#EXTINF:-1,TCM SD
+#EXTINF:0,Channel 1033
+http://csrv.tv:80/123456/123456/1721
+#EXTINF:0,Channel 1034
+#EXTINF:-1,TCM SD [Alter]
+#EXTINF:0,Channel 1035
+http://csrv.tv:80/123456/123456/2150
+#EXTINF:0,Channel 1036
+#EXTINF:-1,Telecine Action HD
+#EXTINF:0,Channel 1037
+http://csrv.tv:80/123456/123456/1719
+#EXTINF:0,Channel 1038
+#EXTINF:-1,Telecine Action HD [Alter]
+#EXTINF:0,Channel 1039
+http://csrv.tv:80/123456/123456/2326
+#EXTINF:0,Channel 1040
+#EXTINF:-1,Telecine Action SD
+#EXTINF:0,Channel 1041
+http://csrv.tv:80/123456/123456/1720
+#EXTINF:0,Channel 1042
+#EXTINF:-1,Telecine Action SD [Alter]
+#EXTINF:0,Channel 1043
+http://csrv.tv:80/123456/123456/2149
+#EXTINF:0,Channel 1044
+#EXTINF:-1,Telecine Cult HD
+#EXTINF:0,Channel 1045
+http://csrv.tv:80/123456/123456/1717
+#EXTINF:0,Channel 1046
+#EXTINF:-1,Telecine Cult HD [Alter]
+#EXTINF:0,Channel 1047
+http://csrv.tv:80/123456/123456/2325
+#EXTINF:0,Channel 1048
+#EXTINF:-1,Telecine Cult SD
+#EXTINF:0,Channel 1049
+http://csrv.tv:80/123456/123456/1718
+#EXTINF:0,Channel 1050
+#EXTINF:-1,Telecine Cult SD [Alter]
+#EXTINF:0,Channel 1051
+http://csrv.tv:80/123456/123456/2148
+#EXTINF:0,Channel 1052
+#EXTINF:-1,Telecine Fun HD
+#EXTINF:0,Channel 1053
+http://csrv.tv:80/123456/123456/1715
+#EXTINF:0,Channel 1054
+#EXTINF:-1,Telecine Fun HD [Alter]
+#EXTINF:0,Channel 1055
+http://csrv.tv:80/123456/123456/2324
+#EXTINF:0,Channel 1056
+#EXTINF:-1,Telecine Fun SD
+#EXTINF:0,Channel 1057
+http://csrv.tv:80/123456/123456/1716
+#EXTINF:0,Channel 1058
+#EXTINF:-1,Telecine Fun SD [Alter]
+#EXTINF:0,Channel 1059
+http://csrv.tv:80/123456/123456/2147
+#EXTINF:0,Channel 1060
+#EXTINF:-1,Telecine Pipoca HD
+#EXTINF:0,Channel 1061
+http://csrv.tv:80/123456/123456/1713
+#EXTINF:0,Channel 1062
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+#EXTINF:0,Channel 1063
+http://csrv.tv:80/123456/123456/2323
+#EXTINF:0,Channel 1064
+#EXTINF:-1,Telecine Pipoca SD
+#EXTINF:0,Channel 1065
+http://csrv.tv:80/123456/123456/1714
+#EXTINF:0,Channel 1066
+#EXTINF:-1,Telecine Pipoca SD [Alter]
+#EXTINF:0,Channel 1067
+http://csrv.tv:80/123456/123456/2146
+#EXTINF:0,Channel 1068
+#EXTINF:-1,Telecine Premium HD
+#EXTINF:0,Channel 1069
+http://csrv.tv:80/123456/123456/1711
+#EXTINF:0,Channel 1070
+#EXTINF:-1,Telecine Premium HD [Alter]
+#EXTINF:0,Channel 1071
+http://csrv.tv:80/123456/123456/2322
+#EXTINF:0,Channel 1072
+#EXTINF:-1,Telecine Premium SD
+#EXTINF:0,Channel 1073
+http://csrv.tv:80/123456/123456/1712
+#EXTINF:0,Channel 1074
+#EXTINF:-1,Telecine Premium SD [Alter]
+#EXTINF:0,Channel 1075
+http://csrv.tv:80/123456/123456/2145
+#EXTINF:0,Channel 1076
+#EXTINF:-1,Telecine Touch HD
+#EXTINF:0,Channel 1077
+http://csrv.tv:80/123456/123456/1709
+#EXTINF:0,Channel 1078
+#EXTINF:-1,Telecine Touch HD [Alter]
+#EXTINF:0,Channel 1079
+http://csrv.tv:80/123456/123456/2321
+#EXTINF:0,Channel 1080
+#EXTINF:-1,Telecine Touch SD
+#EXTINF:0,Channel 1081
+http://csrv.tv:80/123456/123456/1710
+#EXTINF:0,Channel 1082
+#EXTINF:-1,Telecine Touch SD [Alter]
+#EXTINF:0,Channel 1083
+http://csrv.tv:80/123456/123456/2144
+#EXTINF:0,Channel 1084
+#EXTINF:-1,Terra Viva SD
+#EXTINF:0,Channel 1085
+http://csrv.tv:80/123456/123456/1708
+#EXTINF:0,Channel 1086
+#EXTINF:-1,Terra Viva SD [Alter]
+#EXTINF:0,Channel 1087
+http://csrv.tv:80/123456/123456/2103
+#EXTINF:0,Channel 1088
+#EXTINF:-1,Tesouros da Disney [24H]
+#EXTINF:0,Channel 1089
+http://csrv.tv:80/123456/123456/2064
+#EXTINF:0,Channel 1090
+#EXTINF:-1,Thundercats [24H]
+#EXTINF:0,Channel 1091
+http://csrv.tv:80/123456/123456/2055
+#EXTINF:0,Channel 1092
+#EXTINF:-1,Timao e Pumba [24H]
+#EXTINF:0,Channel 1093
+http://csrv.tv:80/123456/123456/2063
+#EXTINF:0,Channel 1094
+#EXTINF:-1,TLC HD
+#EXTINF:0,Channel 1095
+http://csrv.tv:80/123456/123456/1706
+#EXTINF:0,Channel 1096
+#EXTINF:-1,TLC HD [Alter]
+#EXTINF:0,Channel 1097
+http://csrv.tv:80/123456/123456/2319
+#EXTINF:0,Channel 1098
+#EXTINF:-1,TLC SD
+#EXTINF:0,Channel 1099
+http://csrv.tv:80/123456/123456/1707
+#EXTINF:0,Channel 1100
+#EXTINF:-1,TLC SD [Alter]
+#EXTINF:0,Channel 1101
+http://csrv.tv:80/123456/123456/2142
+#EXTINF:0,Channel 1102
+#EXTINF:-1,TNT HD
+#EXTINF:0,Channel 1103
+http://csrv.tv:80/123456/123456/1704
+#EXTINF:0,Channel 1104
+#EXTINF:-1,TNT HD [Alter]
+#EXTINF:0,Channel 1105
+http://csrv.tv:80/123456/123456/2318
+#EXTINF:0,Channel 1106
+#EXTINF:-1,TNT SD
+#EXTINF:0,Channel 1107
+http://csrv.tv:80/123456/123456/1705
+#EXTINF:0,Channel 1108
+#EXTINF:-1,TNT SD [Alter]
+#EXTINF:0,Channel 1109
+http://csrv.tv:80/123456/123456/2141
+#EXTINF:0,Channel 1110
+#EXTINF:-1,TNT Series HD
+#EXTINF:0,Channel 1111
+http://csrv.tv:80/123456/123456/1702
+#EXTINF:0,Channel 1112
+#EXTINF:-1,TNT Series HD [Alter]
+#EXTINF:0,Channel 1113
+http://csrv.tv:80/123456/123456/2317
+#EXTINF:0,Channel 1114
+#EXTINF:-1,TNT Series SD
+#EXTINF:0,Channel 1115
+http://csrv.tv:80/123456/123456/1703
+#EXTINF:0,Channel 1116
+#EXTINF:-1,TNT Series SD [Alter]
+#EXTINF:0,Channel 1117
+http://csrv.tv:80/123456/123456/2140
+#EXTINF:0,Channel 1118
+#EXTINF:-1,Todo Mundo Odeia o Cris [24H]
+#EXTINF:0,Channel 1119
+http://csrv.tv:80/123456/123456/2062
+#EXTINF:0,Channel 1120
+#EXTINF:-1,Tom e Jerry [24H]
+#EXTINF:0,Channel 1121
+http://csrv.tv:80/123456/123456/2061
+#EXTINF:0,Channel 1122
+#EXTINF:-1,Tooncast HD [Alter]
+#EXTINF:0,Channel 1123
+http://csrv.tv:80/123456/123456/2316
+#EXTINF:0,Channel 1124
+#EXTINF:-1,Tooncast SD
+#EXTINF:0,Channel 1125
+http://csrv.tv:80/123456/123456/1701
+#EXTINF:0,Channel 1126
+#EXTINF:-1,Tooncast SD [Alter]
+#EXTINF:0,Channel 1127
+http://csrv.tv:80/123456/123456/2139
+#EXTINF:0,Channel 1128
+#EXTINF:-1,Toronto [Camera]
+#EXTINF:0,Channel 1129
+http://csrv.tv:80/123456/123456/2427
+#EXTINF:0,Channel 1130
+#EXTINF:-1,Tres Espias Demais [24H]
+#EXTINF:0,Channel 1131
+http://csrv.tv:80/123456/123456/2034
+#EXTINF:0,Channel 1132
+#EXTINF:-1,TruTV HD
+#EXTINF:0,Channel 1133
+http://csrv.tv:80/123456/123456/1690
+#EXTINF:0,Channel 1134
+#EXTINF:-1,TruTV SD
+#EXTINF:0,Channel 1135
+http://csrv.tv:80/123456/123456/1691
+#EXTINF:0,Channel 1136
+#EXTINF:-1,TV Aparecida SD
+#EXTINF:0,Channel 1137
+http://csrv.tv:80/123456/123456/1698
+#EXTINF:0,Channel 1138
+#EXTINF:-1,TV Aparecida SD [Alter]
+#EXTINF:0,Channel 1139
+http://csrv.tv:80/123456/123456/2108
+#EXTINF:0,Channel 1140
+#EXTINF:-1,TV Brasil SD
+#EXTINF:0,Channel 1141
+http://csrv.tv:80/123456/123456/1697
+#EXTINF:0,Channel 1142
+#EXTINF:-1,TV Camara SD
+#EXTINF:0,Channel 1143
+http://csrv.tv:80/123456/123456/1696
+#EXTINF:0,Channel 1144
+#EXTINF:-1,TV Cultura HD
+#EXTINF:0,Channel 1145
+http://csrv.tv:80/123456/123456/1674
+#EXTINF:0,Channel 1146
+#EXTINF:-1,TV Cultura SD
+#EXTINF:0,Channel 1147
+http://csrv.tv:80/123456/123456/1675
+#EXTINF:0,Channel 1148
+#EXTINF:-1,TV Escola SD
+#EXTINF:0,Channel 1149
+http://csrv.tv:80/123456/123456/1695
+#EXTINF:0,Channel 1150
+#EXTINF:-1,TV Gazeta SP HD
+#EXTINF:0,Channel 1151
+http://csrv.tv:80/123456/123456/1694
+#EXTINF:0,Channel 1152
+#EXTINF:-1,TV Gazeta SP HD [Alter]
+#EXTINF:0,Channel 1153
+http://csrv.tv:80/123456/123456/2411
+#EXTINF:0,Channel 1154
+#EXTINF:-1,TV Justica SD
+#EXTINF:0,Channel 1155
+http://csrv.tv:80/123456/123456/1699
+#EXTINF:0,Channel 1156
+#EXTINF:-1,TV Justica SD [Alter]
+#EXTINF:0,Channel 1157
+http://csrv.tv:80/123456/123456/2138
+#EXTINF:0,Channel 1158
+#EXTINF:-1,TV Ra Tim Bum HD
+#EXTINF:0,Channel 1159
+http://csrv.tv:80/123456/123456/1692
+#EXTINF:0,Channel 1160
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+#EXTINF:0,Channel 1161
+http://csrv.tv:80/123456/123456/2310
+#EXTINF:0,Channel 1162
+#EXTINF:-1,TV Ra Tim Bum SD
+#EXTINF:0,Channel 1163
+http://csrv.tv:80/123456/123456/1693
+#EXTINF:0,Channel 1164
+#EXTINF:-1,TV Ra Tim Bum SD [Alter]
+#EXTINF:0,Channel 1165
+http://csrv.tv:80/123456/123456/2129
+#EXTINF:0,Channel 1166
+#EXTINF:-1,TV Senado SD
+#EXTINF:0,Channel 1167
+http://csrv.tv:80/123456/123456/1700
+#EXTINF:0,Channel 1168
+#EXTINF:-1,TV Senado SD [Alter]
+#EXTINF:0,Channel 1169
+http://csrv.tv:80/123456/123456/2128
+#EXTINF:0,Channel 1170
+#EXTINF:-1,Um Maluco No Pedaco [24H]
+#EXTINF:0,Channel 1171
+http://csrv.tv:80/123456/123456/2060
+#EXTINF:0,Channel 1172
+#EXTINF:-1,Uma Familia da Pesada [24H]
+#EXTINF:0,Channel 1173
+http://csrv.tv:80/123456/123456/2042
+#EXTINF:0,Channel 1174
+#EXTINF:-1,Universal Channel HD
+#EXTINF:0,Channel 1175
+http://csrv.tv:80/123456/123456/1688
+#EXTINF:0,Channel 1176
+#EXTINF:-1,Universal Channel HD [Alter]
+#EXTINF:0,Channel 1177
+http://csrv.tv:80/123456/123456/2315
+#EXTINF:0,Channel 1178
+#EXTINF:-1,Universal Channel SD
+#EXTINF:0,Channel 1179
+http://csrv.tv:80/123456/123456/1689
+#EXTINF:0,Channel 1180
+#EXTINF:-1,Universal Channel SD [Alter]
+#EXTINF:0,Channel 1181
+http://csrv.tv:80/123456/123456/2137
+#EXTINF:0,Channel 1182
+#EXTINF:-1,[+18] Venus SD
+#EXTINF:0,Channel 1183
+http://csrv.tv:80/123456/123456/1646
+#EXTINF:0,Channel 1184
+#EXTINF:-1,[+18] Venus SD [Alter]
+#EXTINF:0,Channel 1185
+http://csrv.tv:80/123456/123456/2102
+#EXTINF:0,Channel 1186
+#EXTINF:-1,VH1 HD
+#EXTINF:0,Channel 1187
+http://csrv.tv:80/123456/123456/1686
+#EXTINF:0,Channel 1188
+#EXTINF:-1,VH1 MegaHits SD
+#EXTINF:0,Channel 1189
+http://csrv.tv:80/123456/123456/1685
+#EXTINF:0,Channel 1190
+#EXTINF:-1,VH1 MegaHits SD [Alter]
+#EXTINF:0,Channel 1191
+http://csrv.tv:80/123456/123456/2136
+#EXTINF:0,Channel 1192
+#EXTINF:-1,VH1 SD
+#EXTINF:0,Channel 1193
+http://csrv.tv:80/123456/123456/1687
+#EXTINF:0,Channel 1194
+#EXTINF:-1,Viva HD
+#EXTINF:0,Channel 1195
+http://csrv.tv:80/123456/123456/1683
+#EXTINF:0,Channel 1196
+#EXTINF:-1,Viva HD [Alter]
+#EXTINF:0,Channel 1197
+http://csrv.tv:80/123456/123456/2314
+#EXTINF:0,Channel 1198
+#EXTINF:-1,Viva SD
+#EXTINF:0,Channel 1199
+http://csrv.tv:80/123456/123456/1684
+#EXTINF:0,Channel 1200
+#EXTINF:-1,Viva SD [Alter]
+#EXTINF:0,Channel 1201
+http://csrv.tv:80/123456/123456/2135
+#EXTINF:0,Channel 1202
+#EXTINF:-1,Warner Channel HD
+#EXTINF:0,Channel 1203
+http://csrv.tv:80/123456/123456/1681
+#EXTINF:0,Channel 1204
+#EXTINF:-1,Warner Channel HD [Alter]
+#EXTINF:0,Channel 1205
+http://csrv.tv:80/123456/123456/2313
+#EXTINF:0,Channel 1206
+#EXTINF:-1,Warner Channel SD
+#EXTINF:0,Channel 1207
+http://csrv.tv:80/123456/123456/1682
+#EXTINF:0,Channel 1208
+#EXTINF:-1,Warner Channel SD [Alter]
+#EXTINF:0,Channel 1209
+http://csrv.tv:80/123456/123456/2134
+#EXTINF:0,Channel 1210
+#EXTINF:-1,WooHoo HD
+#EXTINF:0,Channel 1211
+http://csrv.tv:80/123456/123456/1679
+#EXTINF:0,Channel 1212
+#EXTINF:-1,WooHoo SD
+#EXTINF:0,Channel 1213
+http://csrv.tv:80/123456/123456/1680
+#EXTINF:0,Channel 1214
+#EXTINF:-1,WooHoo SD [Alter]
+#EXTINF:0,Channel 1215
+http://csrv.tv:80/123456/123456/2133
