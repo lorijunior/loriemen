@@ -1,1216 +1,1290 @@
+#######################################################
+##    DEU UM TRABALHO DO CACETE PARA FAZER A LISTA.  ##
+## SE FOR REPASSAR DEIXE OS DEVIDOS CREDITOS A LHMTV.##
+##       VOCÊ PODE OLHAR E ESPELHAR O CONTEÚDO.      ##
+## NÃO AUTORIZO RECEBER LUCROS EM CIMA DESSES LINKS. ##
+## SE VER PARTE DESSE CONTEÚDO EM LISTA PAGA AVISE!  ##
+##  OBSERVACAO: LINKS SÂO ALTERADOS CONSTANTEMENTE.  ##
+##     GOSTOU, CONTRIBUA! SIMPLES. NÂO SÓ COPIE!     ##
+#######################################################
+
 #EXTM3U
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1,A&E HD
-http://csrv.tv:80/123456/123456/1906
-#EXTINF:-1,A&E HD [Alter]
-http://csrv.tv:80/123456/123456/2402
-#EXTINF:-1,A&E SD
-http://csrv.tv:80/123456/123456/1907
-#EXTINF:-1,A&E SD [Alter]
-http://csrv.tv:80/123456/123456/2215
-#EXTINF:-1,Aladdin [24H]
-http://csrv.tv:80/123456/123456/2100
-#EXTINF:-1,AMC HD
-http://csrv.tv:80/123456/123456/1904
-#EXTINF:-1,AMC HD [Alter]
-http://csrv.tv:80/123456/123456/2401
-#EXTINF:-1,AMC SD
-http://csrv.tv:80/123456/123456/1905
-#EXTINF:-1,AMC SD [Alter]
-http://csrv.tv:80/123456/123456/2214
-#EXTINF:-1,Animal Planet HD
-http://csrv.tv:80/123456/123456/1902
-#EXTINF:-1,Animal Planet HD [Alter]
-http://csrv.tv:80/123456/123456/2400
-#EXTINF:-1,Animal Planet SD
-http://csrv.tv:80/123456/123456/1903
-#EXTINF:-1,Animal Planet SD [Alter]
-http://csrv.tv:80/123456/123456/2213
-#EXTINF:-1,Arte 1 HD
-http://csrv.tv:80/123456/123456/1900
-#EXTINF:-1,Arte 1 SD
-http://csrv.tv:80/123456/123456/1901
-#EXTINF:-1,Arte 1 SD [Alter]
-http://csrv.tv:80/123456/123456/2113
-#EXTINF:-1,As Meninas Superpoderosas [24H]
-http://csrv.tv:80/123456/123456/2099
-#EXTINF:-1,As Tartarugas Ninja [24H]
-http://csrv.tv:80/123456/123456/2098
-#EXTINF:-1,AXN HD
-http://csrv.tv:80/123456/123456/1898
-#EXTINF:-1,AXN HD [Alter]
-http://csrv.tv:80/123456/123456/2399
-#EXTINF:-1,AXN SD
-http://csrv.tv:80/123456/123456/1899
-#EXTINF:-1,AXN SD [Alter]
-http://csrv.tv:80/123456/123456/2212
-#EXTINF:-1,Baby TV SD
-http://csrv.tv:80/123456/123456/1897
-#EXTINF:-1,Baby TV SD [Alter]
-http://csrv.tv:80/123456/123456/2211
-#EXTINF:-1,Band SP HD
-http://csrv.tv:80/123456/123456/1895
-#EXTINF:-1,Band SP HD [Alter]
-http://csrv.tv:80/123456/123456/2398
-#EXTINF:-1,Band SP SD
-http://csrv.tv:80/123456/123456/1896
-#EXTINF:-1,BandNews HD
-http://csrv.tv:80/123456/123456/1893
-#EXTINF:-1,BandNews SD
-http://csrv.tv:80/123456/123456/1894
-#EXTINF:-1,BandNews SD [Alter]
-http://csrv.tv:80/123456/123456/2210
-#EXTINF:-1,BandSports HD
-http://csrv.tv:80/123456/123456/1891
-#EXTINF:-1,BandSports HD [Alter]
-http://csrv.tv:80/123456/123456/2397
-#EXTINF:-1,BandSports SD
-http://csrv.tv:80/123456/123456/1892
-#EXTINF:-1,BandSports SD [Alter]
-http://csrv.tv:80/123456/123456/2209
-#EXTINF:-1,Bis HD
-http://csrv.tv:80/123456/123456/1889
-#EXTINF:-1,Bis HD [Alter]
-http://csrv.tv:80/123456/123456/2396
-#EXTINF:-1,Bis SD
-http://csrv.tv:80/123456/123456/1890
-#EXTINF:-1,Bis SD [Alter]
-http://csrv.tv:80/123456/123456/2121
-#EXTINF:-1,Boa Vontade TV HD
-http://csrv.tv:80/123456/123456/1888
-#EXTINF:-1,Bob Esponja [24H]
-http://csrv.tv:80/123456/123456/2097
-#EXTINF:-1,Boomerang HD
-http://csrv.tv:80/123456/123456/1886
-#EXTINF:-1,Boomerang SD
-http://csrv.tv:80/123456/123456/1887
-#EXTINF:-1,Boomerang SD [Alter]
-http://csrv.tv:80/123456/123456/2208
-#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
-http://csrv.tv:80/123456/123456/1640
-#EXTINF:-1,Breaking Bad [24H]
-http://csrv.tv:80/123456/123456/2029
-#EXTINF:-1,Canal Brasil HD
-http://csrv.tv:80/123456/123456/1884
-#EXTINF:-1,Canal Brasil SD
-http://csrv.tv:80/123456/123456/1885
-#EXTINF:-1,Canal Brasil SD [Alter]
-http://csrv.tv:80/123456/123456/2115
-#EXTINF:-1,Canal Do Boi SD
-http://csrv.tv:80/123456/123456/1655
-#EXTINF:-1,Canal Do Boi SD [Alter]
-http://csrv.tv:80/123456/123456/2114
-#EXTINF:-1,Canal Sony HD
-http://csrv.tv:80/123456/123456/1882
-#EXTINF:-1,Canal Sony HD [Alter]
-http://csrv.tv:80/123456/123456/2395
-#EXTINF:-1,Canal Sony SD
-http://csrv.tv:80/123456/123456/1883
-#EXTINF:-1,Canal Sony SD [Alter]
-http://csrv.tv:80/123456/123456/2207
-#EXTINF:-1,Cancao Nova SD
-http://csrv.tv:80/123456/123456/1881
-#EXTINF:-1,Cancao Nova SD [Alter]
-http://csrv.tv:80/123456/123456/2107
-#EXTINF:-1,Cartoon Network HD
-http://csrv.tv:80/123456/123456/1879
-#EXTINF:-1,Cartoon Network HD [Alter]
-http://csrv.tv:80/123456/123456/2394
-#EXTINF:-1,Cartoon Network SD
-http://csrv.tv:80/123456/123456/1880
-#EXTINF:-1,Cartoon Network SD [Alter]
-http://csrv.tv:80/123456/123456/2112
-#EXTINF:-1,Chapolin Colorado [24H]
-http://csrv.tv:80/123456/123456/2027
-#EXTINF:-1,Chaves Animado [24H]
-http://csrv.tv:80/123456/123456/2094
-#EXTINF:-1,Chicago [Camera]
-http://csrv.tv:80/123456/123456/2425
-#EXTINF:-1,Cinemax HD
-http://csrv.tv:80/123456/123456/1877
-#EXTINF:-1,Cinemax HD [Alter]
-http://csrv.tv:80/123456/123456/2393
-#EXTINF:-1,Cinemax SD
-http://csrv.tv:80/123456/123456/1878
-#EXTINF:-1,Cinemax SD [Alter]
-http://csrv.tv:80/123456/123456/2130
-#EXTINF:-1,Combate HD
-http://csrv.tv:80/123456/123456/1875
-#EXTINF:-1,Combate HD [Alter]
-http://csrv.tv:80/123456/123456/2392
-#EXTINF:-1,Combate SD
-http://csrv.tv:80/123456/123456/1876
-#EXTINF:-1,Combate SD [Alter]
-http://csrv.tv:80/123456/123456/2206
-#EXTINF:-1,Comedy Central HD
-http://csrv.tv:80/123456/123456/1873
-#EXTINF:-1,Comedy Central HD [Alter]
-http://csrv.tv:80/123456/123456/2391
-#EXTINF:-1,Comedy Central SD
-http://csrv.tv:80/123456/123456/1874
-#EXTINF:-1,Comedy Central SD [Alter]
-http://csrv.tv:80/123456/123456/2205
-#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
-http://csrv.tv:80/123456/123456/1642
-#EXTINF:-1,DAZN 2 - Copa Libertadores HD
-http://csrv.tv:80/123456/123456/1641
-#EXTINF:-1,Coragem [24H]
-http://csrv.tv:80/123456/123456/2092
-#EXTINF:-1,Curta HD
-http://csrv.tv:80/123456/123456/1871
-#EXTINF:-1,Curta SD
-http://csrv.tv:80/123456/123456/1872
-#EXTINF:-1,Curta SD [Alter]
-http://csrv.tv:80/123456/123456/2204
-#EXTINF:-1,Denis - O Pimentinha [24H]
-http://csrv.tv:80/123456/123456/2091
-#EXTINF:-1,Digimon [24H]
-http://csrv.tv:80/123456/123456/2090
-#EXTINF:-1,Discovery Channel HD
-http://csrv.tv:80/123456/123456/1869
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://csrv.tv:80/123456/123456/2390
-#EXTINF:-1,Discovery Channel SD
-http://csrv.tv:80/123456/123456/1870
-#EXTINF:-1,Discovery Channel SD [Alter]
-http://csrv.tv:80/123456/123456/2203
-#EXTINF:-1,Discovery Civilization HD
-http://csrv.tv:80/123456/123456/1867
-#EXTINF:-1,Discovery Civilization HD [Alter]
-http://csrv.tv:80/123456/123456/2389
-#EXTINF:-1,Discovery Civilization SD
-http://csrv.tv:80/123456/123456/1868
-#EXTINF:-1,Discovery Civilization SD [Alter]
-http://csrv.tv:80/123456/123456/2117
-#EXTINF:-1,Discovery H&H HD
-http://csrv.tv:80/123456/123456/1865
-#EXTINF:-1,Discovery H&H HD [Alter]
-http://csrv.tv:80/123456/123456/2388
-#EXTINF:-1,Discovery H&H SD
-http://csrv.tv:80/123456/123456/1866
-#EXTINF:-1,Discovery H&H SD [Alter]
-http://csrv.tv:80/123456/123456/2106
-#EXTINF:-1,Discovery Kids HD
-http://csrv.tv:80/123456/123456/1863
-#EXTINF:-1,Discovery Kids HD [Alter]
-http://csrv.tv:80/123456/123456/2387
-#EXTINF:-1,Discovery Kids SD
-http://csrv.tv:80/123456/123456/1864
-#EXTINF:-1,Discovery Kids SD [Alter]
-http://csrv.tv:80/123456/123456/2202
-#EXTINF:-1,Discovery Science HD
-http://csrv.tv:80/123456/123456/1861
-#EXTINF:-1,Discovery Science HD [Alter]
-http://csrv.tv:80/123456/123456/2386
-#EXTINF:-1,Discovery Science SD
-http://csrv.tv:80/123456/123456/1862
-#EXTINF:-1,Discovery Science SD [Alter]
-http://csrv.tv:80/123456/123456/2123
-#EXTINF:-1,Discovery Theater HD
-http://csrv.tv:80/123456/123456/1859
-#EXTINF:-1,Discovery Theater HD [Alter]
-http://csrv.tv:80/123456/123456/2385
-#EXTINF:-1,Discovery Theater SD
-http://csrv.tv:80/123456/123456/1860
-#EXTINF:-1,Discovery Theater SD [Alter]
-http://csrv.tv:80/123456/123456/2124
-#EXTINF:-1,Discovery Turbo HD
-http://csrv.tv:80/123456/123456/1857
-#EXTINF:-1,Discovery Turbo HD [Alter]
-http://csrv.tv:80/123456/123456/2384
-#EXTINF:-1,Discovery Turbo SD
-http://csrv.tv:80/123456/123456/1858
-#EXTINF:-1,Discovery Turbo SD [Alter]
-http://csrv.tv:80/123456/123456/2201
-#EXTINF:-1,Discovery World HD
-http://csrv.tv:80/123456/123456/1855
-#EXTINF:-1,Discovery World HD [Alter]
-http://csrv.tv:80/123456/123456/2383
-#EXTINF:-1,Discovery World SD
-http://csrv.tv:80/123456/123456/1856
-#EXTINF:-1,Discovery World SD [Alter]
-http://csrv.tv:80/123456/123456/2122
-#EXTINF:-1,Disney Channel HD
-http://csrv.tv:80/123456/123456/1853
-#EXTINF:-1,Disney Channel HD [Alter]
-http://csrv.tv:80/123456/123456/2382
-#EXTINF:-1,Disney Channel SD
-http://csrv.tv:80/123456/123456/1854
-#EXTINF:-1,Disney Channel SD [Alter]
-http://csrv.tv:80/123456/123456/2200
-#EXTINF:-1,Disney Jr HD
-http://csrv.tv:80/123456/123456/1678
-#EXTINF:-1,Disney Jr HD [Alter]
-http://csrv.tv:80/123456/123456/2381
-#EXTINF:-1,Disney Jr SD
-http://csrv.tv:80/123456/123456/1852
-#EXTINF:-1,Disney Jr SD [Alter]
-http://csrv.tv:80/123456/123456/2199
-#EXTINF:-1,Disney XD SD
-http://csrv.tv:80/123456/123456/1851
-#EXTINF:-1,Disney XD SD [Alter]
-http://csrv.tv:80/123456/123456/2198
-#EXTINF:-1,Doha [Camera]
-http://csrv.tv:80/123456/123456/2428
-#EXTINF:-1,Dois Homens e Meio [24H]
-http://csrv.tv:80/123456/123456/2089
-#EXTINF:-1,Doug [24H]
-http://csrv.tv:80/123456/123456/2049
-#EXTINF:-1,Dragon Ball Super [24H]
-http://csrv.tv:80/123456/123456/2056
-#EXTINF:-1,Dragon Ball Z [24H]
-http://csrv.tv:80/123456/123456/2088
-#EXTINF:-1,Dubai [Camera]
-http://csrv.tv:80/123456/123456/2423
-#EXTINF:-1,Dublin [Camera]
-http://csrv.tv:80/123456/123456/2421
-#EXTINF:-1,E! HD
-http://csrv.tv:80/123456/123456/1849
-#EXTINF:-1,E! HD [Alter]
-http://csrv.tv:80/123456/123456/2380
-#EXTINF:-1,E! SD
-http://csrv.tv:80/123456/123456/1850
-#EXTINF:-1,E! SD [Alter]
-http://csrv.tv:80/123456/123456/2197
-#EXTINF:-1,Ei Plus HD
-http://csrv.tv:80/123456/123456/1645
-#EXTINF:-1,Ei Plus SD
-http://csrv.tv:80/123456/123456/1644
-#EXTINF:-1,ESPN 2 HD
-http://csrv.tv:80/123456/123456/1846
-#EXTINF:-1,ESPN 2 HD [Alter]
-http://csrv.tv:80/123456/123456/2379
-#EXTINF:-1,ESPN 2 SD
-http://csrv.tv:80/123456/123456/1847
-#EXTINF:-1,ESPN 2 SD [Alter]
-http://csrv.tv:80/123456/123456/2196
-#EXTINF:-1,ESPN Brasil HD
-http://csrv.tv:80/123456/123456/1844
-#EXTINF:-1,ESPN Brasil HD [Alter]
-http://csrv.tv:80/123456/123456/2378
-#EXTINF:-1,ESPN Brasil SD
-http://csrv.tv:80/123456/123456/1845
-#EXTINF:-1,ESPN Brasil SD [Alter]
-http://csrv.tv:80/123456/123456/2195
-#EXTINF:-1,ESPN Extra HD
-http://csrv.tv:80/123456/123456/1842
-#EXTINF:-1,ESPN Extra HD [Alter]
-http://csrv.tv:80/123456/123456/2377
-#EXTINF:-1,ESPN Extra SD
-http://csrv.tv:80/123456/123456/1843
-#EXTINF:-1,ESPN HD
-http://csrv.tv:80/123456/123456/1841
-#EXTINF:-1,ESPN HD [Alter]
-http://csrv.tv:80/123456/123456/2376
-#EXTINF:-1,ESPN SD
-http://csrv.tv:80/123456/123456/1848
-#EXTINF:-1,ESPN SD [Alter]
-http://csrv.tv:80/123456/123456/2194
-#EXTINF:-1,Eu a Patroa e as Criancas [24H]
-http://csrv.tv:80/123456/123456/2054
-#EXTINF:-1,Film & Arts SD
-http://csrv.tv:80/123456/123456/1666
-#EXTINF:-1,Fish TV HD
-http://csrv.tv:80/123456/123456/1839
-#EXTINF:-1,Fish TV SD
-http://csrv.tv:80/123456/123456/1840
-#EXTINF:-1,Fish TV SD [Alter]
-http://csrv.tv:80/123456/123456/2109
-#EXTINF:-1,Food Network HD
-http://csrv.tv:80/123456/123456/1837
-#EXTINF:-1,Food Network HD [Alter]
-http://csrv.tv:80/123456/123456/2375
-#EXTINF:-1,Food Network SD
-http://csrv.tv:80/123456/123456/1838
-#EXTINF:-1,Food Network SD [Alter]
-http://csrv.tv:80/123456/123456/2125
-#EXTINF:-1,Formiga Atomica [24H]
-http://csrv.tv:80/123456/123456/2039
-#EXTINF:-1,FOX HD
-http://csrv.tv:80/123456/123456/1835
-#EXTINF:-1,FOX HD [Alter]
-http://csrv.tv:80/123456/123456/2374
-#EXTINF:-1,FOX Life HD
-http://csrv.tv:80/123456/123456/1833
-#EXTINF:-1,FOX Life HD [Alter]
-http://csrv.tv:80/123456/123456/2373
-#EXTINF:-1,FOX Life SD
-http://csrv.tv:80/123456/123456/1834
-#EXTINF:-1,FOX Life SD [Alter]
-http://csrv.tv:80/123456/123456/2193
-#EXTINF:-1,FOX Premium 1 HD
-http://csrv.tv:80/123456/123456/1831
-#EXTINF:-1,FOX Premium 1 HD [Alter]
-http://csrv.tv:80/123456/123456/2372
-#EXTINF:-1,FOX Premium 1 SD
-http://csrv.tv:80/123456/123456/1832
-#EXTINF:-1,FOX Premium 2 HD
-http://csrv.tv:80/123456/123456/1829
-#EXTINF:-1,FOX Premium 2 HD [Alter]
-http://csrv.tv:80/123456/123456/2371
-#EXTINF:-1,FOX Premium 2 SD
-http://csrv.tv:80/123456/123456/1830
-#EXTINF:-1,FOX SD
-http://csrv.tv:80/123456/123456/1836
-#EXTINF:-1,FOX SD [Alter]
-http://csrv.tv:80/123456/123456/2192
-#EXTINF:-1,FOX Sports 2 HD
-http://csrv.tv:80/123456/123456/1825
-#EXTINF:-1,FOX Sports 2 HD [Alter]
-http://csrv.tv:80/123456/123456/2370
-#EXTINF:-1,FOX Sports 2 SD
-http://csrv.tv:80/123456/123456/1826
-#EXTINF:-1,FOX Sports 2 SD [Alter]
-http://csrv.tv:80/123456/123456/2191
-#EXTINF:-1,FOX Sports HD
-http://csrv.tv:80/123456/123456/1827
-#EXTINF:-1,FOX Sports HD [Alter]
-http://csrv.tv:80/123456/123456/2369
-#EXTINF:-1,FOX Sports SD
-http://csrv.tv:80/123456/123456/1828
-#EXTINF:-1,FOX Sports SD [Alter]
-http://csrv.tv:80/123456/123456/2190
-#EXTINF:-1,Futura HD
-http://csrv.tv:80/123456/123456/1823
-#EXTINF:-1,Futura SD
-http://csrv.tv:80/123456/123456/1824
-#EXTINF:-1,Futura SD [Alter]
-http://csrv.tv:80/123456/123456/2189
-#EXTINF:-1,FX HD
-http://csrv.tv:80/123456/123456/1821
-#EXTINF:-1,FX HD [Alter]
-http://csrv.tv:80/123456/123456/2368
-#EXTINF:-1,FX SD
-http://csrv.tv:80/123456/123456/1822
-#EXTINF:-1,FX SD [Alter]
-http://csrv.tv:80/123456/123456/2118
-#EXTINF:-1,Galinha Pintadinha [24H]
-http://csrv.tv:80/123456/123456/2087
-#EXTINF:-1,GloboEsporte.com HD
-http://csrv.tv:80/123456/123456/28653
-#EXTINF:-1,Globo Brasilia HD
-http://csrv.tv:80/123456/123456/1638
-#EXTINF:-1,Globo Brasilia SD
-http://csrv.tv:80/123456/123456/1639
-#EXTINF:-1,Globo Brasilia SD [Alter]
-http://csrv.tv:80/123456/123456/2410
-#EXTINF:-1,Globo EPTV Araraquara SD
-http://csrv.tv:80/123456/123456/1637
-#EXTINF:-1,Globo EPTV Campinas HD
-http://csrv.tv:80/123456/123456/1635
-#EXTINF:-1,Globo EPTV Campinas SD
-http://csrv.tv:80/123456/123456/1636
-#EXTINF:-1,Globo EPTV Campinas SD [Alter]
-http://csrv.tv:80/123456/123456/2409
-#EXTINF:-1,Globo EPTV Ribeirao Preto HD
-http://csrv.tv:80/123456/123456/1634
-#EXTINF:-1,Globo EPTV Ribeirao Preto SD
-http://csrv.tv:80/123456/123456/1633
-#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter]
-http://csrv.tv:80/123456/123456/2408
-#EXTINF:-1,Globo EPTV Sao Carlos SD
-http://csrv.tv:80/123456/123456/1632
-#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter]
-http://csrv.tv:80/123456/123456/2407
-#EXTINF:-1,Globo Inter TV Alto Litoral HD
-http://csrv.tv:80/123456/123456/1561
-#EXTINF:-1,Globo Inter TV Alto Litoral SD
-http://csrv.tv:80/123456/123456/1560
-#EXTINF:-1,Globo Inter TV dos Vales HD
-http://csrv.tv:80/123456/123456/1558
-#EXTINF:-1,Globo Inter TV dos Vales SD
-http://csrv.tv:80/123456/123456/1557
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://csrv.tv:80/123456/123456/1555
-#EXTINF:-1,Globo Inter TV Grande Minas SD
-http://csrv.tv:80/123456/123456/1554
-#EXTINF:-1,Globo Inter TV Natal SD
-http://csrv.tv:80/123456/123456/1631
-#EXTINF:-1,Globo Inter TV Serra Mar HD
-http://csrv.tv:80/123456/123456/1552
-#EXTINF:-1,Globo Inter TV Serra Mar SD
-http://csrv.tv:80/123456/123456/1551
-#EXTINF:-1,Globo Internacional HD
-http://csrv.tv:80/123456/123456/1599
-#EXTINF:-1,Globo Minas HD
-http://csrv.tv:80/123456/123456/1629
-#EXTINF:-1,Globo Minas HD [Alter]
-http://csrv.tv:80/123456/123456/2414
-#EXTINF:-1,Globo Minas SD
-http://csrv.tv:80/123456/123456/1630
-#EXTINF:-1,Globo Minas SD [Alter]
-http://csrv.tv:80/123456/123456/2406
-#EXTINF:-1,Globo News HD
-http://csrv.tv:80/123456/123456/1819
-#EXTINF:-1,Globo News HD [Alter]
-http://csrv.tv:80/123456/123456/2367
-#EXTINF:-1,Globo News SD
-http://csrv.tv:80/123456/123456/1820
-#EXTINF:-1,Globo News SD [Alter]
-http://csrv.tv:80/123456/123456/2132
-#EXTINF:-1,Globo Nordeste HD
-http://csrv.tv:80/123456/123456/1627
-#EXTINF:-1,Globo Nordeste SD
-http://csrv.tv:80/123456/123456/1628
-#EXTINF:-1,Globo Nordeste SD [Alter]
-http://csrv.tv:80/123456/123456/2405
-#EXTINF:-1,Globo NSC TV Blumenau HD
-http://csrv.tv:80/123456/123456/1549
-#EXTINF:-1,Globo NSC TV Blumenau SD
-http://csrv.tv:80/123456/123456/1548
-#EXTINF:-1,Globo NSC TV Chapeco HD
-http://csrv.tv:80/123456/123456/1597
-#EXTINF:-1,Globo NSC TV Chapeco SD
-http://csrv.tv:80/123456/123456/1596
-#EXTINF:-1,Globo NSC TV Florianopolis HD
-http://csrv.tv:80/123456/123456/1625
-#EXTINF:-1,Globo NSC TV Florianopolis SD
-http://csrv.tv:80/123456/123456/1626
-#EXTINF:-1,Globo NSC TV Joinville HD
-http://csrv.tv:80/123456/123456/1543
-#EXTINF:-1,Globo NSC TV Joinville SD
-http://csrv.tv:80/123456/123456/1542
-#EXTINF:-1,Globo RBS TV Caxias do Sul HD
-http://csrv.tv:80/123456/123456/1546
-#EXTINF:-1,Globo RBS TV Caxias do Sul SD
-http://csrv.tv:80/123456/123456/1545
-#EXTINF:-1,Globo RBS TV Pelotas HD
-http://csrv.tv:80/123456/123456/1540
-#EXTINF:-1,Globo RBS TV Pelotas SD
-http://csrv.tv:80/123456/123456/1539
-#EXTINF:-1,Globo RBS TV Porto Alegre HD
-http://csrv.tv:80/123456/123456/1623
-#EXTINF:-1,Globo RBS TV Porto Alegre SD
-http://csrv.tv:80/123456/123456/1624
-#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter]
-http://csrv.tv:80/123456/123456/2404
-#EXTINF:-1,Globo Rede AM. Manaus SD
-http://csrv.tv:80/123456/123456/1622
-#EXTINF:-1,Globo RJ HD
-http://csrv.tv:80/123456/123456/1620
-#EXTINF:-1,Globo RJ HD [Alter]
-http://csrv.tv:80/123456/123456/2413
-#EXTINF:-1,Globo RJ SD
-http://csrv.tv:80/123456/123456/1621
-#EXTINF:-1,Globo RJ SD [Alter]
-http://csrv.tv:80/123456/123456/2403
-#EXTINF:-1,Globo RPC Curitiba HD
-http://csrv.tv:80/123456/123456/1617
-#EXTINF:-1,Globo RPC Curitiba SD
-http://csrv.tv:80/123456/123456/1618
-#EXTINF:-1,Globo RPC Foz do Iguacu HD
-http://csrv.tv:80/123456/123456/1593
-#EXTINF:-1,Globo RPC Foz do Iguacu SD
-http://csrv.tv:80/123456/123456/1595
-#EXTINF:-1,Globo SP HD
-http://csrv.tv:80/123456/123456/1614
-#EXTINF:-1,Globo SP HD [Alter]
-http://csrv.tv:80/123456/123456/2311
-#EXTINF:-1,Globo SP SD
-http://csrv.tv:80/123456/123456/1615
-#EXTINF:-1,Globo SP SD [Alter]
-http://csrv.tv:80/123456/123456/2127
-#EXTINF:-1,Globo TV Anhanguera HD
-http://csrv.tv:80/123456/123456/1611
-#EXTINF:-1,Globo TV Anhanguera SD
-http://csrv.tv:80/123456/123456/1612
-#EXTINF:-1,Globo TV Bahia HD
-http://csrv.tv:80/123456/123456/1609
-#EXTINF:-1,Globo TV Bahia SD
-http://csrv.tv:80/123456/123456/1610
-#EXTINF:-1,Globo TV C. America Cuiaba SD
-http://csrv.tv:80/123456/123456/1608
-#EXTINF:-1,Globo TV Cabo Branco HD
-http://csrv.tv:80/123456/123456/1537
-#EXTINF:-1,Globo TV Cabo Branco SD
-http://csrv.tv:80/123456/123456/1536
-#EXTINF:-1,Globo TV Clube Teresina HD
-http://csrv.tv:80/123456/123456/1590
-#EXTINF:-1,Globo TV Clube Teresina SD
-http://csrv.tv:80/123456/123456/1592
-#EXTINF:-1,Globo TV Diario Fortaleza HD
-http://csrv.tv:80/123456/123456/1659
-#EXTINF:-1,Globo TV Diario Fortaleza SD
-http://csrv.tv:80/123456/123456/1658
-#EXTINF:-1,Globo TV Gazeta Alagoas HD
-http://csrv.tv:80/123456/123456/1566
-#EXTINF:-1,Globo TV Gazeta Alagoas SD
-http://csrv.tv:80/123456/123456/1568
-#EXTINF:-1,Globo TV Gazeta Sul ES HD
-http://csrv.tv:80/123456/123456/1564
-#EXTINF:-1,Globo TV Gazeta Vitoria HD
-http://csrv.tv:80/123456/123456/1587
-#EXTINF:-1,Globo TV Gazeta Vitoria SD
-http://csrv.tv:80/123456/123456/1589
-#EXTINF:-1,Globo TV Liberal Belem SD
-http://csrv.tv:80/123456/123456/1607
-#EXTINF:-1,Globo TV Mirante Sao Luis HD
-http://csrv.tv:80/123456/123456/1574
-#EXTINF:-1,Globo TV Mirante Sao Luis SD
-http://csrv.tv:80/123456/123456/1573
-#EXTINF:-1,Globo TV Morena Campo Grande HD
-http://csrv.tv:80/123456/123456/1571
-#EXTINF:-1,Globo TV Morena Campo Grande SD
-http://csrv.tv:80/123456/123456/1570
-#EXTINF:-1,Globo TV Rio Sul HD
-http://csrv.tv:80/123456/123456/1534
-#EXTINF:-1,Globo TV Rio Sul SD
-http://csrv.tv:80/123456/123456/1533
-#EXTINF:-1,Globo TV Santa Cruz HD
-http://csrv.tv:80/123456/123456/1531
-#EXTINF:-1,Globo TV Santa Cruz SD
-http://csrv.tv:80/123456/123456/1530
-#EXTINF:-1,Globo TV Sergipe HD
-http://csrv.tv:80/123456/123456/1584
-#EXTINF:-1,Globo TV Sergipe SD
-http://csrv.tv:80/123456/123456/1586
-#EXTINF:-1,Globo TV Tem Bauru SD
-http://csrv.tv:80/123456/123456/1606
-#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD
-http://csrv.tv:80/123456/123456/1604
-#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD
-http://csrv.tv:80/123456/123456/1603
-#EXTINF:-1,Globo TV Tem Sorocaba SD
-http://csrv.tv:80/123456/123456/1605
-#EXTINF:-1,Globo TV Tribuna Santos SD
-http://csrv.tv:80/123456/123456/1602
-#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD
-http://csrv.tv:80/123456/123456/1601
-#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
-http://csrv.tv:80/123456/123456/1600
-#EXTINF:-1,Gloob HD
-http://csrv.tv:80/123456/123456/1817
-#EXTINF:-1,Gloob HD [Alter]
-http://csrv.tv:80/123456/123456/2365
-#EXTINF:-1,Gloob SD
-http://csrv.tv:80/123456/123456/1818
-#EXTINF:-1,Gloob SD [Alter]
-http://csrv.tv:80/123456/123456/2187
-#EXTINF:-1,Gloobinho HD
-http://csrv.tv:80/123456/123456/1816
-#EXTINF:-1,Gloobinho SD
-http://csrv.tv:80/123456/123456/1815
-#EXTINF:-1,GNT HD
-http://csrv.tv:80/123456/123456/1813
-#EXTINF:-1,GNT HD [Alter]
-http://csrv.tv:80/123456/123456/2364
-#EXTINF:-1,GNT SD
-http://csrv.tv:80/123456/123456/1814
-#EXTINF:-1,GNT SD [Alter]
-http://csrv.tv:80/123456/123456/2120
-#EXTINF:-1,Gospel Cartoon [24H]
-http://csrv.tv:80/123456/123456/2086
-#EXTINF:-1,Guardioes da Galaxia [24H]
-http://csrv.tv:80/123456/123456/2040
-#EXTINF:-1,H2 HD
-http://csrv.tv:80/123456/123456/1811
-#EXTINF:-1,H2 HD [Alter]
-http://csrv.tv:80/123456/123456/2363
-#EXTINF:-1,H2 SD
-http://csrv.tv:80/123456/123456/1812
-#EXTINF:-1,H2 SD [Alter]
-http://csrv.tv:80/123456/123456/2186
-#EXTINF:-1,HBO 2 HD
-http://csrv.tv:80/123456/123456/1808
-#EXTINF:-1,HBO 2 HD [Alter]
-http://csrv.tv:80/123456/123456/2362
-#EXTINF:-1,HBO 2 SD
-http://csrv.tv:80/123456/123456/1809
-#EXTINF:-1,HBO 2 SD [Alter]
-http://csrv.tv:80/123456/123456/2126
-#EXTINF:-1,HBO Family HD
-http://csrv.tv:80/123456/123456/1806
-#EXTINF:-1,HBO Family HD [Alter]
-http://csrv.tv:80/123456/123456/2361
-#EXTINF:-1,HBO Family SD
-http://csrv.tv:80/123456/123456/1807
-#EXTINF:-1,HBO Family SD [Alter]
-http://csrv.tv:80/123456/123456/2185
-#EXTINF:-1,HBO HD
-http://csrv.tv:80/123456/123456/1805
-#EXTINF:-1,HBO HD [Alter]
-http://csrv.tv:80/123456/123456/2360
-#EXTINF:-1,HBO Plus E SD [Alter]
-http://csrv.tv:80/123456/123456/2184
-#EXTINF:-1,HBO Plus HD
-http://csrv.tv:80/123456/123456/1803
-#EXTINF:-1,HBO Plus HD [Alter]
-http://csrv.tv:80/123456/123456/2359
-#EXTINF:-1,HBO Plus SD
-http://csrv.tv:80/123456/123456/1804
-#EXTINF:-1,HBO Plus SD [Alter]
-http://csrv.tv:80/123456/123456/2183
-#EXTINF:-1,HBO SD
-http://csrv.tv:80/123456/123456/1810
-#EXTINF:-1,HBO SD [Alter]
-http://csrv.tv:80/123456/123456/2182
-#EXTINF:-1,HBO Signature HD
-http://csrv.tv:80/123456/123456/1801
-#EXTINF:-1,HBO Signature HD [Alter]
-http://csrv.tv:80/123456/123456/2358
-#EXTINF:-1,HBO Signature SD
-http://csrv.tv:80/123456/123456/1802
-#EXTINF:-1,HBO Signature SD [Alter]
-http://csrv.tv:80/123456/123456/2181
-#EXTINF:-1,He-Man [24H]
-http://csrv.tv:80/123456/123456/2085
-#EXTINF:-1,Hércules [24H]
-http://csrv.tv:80/123456/123456/2026
-#EXTINF:-1,Historias da Disney [24H]
-http://csrv.tv:80/123456/123456/2084
-#EXTINF:-1,History Channel HD
-http://csrv.tv:80/123456/123456/1799
-#EXTINF:-1,History Channel HD [Alter]
-http://csrv.tv:80/123456/123456/2320
-#EXTINF:-1,History Channel SD
-http://csrv.tv:80/123456/123456/1800
-#EXTINF:-1,History Channel SD [Alter]
-http://csrv.tv:80/123456/123456/2143
-#EXTINF:-1,Homem de Ferro [24H]
-http://csrv.tv:80/123456/123456/2036
-#EXTINF:-1,Homem-Aranha [24H]
-http://csrv.tv:80/123456/123456/2083
-#EXTINF:-1,Incrivel Hulk [24H]
-http://csrv.tv:80/123456/123456/2038
-#EXTINF:-1,Investigation Discovery HD
-http://csrv.tv:80/123456/123456/1797
-#EXTINF:-1,Investigation Discovery HD [Alter]
-http://csrv.tv:80/123456/123456/2357
-#EXTINF:-1,Investigation Discovery SD
-http://csrv.tv:80/123456/123456/1798
-#EXTINF:-1,Investigation Discovery SD [Alter]
-http://csrv.tv:80/123456/123456/2119
-#EXTINF:-1,Jack-Chan [24H]
-http://csrv.tv:80/123456/123456/2052
-#EXTINF:-1,Jaspion [24H]
-http://csrv.tv:80/123456/123456/2082
-#EXTINF:-1,Jerusalem [Camera]
-http://csrv.tv:80/123456/123456/2430
-#EXTINF:-1,Jiraya [24H]
-http://csrv.tv:80/123456/123456/2081
-#EXTINF:-1,Kenan e Kel [24H]
-http://csrv.tv:80/123456/123456/2044
-#EXTINF:-1,Lifetime HD
-http://csrv.tv:80/123456/123456/1795
-#EXTINF:-1,Lifetime HD [Alter]
-http://csrv.tv:80/123456/123456/2356
-#EXTINF:-1,Lifetime SD
-http://csrv.tv:80/123456/123456/1796
-#EXTINF:-1,Lifetime SD [Alter]
-http://csrv.tv:80/123456/123456/2180
-#EXTINF:-1,Los Angeles [Camera]
-http://csrv.tv:80/123456/123456/2432
-#EXTINF:-1,Mais GloboSat HD
-http://csrv.tv:80/123456/123456/1793
-#EXTINF:-1,Mais GloboSat HD [Alter]
-http://csrv.tv:80/123456/123456/2366
-#EXTINF:-1,Mais GloboSat SD
-http://csrv.tv:80/123456/123456/1794
-#EXTINF:-1,Mais GloboSat SD [Alter]
-http://csrv.tv:80/123456/123456/2188
-#EXTINF:-1,Maldivas [Camera]
-http://csrv.tv:80/123456/123456/2422
-#EXTINF:-1,MAX HD
-http://csrv.tv:80/123456/123456/1791
-#EXTINF:-1,MAX HD [Alter]
-http://csrv.tv:80/123456/123456/2355
-#EXTINF:-1,MAX Prime HD
-http://csrv.tv:80/123456/123456/1789
-#EXTINF:-1,MAX Prime HD [Alter]
-http://csrv.tv:80/123456/123456/2354
-#EXTINF:-1,MAX Prime SD
-http://csrv.tv:80/123456/123456/1790
-#EXTINF:-1,MAX Prime SD [Alter]
-http://csrv.tv:80/123456/123456/2179
-#EXTINF:-1,MAX SD
-http://csrv.tv:80/123456/123456/1792
-#EXTINF:-1,MAX SD [Alter]
-http://csrv.tv:80/123456/123456/2178
-#EXTINF:-1,MAX Up HD
-http://csrv.tv:80/123456/123456/1787
-#EXTINF:-1,MAX Up HD [Alter]
-http://csrv.tv:80/123456/123456/2353
-#EXTINF:-1,MAX Up SD
-http://csrv.tv:80/123456/123456/1788
-#EXTINF:-1,MTV HD
-http://csrv.tv:80/123456/123456/1783
-#EXTINF:-1,MTV HD [Alter]
-http://csrv.tv:80/123456/123456/2351
-#EXTINF:-1,MTV Live HD
-http://csrv.tv:80/123456/123456/1676
-#EXTINF:-1,MTV Live SD
-http://csrv.tv:80/123456/123456/1677
-#EXTINF:-1,MTV SD
-http://csrv.tv:80/123456/123456/1784
-#EXTINF:-1,Multishow HD
-http://csrv.tv:80/123456/123456/1781
-#EXTINF:-1,Multishow HD [Alter]
-http://csrv.tv:80/123456/123456/2350
-#EXTINF:-1,Multishow SD
-http://csrv.tv:80/123456/123456/1782
-#EXTINF:-1,Multishow SD [Alter]
-http://csrv.tv:80/123456/123456/2175
-#EXTINF:-1,Music Box Brasil HD
-http://csrv.tv:80/123456/123456/1779
-#EXTINF:-1,Music Box Brasil SD
-http://csrv.tv:80/123456/123456/1780
-#EXTINF:-1,NatGeo HD
-http://csrv.tv:80/123456/123456/1777
-#EXTINF:-1,NatGeo HD [Alter]
-http://csrv.tv:80/123456/123456/2349
-#EXTINF:-1,NatGeo Kids HD
-http://csrv.tv:80/123456/123456/1775
-#EXTINF:-1,NatGeo Kids HD [Alter]
-http://csrv.tv:80/123456/123456/2348
-#EXTINF:-1,NatGeo Kids SD
-http://csrv.tv:80/123456/123456/1776
-#EXTINF:-1,NatGeo Kids SD [Alter]
-http://csrv.tv:80/123456/123456/2174
-#EXTINF:-1,NatGeo SD
-http://csrv.tv:80/123456/123456/1778
-#EXTINF:-1,NatGeo SD [Alter]
-http://csrv.tv:80/123456/123456/2173
-#EXTINF:-1,NatGeo Wild HD
-http://csrv.tv:80/123456/123456/1774
-#EXTINF:-1,NatGeo Wild HD [Alter]
-http://csrv.tv:80/123456/123456/2347
-#EXTINF:-1,NatGeo Wild SD
-http://csrv.tv:80/123456/123456/1773
-#EXTINF:-1,NatGeo Wild SD [Alter]
-http://csrv.tv:80/123456/123456/2172
-#EXTINF:-1,NBR SD
-http://csrv.tv:80/123456/123456/1772
-#EXTINF:-1,New York City [Camera]
-http://csrv.tv:80/123456/123456/2418
-#EXTINF:-1,Nick Jr HD
-http://csrv.tv:80/123456/123456/1770
-#EXTINF:-1,Nick Jr HD [Alter]
-http://csrv.tv:80/123456/123456/2346
-#EXTINF:-1,Nick Jr SD
-http://csrv.tv:80/123456/123456/1771
-#EXTINF:-1,Nick Jr SD [Alter]
-http://csrv.tv:80/123456/123456/2171
-#EXTINF:-1,Nickelodeon HD
-http://csrv.tv:80/123456/123456/1768
-#EXTINF:-1,Nickelodeon HD [Alter]
-http://csrv.tv:80/123456/123456/2345
-#EXTINF:-1,Nickelodeon SD
-http://csrv.tv:80/123456/123456/1769
-#EXTINF:-1,Nickelodeon SD [Alter]
-http://csrv.tv:80/123456/123456/2170
-#EXTINF:-1,Play TV SD [Alter]
-http://csrv.tv:80/123456/123456/2167
-#EXTINF:-1,[+18] Playboy HD
-http://csrv.tv:80/123456/123456/1649
-#EXTINF:-1,[+18] Playboy HD [Alter]
-http://csrv.tv:80/123456/123456/2309
-#EXTINF:-1,[+18] Playboy SD
-http://csrv.tv:80/123456/123456/1650
-#EXTINF:-1,[+18] Playboy SD [Alter]
-http://csrv.tv:80/123456/123456/2166
-#EXTINF:-1,PlayKids HD
-http://csrv.tv:80/123456/123456/1668
-#EXTINF:-1,PlayKids SD
-http://csrv.tv:80/123456/123456/1667
-#EXTINF:-1,Pokemon [24H]
-http://csrv.tv:80/123456/123456/2051
-#EXTINF:-1,Polishop TV HD
-http://csrv.tv:80/123456/123456/1652
-#EXTINF:-1,Popeye O Marinheiro [24H]
-http://csrv.tv:80/123456/123456/2041
-#EXTINF:-1,Power Couple Brasil HD
-http://csrv.tv:80/123456/123456/1643
-#EXTINF:-1,Power Couple Brasil HD [Alter]
-http://csrv.tv:80/123456/123456/2308
-#EXTINF:-1,Prague [Camera]
-http://csrv.tv:80/123456/123456/2419
-#EXTINF:-1,Premiere 2 HD
-http://csrv.tv:80/123456/123456/1762
-#EXTINF:-1,Premiere 2 HD [Alter]
-http://csrv.tv:80/123456/123456/2342
-#EXTINF:-1,Premiere 2 SD
-http://csrv.tv:80/123456/123456/1763
-#EXTINF:-1,Premiere 2 SD [Alter]
-http://csrv.tv:80/123456/123456/2165
-#EXTINF:-1,Premiere 3 HD
-http://csrv.tv:80/123456/123456/1760
-#EXTINF:-1,Premiere 3 HD [Alter]
-http://csrv.tv:80/123456/123456/2341
-#EXTINF:-1,Premiere 3 SD
-http://csrv.tv:80/123456/123456/1761
-#EXTINF:-1,Premiere 3 SD [Alter]
-http://csrv.tv:80/123456/123456/2164
-#EXTINF:-1,Premiere 4 HD
-http://csrv.tv:80/123456/123456/1758
-#EXTINF:-1,Premiere 4 HD [Alter]
-http://csrv.tv:80/123456/123456/2340
-#EXTINF:-1,Premiere 4 SD
-http://csrv.tv:80/123456/123456/1759
-#EXTINF:-1,Premiere 4 SD [Alter]
-http://csrv.tv:80/123456/123456/2163
-#EXTINF:-1,Premiere 5 HD
-http://csrv.tv:80/123456/123456/1756
-#EXTINF:-1,Premiere 5 HD [Alter]
-http://csrv.tv:80/123456/123456/2339
-#EXTINF:-1,Premiere 5 SD
-http://csrv.tv:80/123456/123456/1757
-#EXTINF:-1,Premiere 5 SD [Alter]
-http://csrv.tv:80/123456/123456/2162
-#EXTINF:-1,Premiere 6 HD
-http://csrv.tv:80/123456/123456/1754
-#EXTINF:-1,Premiere 6 HD [Alter]
-http://csrv.tv:80/123456/123456/2338
-#EXTINF:-1,Premiere 6 SD
-http://csrv.tv:80/123456/123456/1755
-#EXTINF:-1,Premiere 6 SD [Alter]
-http://csrv.tv:80/123456/123456/2161
-#EXTINF:-1,Premiere 7 HD
-http://csrv.tv:80/123456/123456/1752
-#EXTINF:-1,Premiere 7 HD [Alter]
-http://csrv.tv:80/123456/123456/2337
-#EXTINF:-1,Premiere 7 SD
-http://csrv.tv:80/123456/123456/1753
-#EXTINF:-1,Premiere 7 SD [Alter]
-http://csrv.tv:80/123456/123456/2160
-#EXTINF:-1,Premiere 8 SD [Alter]
-http://csrv.tv:80/123456/123456/2159
-#EXTINF:-1,Premiere Clubes HD
-http://csrv.tv:80/123456/123456/1750
-#EXTINF:-1,Premiere Clubes HD [Alter]
-http://csrv.tv:80/123456/123456/2336
-#EXTINF:-1,Premiere Clubes SD
-http://csrv.tv:80/123456/123456/1751
-#EXTINF:-1,Premiere Clubes SD [Alter]
-http://csrv.tv:80/123456/123456/2158
-#EXTINF:-1,Prime Box Brasil HD
-http://csrv.tv:80/123456/123456/1748
-#EXTINF:-1,Prime Box Brasil SD
-http://csrv.tv:80/123456/123456/1749
-#EXTINF:-1,Rambo [24H]
-http://csrv.tv:80/123456/123456/2068
-#EXTINF:-1,RCI SD
-http://csrv.tv:80/123456/123456/1651
-#EXTINF:-1,Record News HD
-http://csrv.tv:80/123456/123456/1745
-#EXTINF:-1,Record News SD
-http://csrv.tv:80/123456/123456/1746
-#EXTINF:-1,RecordTV BA HD
-http://csrv.tv:80/123456/123456/1665
-#EXTINF:-1,RecordTV BA SD
-http://csrv.tv:80/123456/123456/1664
-#EXTINF:-1,RecordTV DF HD
-http://csrv.tv:80/123456/123456/1663
-#EXTINF:-1,RecordTV DF SD
-http://csrv.tv:80/123456/123456/1662
-#EXTINF:-1,RecordTV MG HD
-http://csrv.tv:80/123456/123456/1670
-#EXTINF:-1,RecordTV MG SD
-http://csrv.tv:80/123456/123456/1669
-#EXTINF:-1,RecordTV RJ HD
-http://csrv.tv:80/123456/123456/1672
-#EXTINF:-1,RecordTV RJ SD
-http://csrv.tv:80/123456/123456/1671
-#EXTINF:-1,RecordTV RS HD
-http://csrv.tv:80/123456/123456/1661
-#EXTINF:-1,RecordTV RS SD
-http://csrv.tv:80/123456/123456/1660
-#EXTINF:-1,RecordTV SP HD
-http://csrv.tv:80/123456/123456/1743
-#EXTINF:-1,RecordTV SP SD
-http://csrv.tv:80/123456/123456/1747
-#EXTINF:-1,Rede Brasil SD
-http://csrv.tv:80/123456/123456/1742
-#EXTINF:-1,Rede TV HD
-http://csrv.tv:80/123456/123456/1740
-#EXTINF:-1,Rede TV HD [Alter]
-http://csrv.tv:80/123456/123456/2335
-#EXTINF:-1,Rede TV SD
-http://csrv.tv:80/123456/123456/1741
-#EXTINF:-1,Rede TV SD [Alter]
-http://csrv.tv:80/123456/123456/2116
-#EXTINF:-1,Rede Vida HD
-http://csrv.tv:80/123456/123456/1673
-#EXTINF:-1,Rede Vida SD
-http://csrv.tv:80/123456/123456/1739
-#EXTINF:-1,Rede Vida SD [Alter]
-http://csrv.tv:80/123456/123456/2110
-#EXTINF:-1,Rio de Janeiro [Camera]
-http://csrv.tv:80/123456/123456/2420
-#EXTINF:-1,Rit TV SD
-http://csrv.tv:80/123456/123456/1654
-#EXTINF:-1,Saipan [Camera]
-http://csrv.tv:80/123456/123456/2424
-#EXTINF:-1,SBT HD
-http://csrv.tv:80/123456/123456/1737
-#EXTINF:-1,SBT HD [Alter]
-http://csrv.tv:80/123456/123456/2334
-#EXTINF:-1,SBT SD
-http://csrv.tv:80/123456/123456/1738
-#EXTINF:-1,SBT SD [Alter]
-http://csrv.tv:80/123456/123456/2157
-#EXTINF:-1,SBT SP Interior SD
-http://csrv.tv:80/123456/123456/1736
-#EXTINF:-1,Scooby Doo [24H]
-http://csrv.tv:80/123456/123456/2067
-#EXTINF:-1,[+18] Sextreme SD
-http://csrv.tv:80/123456/123456/1648
-#EXTINF:-1,[+18] Sextreme SD [Alter]
-http://csrv.tv:80/123456/123456/2105
-#EXTINF:-1,[+18] Sexy Hot SD
-http://csrv.tv:80/123456/123456/1647
-#EXTINF:-1,[+18] Sexy Hot SD [Alter]
-http://csrv.tv:80/123456/123456/2104
-#EXTINF:-1,Smallville [24H]
-http://csrv.tv:80/123456/123456/2030
-#EXTINF:-1,Smithsonian Channel HD
-http://csrv.tv:80/123456/123456/1657
-#EXTINF:-1,Smithsonian Channel SD
-http://csrv.tv:80/123456/123456/1656
-#EXTINF:-1,Sobrenatural [24H]
-http://csrv.tv:80/123456/123456/2043
-#EXTINF:-1,South Park [24H]
-http://csrv.tv:80/123456/123456/2066
-#EXTINF:-1,Space HD
-http://csrv.tv:80/123456/123456/1732
-#EXTINF:-1,Space HD [Alter]
-http://csrv.tv:80/123456/123456/2333
-#EXTINF:-1,Space SD
-http://csrv.tv:80/123456/123456/1733
-#EXTINF:-1,Space SD [Alter]
-http://csrv.tv:80/123456/123456/2156
-#EXTINF:-1,SporTV 2 HD
-http://csrv.tv:80/123456/123456/1729
-#EXTINF:-1,SporTV 2 HD [Alter]
-http://csrv.tv:80/123456/123456/2332
-#EXTINF:-1,SporTV 2 SD
-http://csrv.tv:80/123456/123456/1730
-#EXTINF:-1,SporTV 2 SD [Alter]
-http://csrv.tv:80/123456/123456/2155
-#EXTINF:-1,SporTV 3 HD
-http://csrv.tv:80/123456/123456/1727
-#EXTINF:-1,SporTV 3 HD [Alter]
-http://csrv.tv:80/123456/123456/2331
-#EXTINF:-1,SporTV 3 SD
-http://csrv.tv:80/123456/123456/1728
-#EXTINF:-1,SporTV 3 SD [Alter]
-http://csrv.tv:80/123456/123456/2131
-#EXTINF:-1,SporTV HD
-http://csrv.tv:80/123456/123456/1726
-#EXTINF:-1,SporTV HD [Alter]
-http://csrv.tv:80/123456/123456/2330
-#EXTINF:-1,SporTV SD
-http://csrv.tv:80/123456/123456/1731
-#EXTINF:-1,SporTV SD [Alter]
-http://csrv.tv:80/123456/123456/2154
-#EXTINF:-1,Steven Universe [24H]
-http://csrv.tv:80/123456/123456/2065
-#EXTINF:-1,Studio Universal HD
-http://csrv.tv:80/123456/123456/1724
-#EXTINF:-1,Studio Universal HD [Alter]
-http://csrv.tv:80/123456/123456/2329
-#EXTINF:-1,Studio Universal SD
-http://csrv.tv:80/123456/123456/1725
-#EXTINF:-1,Studio Universal SD [Alter]
-http://csrv.tv:80/123456/123456/2153
-#EXTINF:-1,Superman [24H]
-http://csrv.tv:80/123456/123456/2035
-#EXTINF:-1,SyFy HD
-http://csrv.tv:80/123456/123456/1734
-#EXTINF:-1,SyFy HD [Alter]
-http://csrv.tv:80/123456/123456/2328
-#EXTINF:-1,SyFy SD
-http://csrv.tv:80/123456/123456/1735
-#EXTINF:-1,SyFy SD [Alter]
-http://csrv.tv:80/123456/123456/2152
-#EXTINF:-1,TBS HD
-http://csrv.tv:80/123456/123456/1722
-#EXTINF:-1,TBS HD [Alter]
-http://csrv.tv:80/123456/123456/2327
-#EXTINF:-1,TBS SD
-http://csrv.tv:80/123456/123456/1723
-#EXTINF:-1,TBS SD [Alter]
-http://csrv.tv:80/123456/123456/2151
-#EXTINF:-1,TCM SD
-http://csrv.tv:80/123456/123456/1721
-#EXTINF:-1,TCM SD [Alter]
-http://csrv.tv:80/123456/123456/2150
-#EXTINF:-1,Telecine Action HD
-http://csrv.tv:80/123456/123456/1719
-#EXTINF:-1,Telecine Action HD [Alter]
-http://csrv.tv:80/123456/123456/2326
-#EXTINF:-1,Telecine Action SD
-http://csrv.tv:80/123456/123456/1720
-#EXTINF:-1,Telecine Action SD [Alter]
-http://csrv.tv:80/123456/123456/2149
-#EXTINF:-1,Telecine Cult HD
-http://csrv.tv:80/123456/123456/1717
-#EXTINF:-1,Telecine Cult HD [Alter]
-http://csrv.tv:80/123456/123456/2325
-#EXTINF:-1,Telecine Cult SD
-http://csrv.tv:80/123456/123456/1718
-#EXTINF:-1,Telecine Cult SD [Alter]
-http://csrv.tv:80/123456/123456/2148
-#EXTINF:-1,Telecine Fun HD
-http://csrv.tv:80/123456/123456/1715
-#EXTINF:-1,Telecine Fun HD [Alter]
-http://csrv.tv:80/123456/123456/2324
-#EXTINF:-1,Telecine Fun SD
-http://csrv.tv:80/123456/123456/1716
-#EXTINF:-1,Telecine Fun SD [Alter]
-http://csrv.tv:80/123456/123456/2147
-#EXTINF:-1,Telecine Pipoca HD
-http://csrv.tv:80/123456/123456/1713
-#EXTINF:-1,Telecine Pipoca HD [Alter]
-http://csrv.tv:80/123456/123456/2323
-#EXTINF:-1,Telecine Pipoca SD
-http://csrv.tv:80/123456/123456/1714
-#EXTINF:-1,Telecine Pipoca SD [Alter]
-http://csrv.tv:80/123456/123456/2146
-#EXTINF:-1,Telecine Premium HD
-http://csrv.tv:80/123456/123456/1711
-#EXTINF:-1,Telecine Premium HD [Alter]
-http://csrv.tv:80/123456/123456/2322
-#EXTINF:-1,Telecine Premium SD
-http://csrv.tv:80/123456/123456/1712
-#EXTINF:-1,Telecine Premium SD [Alter]
-http://csrv.tv:80/123456/123456/2145
-#EXTINF:-1,Telecine Touch HD
-http://csrv.tv:80/123456/123456/1709
-#EXTINF:-1,Telecine Touch HD [Alter]
-http://csrv.tv:80/123456/123456/2321
-#EXTINF:-1,Telecine Touch SD
-http://csrv.tv:80/123456/123456/1710
-#EXTINF:-1,Telecine Touch SD [Alter]
-http://csrv.tv:80/123456/123456/2144
-#EXTINF:-1,Terra Viva SD
-http://csrv.tv:80/123456/123456/1708
-#EXTINF:-1,Terra Viva SD [Alter]
-http://csrv.tv:80/123456/123456/2103
-#EXTINF:-1,Tesouros da Disney [24H]
-http://csrv.tv:80/123456/123456/2064
-#EXTINF:-1,Thundercats [24H]
-http://csrv.tv:80/123456/123456/2055
-#EXTINF:-1,Timao e Pumba [24H]
-http://csrv.tv:80/123456/123456/2063
-#EXTINF:-1,TLC HD
-http://csrv.tv:80/123456/123456/1706
-#EXTINF:-1,TLC HD [Alter]
-http://csrv.tv:80/123456/123456/2319
-#EXTINF:-1,TLC SD
-http://csrv.tv:80/123456/123456/1707
-#EXTINF:-1,TLC SD [Alter]
-http://csrv.tv:80/123456/123456/2142
-#EXTINF:-1,TNT HD
-http://csrv.tv:80/123456/123456/1704
-#EXTINF:-1,TNT HD [Alter]
-http://csrv.tv:80/123456/123456/2318
-#EXTINF:-1,TNT SD
-http://csrv.tv:80/123456/123456/1705
-#EXTINF:-1,TNT SD [Alter]
-http://csrv.tv:80/123456/123456/2141
-#EXTINF:-1,TNT Series HD
-http://csrv.tv:80/123456/123456/1702
-#EXTINF:-1,TNT Series HD [Alter]
-http://csrv.tv:80/123456/123456/2317
-#EXTINF:-1,TNT Series SD
-http://csrv.tv:80/123456/123456/1703
-#EXTINF:-1,TNT Series SD [Alter]
-http://csrv.tv:80/123456/123456/2140
-#EXTINF:-1,Todo Mundo Odeia o Cris [24H]
-http://csrv.tv:80/123456/123456/2062
-#EXTINF:-1,Tom e Jerry [24H]
-http://csrv.tv:80/123456/123456/2061
-#EXTINF:-1,Tooncast HD [Alter]
-http://csrv.tv:80/123456/123456/2316
-#EXTINF:-1,Tooncast SD
-http://csrv.tv:80/123456/123456/1701
-#EXTINF:-1,Tooncast SD [Alter]
-http://csrv.tv:80/123456/123456/2139
-#EXTINF:-1,Toronto [Camera]
-http://csrv.tv:80/123456/123456/2427
-#EXTINF:-1,Tres Espias Demais [24H]
-http://csrv.tv:80/123456/123456/2034
-#EXTINF:-1,TruTV HD
-http://csrv.tv:80/123456/123456/1690
-#EXTINF:-1,TruTV SD
-http://csrv.tv:80/123456/123456/1691
-#EXTINF:-1,TV Aparecida SD
-http://csrv.tv:80/123456/123456/1698
-#EXTINF:-1,TV Aparecida SD [Alter]
-http://csrv.tv:80/123456/123456/2108
-#EXTINF:-1,TV Brasil SD
-http://csrv.tv:80/123456/123456/1697
-#EXTINF:-1,TV Camara SD
-http://csrv.tv:80/123456/123456/1696
-#EXTINF:-1,TV Cultura HD
-http://csrv.tv:80/123456/123456/1674
-#EXTINF:-1,TV Cultura SD
-http://csrv.tv:80/123456/123456/1675
-#EXTINF:-1,TV Escola SD
-http://csrv.tv:80/123456/123456/1695
-#EXTINF:-1,TV Gazeta SP HD
-http://csrv.tv:80/123456/123456/1694
-#EXTINF:-1,TV Gazeta SP HD [Alter]
-http://csrv.tv:80/123456/123456/2411
-#EXTINF:-1,TV Justica SD
-http://csrv.tv:80/123456/123456/1699
-#EXTINF:-1,TV Justica SD [Alter]
-http://csrv.tv:80/123456/123456/2138
-#EXTINF:-1,TV Ra Tim Bum HD
-http://csrv.tv:80/123456/123456/1692
-#EXTINF:-1,TV Ra Tim Bum HD [Alter]
-http://csrv.tv:80/123456/123456/2310
-#EXTINF:-1,TV Ra Tim Bum SD
-http://csrv.tv:80/123456/123456/1693
-#EXTINF:-1,TV Ra Tim Bum SD [Alter]
-http://csrv.tv:80/123456/123456/2129
-#EXTINF:-1,TV Senado SD
-http://csrv.tv:80/123456/123456/1700
-#EXTINF:-1,TV Senado SD [Alter]
-http://csrv.tv:80/123456/123456/2128
-#EXTINF:-1,Um Maluco No Pedaco [24H]
-http://csrv.tv:80/123456/123456/2060
-#EXTINF:-1,Uma Familia da Pesada [24H]
-http://csrv.tv:80/123456/123456/2042
-#EXTINF:-1,Universal Channel HD
-http://csrv.tv:80/123456/123456/1688
-#EXTINF:-1,Universal Channel HD [Alter]
-http://csrv.tv:80/123456/123456/2315
-#EXTINF:-1,Universal Channel SD
-http://csrv.tv:80/123456/123456/1689
-#EXTINF:-1,Universal Channel SD [Alter]
-http://csrv.tv:80/123456/123456/2137
-#EXTINF:-1,[+18] Venus SD
-http://csrv.tv:80/123456/123456/1646
-#EXTINF:-1,[+18] Venus SD [Alter]
-http://csrv.tv:80/123456/123456/2102
-#EXTINF:-1,VH1 HD
-http://csrv.tv:80/123456/123456/1686
-#EXTINF:-1,VH1 MegaHits SD
-http://csrv.tv:80/123456/123456/1685
-#EXTINF:-1,VH1 MegaHits SD [Alter]
-http://csrv.tv:80/123456/123456/2136
-#EXTINF:-1,VH1 SD
-http://csrv.tv:80/123456/123456/1687
-#EXTINF:-1,Viva HD
-http://csrv.tv:80/123456/123456/1683
-#EXTINF:-1,Viva HD [Alter]
-http://csrv.tv:80/123456/123456/2314
-#EXTINF:-1,Viva SD
-http://csrv.tv:80/123456/123456/1684
-#EXTINF:-1,Viva SD [Alter]
-http://csrv.tv:80/123456/123456/2135
-#EXTINF:-1,Warner Channel HD
-http://csrv.tv:80/123456/123456/1681
-#EXTINF:-1,Warner Channel HD [Alter]
-http://csrv.tv:80/123456/123456/2313
-#EXTINF:-1,Warner Channel SD
-http://csrv.tv:80/123456/123456/1682
-#EXTINF:-1,Warner Channel SD [Alter]
-http://csrv.tv:80/123456/123456/2134
-#EXTINF:-1,WooHoo HD
-http://csrv.tv:80/123456/123456/1679
-#EXTINF:-1,WooHoo SD
-http://csrv.tv:80/123456/123456/1680
-#EXTINF:-1,WooHoo SD [Alter]
-http://csrv.tv:80/123456/123456/2133
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/aviso.png" group-title="LHMTv" ,AVISO LEGAL
+http://lhmtv.tech/logo/lhmtvaviso.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/lista.png" group-title="LHMTv" ,LISTA VIP
+http://lhmtv.tech/logo/lhmtvcanais.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/fb.png" group-title="LHMTv" ,FB.COM/LHMTv
+http://0.0.0.0
+
+##########################################################################################################################
+## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
+##########################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,It: A Coisa – Capitulo 2
+http://topiptv.tk/LHMTvPlay/ItChapterTwo?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Invasao ao Servico Secreto
+http://topiptv.tk/LHMTvPlay/AngelHasFallen?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Chorar de Rir
+http://topiptv.tk/LHMTvPlay/ChorardeRir?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ma
+http://thor.lhmtv.gq/filmes/ma-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kardec: A Historia por Tras do Nome Op2
+http://topiptv.tk/LHMTvPlay/Kardec-AHistoriaporrasdoNome?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Velozes & Furiosos: Hobbs & Shaw
+http://thor.lhmtv.gq/filmes/velozesfuriosos2019-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Turma da Monica: Lacos
+http://tyr.lhmtv.gq/redecanais/TRMDMNCLCS.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Moca da Limpeza
+http://tyr.lhmtv.gq/redecanais/AMCADLMPZA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Weevil
+http://tyr.lhmtv.gq/redecanais/WEVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vargur
+http://tyr.lhmtv.gq/redecanais/VRGR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Terrorista Americano
+http://tyr.lhmtv.gq/redecanais/TRSTAMRCNO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Shanghai Fortress
+http://tyr.lhmtv.gq/redecanais/SHNGFRTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Querido Menino
+http://tyr.lhmtv.gq/redecanais/QRDOMENO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Segredo de Nora
+http://tyr.lhmtv.gq/redecanais/OSGRDNRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Internato
+http://tyr.lhmtv.gq/redecanais/OINTRNTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nao Vai Ter Golpe
+http://tyr.lhmtv.gq/redecanais/NVATRGLPE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,My Hero Academia: 2 Herois: O Filme
+http://tyr.lhmtv.gq/redecanais/MYHRACDM2HRSOFLM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mega Crocodilo
+http://tyr.lhmtv.gq/redecanais/MGACRDLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ma Op2
+http://tyr.lhmtv.gq/redecanais/MA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Em Busca da Cerveja Perfeita
+http://tyr.lhmtv.gq/redecanais/EMBSCDCRVJPRFTA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Elevador Mortal: Desce?
+http://tyr.lhmtv.gq/redecanais/ELVDRMRTLDSCE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Do Panama ao Mundo: Roberto Duran
+http://tyr.lhmtv.gq/redecanais/DOPNMAOMNDRBTODRN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Deu a Louca nos Nazis 2
+http://tyr.lhmtv.gq/redecanais/DEULCNSNZS2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Clown
+http://tyr.lhmtv.gq/redecanais/CLWN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Volta Por Cima
+http://tyr.lhmtv.gq/redecanais/AVLTPRCMA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Atentado ao Hotel Taj Mahal
+http://tyr.lhmtv.gq/redecanais/ATNDOAOHTLTJMHL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Lenda de Golem
+http://tyr.lhmtv.gq/redecanais/ALNDOGLM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Casa da Arvore
+http://tyr.lhmtv.gq/redecanais/ACSDAVRE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Boneca que virou Gente 2
+http://tyr.lhmtv.gq/redecanais/ABNCQVRGNT2.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Marvel Rising: Coracao de Ferro
+http://tyr.lhmtv.gq/redecanais/MRVLRSNGCRCAODFERO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Por Amor ou Por Dinheiro
+http://tyr.lhmtv.gq/redecanais/PRAMROUPRDNHRO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Genro da Minha Vida
+http://tyr.lhmtv.gq/redecanais/OGNRODMNHVDA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lar Ideal
+http://tyr.lhmtv.gq/redecanais/LARIDL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Eu Acredito 
+http://tyr.lhmtv.gq/redecanais/EUACRDTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Era So uma Brincadeira
+http://tyr.lhmtv.gq/redecanais/ERSUMBRNCDRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Compartilhar
+http://tyr.lhmtv.gq/redecanais/CMPRTLHR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caes Estelares
+http://tyr.lhmtv.gq/redecanais/CASESTRLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bernie. O Golfinho
+http://tyr.lhmtv.gq/redecanais/BNEOGLNHO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Apos a Letargia
+http://tyr.lhmtv.gq/redecanais/APSALTRGA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,72 Horas: Martir Que Nunca Morreu
+http://tyr.lhmtv.gq/redecanais/72HRSMRTQNCMRE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Xenophobia
+http://tyr.lhmtv.gq/redecanais/XNPHBIA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Banana Splits Movie
+http://tyr.lhmtv.gq/redecanais/THBNASPLTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Separacao e Reencontro
+http://tyr.lhmtv.gq/redecanais/SPRCAORRECNTRO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Seis Vezes Confusao
+http://tyr.lhmtv.gq/redecanais/SESVZSCNFSAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Peppa Pig: George O Gigante
+http://tyr.lhmtv.gq/redecanais/PEPAPGGRGOGNTE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pe Grande vs. Papai Noel
+http://tyr.lhmtv.gq/redecanais/PEGRNDVSPANEL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Show da Luna: Das Ilhas ao Continente
+http://tyr.lhmtv.gq/redecanais/OSHWDLNDSILHSAOCNTNE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,No Surrender
+http://tyr.lhmtv.gq/redecanais/NSRNDR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mussum: Um Filme do Cacildis
+http://tyr.lhmtv.gq/redecanais/MSUMFLMDCACLDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missao Extraordinaria
+http://tyr.lhmtv.gq/redecanais/MSAOEXTRDNRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kardec: A Historia por tras do Nome
+http://tyr.lhmtv.gq/redecanais/KRDCAHSTPRTRSDNME.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Invasor Zim e o Florpus
+http://tyr.lhmtv.gq/redecanais/INSRZMEOFLPS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Industria Americana
+http://tyr.lhmtv.gq/redecanais/INDSTRAMRCNA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Duendes e Dragoes
+http://tyr.lhmtv.gq/redecanais/DNDSEDRGOS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cruise: Destino em Colisao
+http://tyr.lhmtv.gq/redecanais/CRSEDSTNOEMCLSAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,UglyDolls
+http://tyr.lhmtv.gq/redecanais/UGLSDLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rocketman
+http://tyr.lhmtv.gq/redecanais/RCKMAN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Patrulha Canina: Super Filhotes
+http://tyr.lhmtv.gq/redecanais/PTRLHCNASPRFLHTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Divino Amor
+http://tyr.lhmtv.gq/redecanais/DVNOAMR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cleavers: Killer Clowns
+http://tyr.lhmtv.gq/redecanais/CLVRSKLRCLWNS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Pequena Suica
+http://tyr.lhmtv.gq/redecanais/APQNSCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Maldicao de Sharon Tate
+http://tyr.lhmtv.gq/redecanais/AMLDCAODSHRNTLE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Model Kidnapping
+http://tyr.lhmtv.gq/redecanais/AMDLKDNPNG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,3 Vidas
+http://tyr.lhmtv.gq/redecanais/3VDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Crianca Como Jake
+http://tyr.lhmtv.gq/redecanais/UMCRANCCMJKE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tolkien
+http://tyr.lhmtv.gq/redecanais/TLKN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tudo o Que Tivemos
+http://tyr.lhmtv.gq/redecanais/TDOQTVMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Seeing Evil
+http://tyr.lhmtv.gq/redecanais/SEINGEVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,RedBad: A Invasao dos Francos
+http://tyr.lhmtv.gq/redecanais/REDBDANVSAODSFRNCS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Primos
+http://tyr.lhmtv.gq/redecanais/PRMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hellboy
+http://tyr.lhmtv.gq/redecanais/HLBOY.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sol tambem e uma Estrela
+http://tyr.lhmtv.gq/redecanais/OSLTBMEUMESTRLA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,My Stretch of Texas Ground
+http://tyr.lhmtv.gq/redecanais/MYSTRCHTXSGRND.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,LEGO DC: Batman: Assuntos de Familia 
+http://tyr.lhmtv.gq/redecanais/LGODCBTMNASNTSDFMLA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Descendentes 3
+http://tyr.lhmtv.gq/redecanais/DSCDNT3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Donnybrook: Luta Pela Redencao
+http://tyr.lhmtv.gq/redecanais/DNYBRKLTPLRDCAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Dead List: Sua Hora Chegou
+http://tyr.lhmtv.gq/redecanais/DEDLSTSUHRCHGOU.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Darken: O Universo Paralelo
+http://tyr.lhmtv.gq/redecanais/DRKNOUNVRSPRLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Com Quem Sera?
+http://tyr.lhmtv.gq/redecanais/CMQSRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Clown Motel: Spirits Arise
+http://tyr.lhmtv.gq/redecanais/CLWNMTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brightburn: Filho das Trevas
+http://tyr.lhmtv.gq/redecanais/BRGBRNFLHDSTRVS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Vida Moderna de Rocko: Volta ao Lar
+http://tyr.lhmtv.gq/redecanais/AVDMRDNDRCKVLTAOLR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Score to Settle
+http://tyr.lhmtv.gq/redecanais/ASCRTSTLE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Assassinaut
+http://tyr.lhmtv.gq/redecanais/ASASNUT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Assassinos de Guerra
+http://tyr.lhmtv.gq/redecanais/ASASNSDGRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Princesa Encantada: O Reino da Musica 
+http://tyr.lhmtv.gq/redecanais/APRNCSENCTDAORNDMSCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Anos 90
+http://tyr.lhmtv.gq/redecanais/ANS90.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Menina e o Leao
+http://tyr.lhmtv.gq/redecanais/AMNAEOLEAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ato de Esperanca
+http://tyr.lhmtv.gq/redecanais/UMATDESPRCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Anjo
+http://tyr.lhmtv.gq/redecanais/OAJO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missao no Mar Vermelho
+http://tyr.lhmtv.gq/redecanais/MSAONMRVRMLHO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mae e Muito Mais
+http://tyr.lhmtv.gq/redecanais/MAEMTMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lutando Pela Familia
+http://tyr.lhmtv.gq/redecanais/LTNDPLFMLIA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,DolceRoma
+http://tyr.lhmtv.gq/redecanais/DLCRMA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Breakaway
+http://tyr.lhmtv.gq/redecanais/BRKWAY.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Esposa
+http://tyr.lhmtv.gq/redecanais/AESPSA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Capita Marvel 4K
+http://balder.lhmtv.gq/redecanais/CPTMRVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vingadores: Ultimato 4K
+http://tyr.lhmtv.gq/redecanais/VNGDRSULTMTO4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Falcons em Jogo
+http://tyr.lhmtv.gq/redecanais/FLCNSEMJGO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Boi
+http://tyr.lhmtv.gq/redecanais/BOI.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ladrao com Estilo
+http://tyr.lhmtv.gq/redecanais/UMLDRCMESTLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Wolf
+http://tyr.lhmtv.gq/redecanais/WLF.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman: Silencio
+http://tyr.lhmtv.gq/redecanais/BTMNSLNCIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Filho Protegido
+http://tyr.lhmtv.gq/redecanais/OFLHPRTGDO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gelo em chamas
+http://tyr.lhmtv.gq/redecanais/GLOEMCHMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missing Link
+http://tyr.lhmtv.gq/redecanais/MSNGLNK.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Luccas Neto em: Acampamento de Ferias
+http://tyr.lhmtv.gq/redecanais/LCSNTOEMACMPMTDFRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Casal Improvavel
+http://tyr.lhmtv.gq/redecanais/CSLIMPVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gloria Bell
+http://tyr.lhmtv.gq/redecanais/GLRABEL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Forjando Campeoes
+http://tyr.lhmtv.gq/redecanais/FRJNDCMPAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nos Caminhos de Deus
+http://tyr.lhmtv.gq/redecanais/NSCMNHSDES.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brincadeira Mortal
+http://tyr.lhmtv.gq/redecanais/BRNCDRMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rastros do Alem
+http://tyr.lhmtv.gq/redecanais/RSTRSDALM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Obsessao Secreta
+http://tyr.lhmtv.gq/redecanais/OBSESAOSCRTA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cortina de Fogo 2
+http://tyr.lhmtv.gq/redecanais/CRTNDFGO2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Arizona
+http://tyr.lhmtv.gq/redecanais/ARZNA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Homem que Matou Dom Quixote
+http://tyr.lhmtv.gq/redecanais/OHMEMQMTDNQXTE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Lugar Sombrio
+http://balder.lhmtv.gq/redecanais/UMLGRSMBIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Segredos e Despedida
+http://balder.lhmtv.gq/redecanais/SGDSEDSPRDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resgate Mortal
+http://balder.lhmtv.gq/redecanais/RSGTMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Reencontro Mortal
+http://balder.lhmtv.gq/redecanais/RECNTRMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Godzilla II: Rei dos Monstros
+http://tyr.lhmtv.gq/redecanais/GDZLAOREDSMNSTS.mp4?LHMTv
+
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hellboy 2019 HD
+http://thor.lhmtv.gq/filmes/hellboy-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,De Pernas pro ar 3
+http://freya.lhmtv.gq/filmes/De.Pernas.pro.Ar.3.2019.Nacional.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Juntos para sempre
+http://topiptv.tk/LHMTvPlay/ADogsJourney?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vingadores: Ultimato HD
+http://thor.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Rei Leao
+http://thor.lhmtv.gq/filmes/reileaots-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homem-Aranha: Longe de Casa
+http://thor.lhmtv.gq/filmes/homemaranhalongedecasats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pets – A Vida Secreta dos Bichos 2
+http://thor.lhmtv.gq/filmes/pets2ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Misterio no Mediterraneo
+http://thor.lhmtv.gq/filmes/murdermystery-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Annabelle 3: De Volta Para Casa
+http://thor.lhmtv.gq/filmes/annabelle3ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Rebeliao
+http://thor.lhmtv.gq/filmes/arebeliao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Toy Story 4
+http://thor.lhmtv.gq/filmes/toystory4ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gloria Bell
+http://thor.lhmtv.gq/filmes/gloriabell-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nas Trevas
+http://thor.lhmtv.gq/filmes/nastrevas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Aladdin
+http://thor.lhmtv.gq/filmes/aladdints-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Copias – De Volta a Vida
+http://thor.lhmtv.gq/filmes/replicas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,MIB: Homens de Preto Internacional
+http://thor.lhmtv.gq/filmes/mibinternacional-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Cinco Passos de voce
+http://thor.lhmtv.gq/filmes/acincopassosdevoce-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cinderela Pop
+http://thor.lhmtv.gq/filmes/cinderelapop-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,X-Men: Fenix Negra
+http://thor.lhmtv.gq/filmes/xmenfenixnegrats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Maldicao da Chorona
+http://thor.lhmtv.gq/filmes/amaldicaodachoronats-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Parque dos Sonhos
+http://thor.lhmtv.gq/filmes/oparquedossonhosts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nos
+http://thor.lhmtv.gq/filmes/nosts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,John Wick 3 – Parabellum
+http://thor.lhmtv.gq/filmes/johnwick3ts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pokemon: Detetive Pikachu
+http://thor.lhmtv.gq/filmes/detetivepikachu-dub-360p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cemiterio Maldito
+http://thor.lhmtv.gq/filmes/cemiteriomalditots-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vingadores: Ultimato
+http://thor.lhmtv.gq/filmes/avengersendgame-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Shazam
+http://thor.lhmtv.gq/filmes/shazam-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Poderia Me Perdoar?
+http://thor.lhmtv.gq/filmes/poderiameperdoar-dub-480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O 12 Homem
+http://thor.lhmtv.gq/filmes/o12homem-dub-480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Soldado de Cristo
+http://thor.lhmtv.gq/filmes/osoldadodecristo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Capita Marvel
+http://thor.lhmtv.gq/filmes/cptmarvel-dub-hdts.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Operacao Fronteira
+http://thor.lhmtv.gq/filmes/operacaofronteira-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Dumbo
+http://thor.lhmtv.gq/filmes/dumbo-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,10 Segundos para Vencer
+http://thor.lhmtv.gq/filmes/10segundosparavencer-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Alita: Anjo de Combate
+http://thor.lhmtv.gq/filmes/alitaanjocombate-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Caminho de Casa
+http://thor.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Poderia Me Perdoar?
+http://thor.lhmtv.gq/filmes/poderiameperdoar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Green Book – O Guia
+http://thor.lhmtv.gq/filmes/greenbook-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,1964: O Brasil Entre Armas e Livros
+http://thor.lhmtv.gq/filmes/1964ofilme-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sexo, MUsica e Amor
+http://thor.lhmtv.gq/filmes/sexomusicaeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Maquina de Lembrancas
+http://thor.lhmtv.gq/filmes/amaquinadelembrancas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Escape Room
+http://thor.lhmtv.gq/filmes/escaperoom-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Justica – Entre a Lei e a Vinganca
+http://thor.lhmtv.gq/filmes/justicaentrealeieavinganca-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tudo Acaba Em Festa
+http://thor.lhmtv.gq/filmes/tudoacabaemfesta-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Durante a Tormenta
+http://thor.lhmtv.gq/filmes/duranteatormenta-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Cinco Passos de Voce
+http://thor.lhmtv.gq/filmes/acincopassosdevocets-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Holmes & Watson
+http://thor.lhmtv.gq/filmes/holmesewatson-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Retorno de Mary Poppins
+http://thor.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Quimica do Amor
+http://thor.lhmtv.gq/filmes/aquimicadoamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Durante a Tormenta
+http://thor.lhmtv.gq/filmes/duranteatormenta-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,IO
+http://thor.lhmtv.gq/filmes/io2019-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Caminho de Casa
+http://thor.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Minha Vida em Marte
+http://thor.lhmtv.gq/filmes/minhavidaemmartei-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Menino que Descobriu o Vento
+http://thor.lhmtv.gq/filmes/omeninoquedescobriuovento-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Maquinas Mortais
+http://thor.lhmtv.gq/filmes/corridasmortais-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bumblebee
+http://thor.lhmtv.gq/filmes/buumblebee-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homem Aranha: No Aranhaverso
+http://thor.lhmtv.gq/filmes/aranhaverso-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Menino que Queria Ser Rei
+http://thor.lhmtv.gq/filmes/omeninoquequeriaserreihdts-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Parque do Inferno
+http://thor.lhmtv.gq/filmes/parquedoinferno-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mulheres Alteradas
+http://thor.lhmtv.gq/filmes/mulheresalteradas-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sexta-feira Muito Louca
+http://thor.lhmtv.gq/filmes/sextafeiramuitodoida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nao Adianta Rezar
+http://thor.lhmtv.gq/filmes/NÃOadiantarezar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Aquaman
+http://thor.lhmtv.gq/filmes/aquamanhd-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,WiFi Ralph: Quebrando a Internet
+http://thor.lhmtv.gq/filmes/wifiralphh-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cadaver
+http://thor.lhmtv.gq/filmes/ocadaver-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sequestro Relampago
+http://thor.lhmtv.gq/filmes/sequestrorelampago-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Animais Fantasticos: Os Crimes de Grindelwald
+http://thor.lhmtv.gq/filmes/animaisfantasticoscrimesgrindelwald-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Primeiro Homem
+http://thor.lhmtv.gq/filmes/oprimeirohomem-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paradoxo Cloverfield
+http://thor.lhmtv.gq/filmes/thecloverfieldparadox-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Intimidade Entre Estranhos
+http://thor.lhmtv.gq/filmes/intimidadeentreestranhos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Creed 2
+http://thor.lhmtv.gq/filmes/creed2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Furia em Alto Mar
+http://thor.lhmtv.gq/filmes/furiaemaltomar-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Podres de Ricos
+http://thor.lhmtv.gq/filmes/podresdericos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Circus Kane – O Circo dos Horrores
+http://thor.lhmtv.gq/filmes//circuskaneocircodoshorrores-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grande Circo Místico
+http://thor.lhmtv.gq/filmes/ograndecircomistico-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Casa do Medo – Incidente em Ghostland
+http://thor.lhmtv.gq/filmes/acasadomedoincedenteemghostland-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grinch
+http://thor.lhmtv.gq/filmes/ogrinch-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Morte do Superman
+http://thor.lhmtv.gq/filmes/thedeathofsuperman-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bohemian Rhapsody
+http://thor.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amigos Alienigenas
+http://thor.lhmtv.gq/filmes/amigosalienigenas-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resgate no Oeste
+http://thor.lhmtv.gq/filmes/resgatenooeste-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Legado Kennedy
+http://thor.lhmtv.gq/filmes/olegadokennedy-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Domesticos
+http://thor.lhmtv.gq/filmes/osdomesticos-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Johnny English 3.0
+http://thor.lhmtv.gq/filmes/johnnyenglishstrikesagain-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Encolhi a Professora
+http://thor.lhmtv.gq/filmes/encolhiaprofessora-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Maus Momentos no Hotel Royale
+http://thor.lhmtv.gq/filmes/mausmomentosnohotelroyale-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Doutrinador
+http://thor.lhmtv.gq/filmes/odoutrinador-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Goosebumps 2 – Halloween Assombrado
+http://thor.lhmtv.gq/filmes/goosegumps2halloween-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Bem-Aventurado
+http://thor.lhmtv.gq/filmes/obemaventurado-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pelo Direito de Ser Feliz
+http://thor.lhmtv.gq/filmes/pelodireitodeserfeliz-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bird Box – Caixa de Passaros
+http://thor.lhmtv.gq/filmes/birdbox-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sansao – 2018
+http://thor.lhmtv.gq/filmes/sansao2018-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Arcade – Voce vai entrar nesse jogo
+http://thor.lhmtv.gq/filmes/arcadevocevaientrarnessejogo-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Resgate da Princesa
+http://thor.lhmtv.gq/filmes/oresgatedaprincesa-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Talvez uma Historia de Amor
+http://thor.lhmtv.gq/filmes/talvezumahistoriadeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Candidato Honesto 2
+http://thor.lhmtv.gq/filmes/ocandidatohonesto2-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,PePequeno
+http://thor.lhmtv.gq/filmes/pepequeno-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Venom
+http://thor.lhmtv.gq/filmes/venom-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meu Ex e um Espiao
+http://thor.lhmtv.gq/filmes/meuexeumespiao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Para Todos os Garotos que Ja Amei
+http://thor.lhmtv.gq/filmes/paratodososgarotosqueamei-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Predador
+http://thor.lhmtv.gq/filmes/opredador2018-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missao Impossível – Efeito Fallout
+http://thor.lhmtv.gq/filmes/missaoimpossivelefeitofallout-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Freira
+http://thor.lhmtv.gq/filmes/afreiranovohd-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Para Sempre Minha Garota
+http://thor.lhmtv.gq/filmes/parasempreminhagarota-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Incriveis 2
+http://thor.lhmtv.gq/filmes/osincriveis2new-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Slender Man: Pesadelo Sem Rosto
+http://thor.lhmtv.gq/filmes/slenderman-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Apostolo
+http://thor.lhmtv.gq/filmes/apostolo-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Constantine: Cidade dos Demonios
+http://thor.lhmtv.gq/filmes/constantinecidadedemonio-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Deus NÃO Esta Morto – Uma Luz na Escuridao
+http://thor.lhmtv.gq/filmes/deusNÃOestamortoluzescuridao-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hotel Transilvania 3: Ferias Monstruosas
+http://thor.lhmtv.gq/filmes/hoteltransilvania3-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Todo Dia
+http://thor.lhmtv.gq/filmes/tododia-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,DC Super Hero Girls: Lendas de Atlantida
+http://thor.lhmtv.gq/filmes/dcsuperheroeslendasdeatlantida-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tem Alienígenas no Meu Quarto
+http://thor.lhmtv.gq/filmes/temalienigenasnomeuquarto-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bleach – Filme
+http://thor.lhmtv.gq/filmes/bleachmovie-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homem-Formiga e a Vespa
+http://thor.lhmtv.gq/filmes/homemformigaevespa-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fahrenheit 451
+http://thor.lhmtv.gq/filmes/fahrenheit451-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Noite Devorou o Mundo
+http://thor.lhmtv.gq/filmes/thenightseatstheworld-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Thor
+http://thor.lhmtv.gq/filmes/thor-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Thor: O Mundo Sombrio
+http://thor.lhmtv.gq/filmes/thormundosombrio-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Thor: Ragnarok
+http://thor.lhmtv.gq/filmes/thorrag-dub-1080p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Festa da Salsicha
+http://thor.lhmtv.gq/filmes/festasalsicha-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cinquenta Tons Mais Escuros SRv1
+http://thor.lhmtv.gq/filmes/50tonsescuros-dub-720p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cinquenta Tons de Liberdade
+http://thor.lhmtv.gq/filmes/fiftyshadesfreed-dub-720p.mp4?LHMTv
+
+##########################################################################################################################
+## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
+##########################################################################################################################
+##RedeCanais##
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Que Sera de Nozes?
+http://tyr.lhmtv.gq/redecanais/OQUSRDNZS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Liga da Justica: Deuses e Monstros
+http://tyr.lhmtv.gq/redecanais/LIGDJSTDEUSEMNSTRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gato de Botas: Os Tres Diablo
+http://tyr.lhmtv.gq/redecanais/GTDBTSOSTSDABLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cada Um na Sua Casa
+http://tyr.lhmtv.gq/redecanais/CSUMNSUACS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Final Fantasy
+http://tyr.lhmtv.gq/redecanais/FFTSTSW.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jack e a Mecanica do Coracao
+http://tyr.lhmtv.gq/redecanais/JCKEAMCNCDCOR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gato de Botas
+http://tyr.lhmtv.gq/redecanais/GTDBTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resident Evil: Condenacao
+http://tyr.lhmtv.gq/redecanais/REVILCNDNCAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resident Evil: Degeneracao
+http://tyr.lhmtv.gq/redecanais/REVILDGNRC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman vs. Robin
+http://tyr.lhmtv.gq/redecanais/BTMNVSRBN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bob Esponja: Um Heroi Fora Dagua
+http://tyr.lhmtv.gq/redecanais/BOBESPJUHRFRDGUA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Frozen: Uma Aventura Congelante
+http://tyr.lhmtv.gq/redecanais/FRZNUACGLNT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Superman - Filme - Brainiac Ataca
+http://tyr.lhmtv.gq/redecanais/SPRMNFILME01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mulan 2: A Lenda Continua
+http://tyr.lhmtv.gq/redecanais/MULAN02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mulan
+http://tyr.lhmtv.gq/redecanais/MULAN01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,9: A Salvacao
+http://tyr.lhmtv.gq/redecanais/ASLVCAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Appleseed Alpha
+http://tyr.lhmtv.gq/redecanais/APLSDALPHDUB.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Aventuras de Tintim - O Filme
+http://tyr.lhmtv.gq/redecanais/AAVTRSDTNFILME.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bob Esponja - O Filme
+http://tyr.lhmtv.gq/redecanais/BOBOFILME.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Deixa ROLÁr
+http://tyr.lhmtv.gq/redecanais/DEXRLRLEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Street Fighter: A Ultima Batalha
+http://tyr.lhmtv.gq/redecanais/STRTFGTRAULTMBTLH.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Dope Um Deslize Perigoso
+http://tyr.lhmtv.gq/redecanais/DOPUMDSLZPRGSO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,D.U.F.F. Voce Conhece, Tem ou e
+http://tyr.lhmtv.gq/redecanais/DUFFVCNHECTMOE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Swindle
+http://tyr.lhmtv.gq/redecanais/SWINDLE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pixels
+http://tyr.lhmtv.gq/redecanais/PIXRLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Brinde a Amizade
+http://tyr.lhmtv.gq/redecanais/UBRNDAMZD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ted
+http://tyr.lhmtv.gq/redecanais/TED.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Belas e Perseguidas
+http://tyr.lhmtv.gq/redecanais/BLSEPRSGDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Procura da Felicidade
+http://tyr.lhmtv.gq/redecanais/APRCRDFLCDAD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Milhao de Maneiras de Pegar na PistOLÁ
+http://tyr.lhmtv.gq/redecanais/UMLHDMNRSDPGRNPSTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sem Direito a Resgate
+http://tyr.lhmtv.gq/redecanais/SMDRTARSGT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Relatos Selvagens
+http://tyr.lhmtv.gq/redecanais/RLTSSLVGNS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nos Nunca Teremos Paris
+http://tyr.lhmtv.gq/redecanais/NSNCTRMSPRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mais Estranho Que A Ficcao
+http://tyr.lhmtv.gq/redecanais/MSESTNHQFCAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Como Se Fosse a Primeira Vez
+http://tyr.lhmtv.gq/redecanais/CMSFSAPRMVZ.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Birdman ou
+http://tyr.lhmtv.gq/redecanais/BRDMAINSPDVRTDAIGN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Morte no Funeral
+http://tyr.lhmtv.gq/redecanais/MRTNFNRL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Mentira
+http://tyr.lhmtv.gq/redecanais/AMNTR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lar Doce Inferno
+http://tyr.lhmtv.gq/redecanais/LRDCINFN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Zumbilandia
+http://tyr.lhmtv.gq/redecanais/ZMBLND.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Golpe Duplo
+http://tyr.lhmtv.gq/redecanais/GLPDPL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Grandes Olhos
+http://tyr.lhmtv.gq/redecanais/GRNDSOLHS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caminhos da Floresta
+http://tyr.lhmtv.gq/redecanais/CMNHSDFLRST.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Fantastica Fabrica de ChocOLÁte
+http://tyr.lhmtv.gq/redecanais/AFNTSCFBRCDCHCLT2005.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Entrevista
+http://tyr.lhmtv.gq/redecanais/AERVTVST.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tenacious D: Uma Dupla Infernal
+http://tyr.lhmtv.gq/redecanais/TNCSDUDI.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Noticia Inesperada
+http://tyr.lhmtv.gq/redecanais/UNTCINSPRD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Joao, Maria: E a Bruxa da Floresta Negra
+http://tyr.lhmtv.gq/redecanais/JAOMRAEABXDFLRSNG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Piratas do Caribe: Navegando em iguas Misteriosas
+http://tyr.lhmtv.gq/redecanais/PRTSDCRB04.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Amor e Cego
+http://tyr.lhmtv.gq/redecanais/OAMRECG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Maluca Paixao
+http://tyr.lhmtv.gq/redecanais/MLCPXAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hitch - Conselheiro Amoroso
+http://tyr.lhmtv.gq/redecanais/HTCHCNSLHAMRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Novo Pesadelo - O Retorno de Freddy Krueger
+http://tyr.lhmtv.gq/redecanais/AHRDPSDL07.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Aventuras de Paddington
+http://tyr.lhmtv.gq/redecanais/ASAVNTRDPNGTN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crepusculo
+http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO01.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crepusculo Lua Nova
+http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO02.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crepusculo Eclipse
+http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO03.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crepusculo Amanhacer 1
+http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO04.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crepusculo Amanhacer 2
+http://tyr.lhmtv.gq/redecanais/ASGCRSPCLO05.mp4?LHMTv
+
+##RedeCanais3##
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Warrior's Gate
+http://freya.lhmtv.gq/redecanais/WRISGT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Max Steel
+http://freya.lhmtv.gq/redecanais/MXSTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mundo Cao
+http://freya.lhmtv.gq/redecanais/MNDCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mae So Ha Uma
+http://freya.lhmtv.gq/redecanais/MASHUM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lavanda
+http://freya.lhmtv.gq/redecanais/LVNDA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jovens Titas: O Contrato de Judas
+http://freya.lhmtv.gq/redecanais/JVNSTSOCTRTDJDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jose do Egito: O Filme
+http://freya.lhmtv.gq/redecanais/JSDEGTOFLM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pandora
+http://freya.lhmtv.gq/redecanais/PNDRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Horizonte Profundo:Desastre no Golfo
+http://freya.lhmtv.gq/redecanais/HRZNTPRFNDSTRDGLF.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hancock
+http://freya.lhmtv.gq/redecanais/HNCK.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Call to Duty:Fora de Alcance
+http://freya.lhmtv.gq/redecanais/CLTDTY.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A ultima ressaca do ano
+http://freya.lhmtv.gq/redecanais/AULTMRSCDAN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Suburbano Sortudo
+http://freya.lhmtv.gq/redecanais/UMSUBSRTDO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sete Minutos Depois da Meia-Noite
+http://freya.lhmtv.gq/redecanais/STMNDPSDMENTDUB.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,NÃO Me Abandone Jamais
+http://freya.lhmtv.gq/redecanais/NMABNDJMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,NÃO e Mais Um Besteirol Americano
+http://freya.lhmtv.gq/redecanais/NEUMBSTRAMRCN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jonas
+http://freya.lhmtv.gq/redecanais/JNS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Escondidos
+http://freya.lhmtv.gq/redecanais/ESCNDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Entre Abelhas
+http://freya.lhmtv.gq/redecanais/ENTRABLHS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Depois de Tudo
+http://freya.lhmtv.gq/redecanais/DPSDTD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Deidra e Laney Assaltam um Trem
+http://freya.lhmtv.gq/redecanais/DEDRELNYASTMUTRM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Capitao Fantastico
+http://freya.lhmtv.gq/redecanais/CPTFNTSC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Chato: O Rei do Brasil
+http://freya.lhmtv.gq/redecanais/CHTORDBR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resgate Suicida
+http://freya.lhmtv.gq/redecanais/RSGTSCD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rogue One: Uma Historia Star Wars
+http://freya.lhmtv.gq/redecanais/RGONUHSTRWRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Monster Trucks
+http://freya.lhmtv.gq/redecanais/MNSTRRCK.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Do Que as Mulheres Gostam
+http://freya.lhmtv.gq/redecanais/DQAMLHRSGSTM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Lenda do Rei Macaco 2: Viagem ao Oeste
+http://freya.lhmtv.gq/redecanais/ALNDRMC2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Lenda do Rei Macaco
+http://freya.lhmtv.gq/redecanais/ALNDRMC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Halloweentown: A Cidade do Halloween
+http://freya.lhmtv.gq/redecanais/ACDDHLWN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nossos Amantes
+http://freya.lhmtv.gq/redecanais/NOSAMNTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Manchester a Beira Mar
+http://freya.lhmtv.gq/redecanais/MACHABRMR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hop: Rebelde Sem Pascoa
+http://freya.lhmtv.gq/redecanais/HOPRBLSPSC.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fazenda dos Cisnes
+http://freya.lhmtv.gq/redecanais/FZNDSCSN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Coragem em Campo
+http://freya.lhmtv.gq/redecanais/CRGMEMCMP.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Best Player: Guerreiros Virtuais
+http://freya.lhmtv.gq/redecanais/BSTPLY.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ate o Ultimo Homem
+http://freya.lhmtv.gq/redecanais/ATOULHMN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Armas na Mesa
+http://freya.lhmtv.gq/redecanais/ARMSNMSA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Alem Da Realidade
+http://freya.lhmtv.gq/redecanais/ALMDRLD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Bailarina
+http://freya.lhmtv.gq/redecanais/ABLRN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bem Casados
+http://freya.lhmtv.gq/redecanais/BMCSDOS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Aquarius
+http://freya.lhmtv.gq/redecanais/AQRIS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Apostando Tudo
+http://freya.lhmtv.gq/redecanais/APSTNDTD.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amor em Sampa
+http://freya.lhmtv.gq/redecanais/AMREMSP.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Fabulosa Gilly Hopkins
+http://freya.lhmtv.gq/redecanais/AFBLSGLHP.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Descoberta
+http://freya.lhmtv.gq/redecanais/ADSCBRT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vizinhos Nada Secretos
+http://freya.lhmtv.gq/redecanais/VZNHSNDSCRTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Limite Entre Nos
+http://freya.lhmtv.gq/redecanais/UMLMTENTNS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sing: Quem Canta Seus Males Espanta
+http://freya.lhmtv.gq/redecanais/SNGQCSME.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sangue Azul
+http://freya.lhmtv.gq/redecanais/SNGAZL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Peles
+http://freya.lhmtv.gq/redecanais/PLES.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Olho do Mal
+http://freya.lhmtv.gq/redecanais/OLHDML.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Desvio
+http://freya.lhmtv.gq/redecanais/ODSVIO.mp4?LHMTv
+
+##########################################################################################################################
+## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
+##########################################################################################################################
+##Crackle##
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A festa nunca termina 
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Garota dos Meus Sonhos 
+http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Grande Jogada 
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Guerra De Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Heranca de Mr. Deeds 
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Hora do Rango 
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Informante 
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Lula e a Baleia
+http://media-br-am.crackle.com/1/5/f6/17ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Primeira Vista
+http://media-br-am.crackle.com/1/h/16/zaylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Ultima Missao 
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Vida e Bela
+http://media-br-am.crackle.com/1/s/z6/3j3lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Adeus Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,All That Jazz: O Show Deve Continuar 
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Almondegas 4 - Ferias de Verao 
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amar  Trair e Roubar 
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ameaca Virtual
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amigo de Casa 
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/2/16/dp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Aprendendo A Viver 
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Duas Faces Da Lei 
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Faces de Helen 
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Panteras
+http://media-br-am.crackle.com/1/8/16/3p1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,As Panteras Detonando
+http://media-br-am.crackle.com/1/o/96/e31lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Assalto Sobre Trilhos 
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Atraidos Pelo Destino 
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Caverna
+http://media-br-am.crackle.com/1/5/r6/1i6lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Hora mais escura
+http://media-br-am.crackle.com/1/c/b6/hi5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ameaça virtual
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Alvo Duplo
+http://media-br-am.crackle.com/1/c/56/q64lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Entidade
+http://media-br-am.crackle.com/1/_/f6/rw5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A hora mais escura
+http://media-br-am.crackle.com/1/c/b6/hi5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Hospedeira
+http://media-br-am.crackle.com/1/i/96/sb5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Anjos da lei
+http://media-br-am.crackle.com/1/m/16/n04lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Amanhecer violento
+http://media-br-am.crackle.com/1/j/96/ve5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Beast Wars - Fim Da Linha 
+http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,BOLÁs em Panico 
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bon Jovi - Stadium Concert
+http://media-br-am.crackle.com/1/j/f6/j2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brinquedo Assassino 
+http://media-br-am.crackle.com/1/j/l6/0dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brokeback Mountain
+http://media-br-am.crackle.com/1/t/am/vddyb_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caes de Guerra 
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caminhos Opostos 
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Casamento as Avessas 
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cativeiro 
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cinturao Vermelho 
+http://media-br-am.crackle.com/1/g/v6/fjvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Coisas Belas E Sujas 
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Como Conquistar Uma Mulher 
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Corpo em Evidencia 
+http://media-br-am.crackle.com/1/j/16/97wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Crash: No Limite 
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Desafio Radical 
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Desejo a tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Doce vinganca
+http://media-br-am.crackle.com/1/f/16/sz4lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Detona Ralph
+http://media-br-am.crackle.com/1/n/x6/gp4lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Divisao de Homicidios 
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Encontros ao Acaso 
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Enquanto Ela Esta Fora 
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Equilibrio 
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Estranha Obsessao 
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Eu Sei Quem Me Matou 
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Excesso de Bagagem 
+http://media-br-am.crackle.com/1/v/z6/esvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Femme Fatale 
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fido - O Mascote 
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Flores Partidas 
+http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gattaca  a Experiencia Genetica
+http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gleria
+http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Godzilla 
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Grande Hotel 
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Greta 
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Harley Davidson E Marlboro Man - Cacada Sem Tregua 
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Haven 
+http://media-br-am.crackle.com/1/h/16/yaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Herois Imaginarios 
+http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homens Perigosos 
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Homens de Preto
+http://media-br-am.crackle.com/1/h/v6/hmvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Honra & Coragem - As Quatro Plumas 
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,HOOK. A volta do capitao gancho
+http://media-br-am.crackle.com/1/c/p6/jkwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hooligans: Furia nos campos 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Horas de Desespero 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hotel Ruanda 
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Impacto Mortal 
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Inocente ou Culpado 
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,JCVD 
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jogando com Prazer 
+http://media-br-am.crackle.com/1/v/z6/fsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jogos Trapacas E dois Canos Fumegantes 
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jogue a Mamae do Trem - Comedia
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kalifornia - Uma Viagem ao Inferno 
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p_1mbps.mp4?LHMTv					
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kung-Fu Futebol Clube 
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lembrancas de Hollywood 
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Malicia
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Marcas do Passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Matador de Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mergulho Radical 2
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meu Primeiro Amor 
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Modigliani
+http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nao eh Mais Um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nem por cima do Meu Cadaver
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nem Tudo eh o Que Parece
+http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Despertar de Uma Paixao
+http://media-br-am.crackle.com/1/w/h6/77vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Guardiao
+http://media-br-am.crackle.com/1/k/l6/3dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Guardiao 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Guardiao 3 
+http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Julgamento de Paris
+http://media-br-am.crackle.com/1/b/16/99wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Justiceiro
+http://media-br-am.crackle.com/1/q/96/o01lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paciente Ingles
+http://media-br-am.crackle.com/1/b/z6/4h3lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Paraiso eh Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Povo contra Larry Flint
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Retorno do Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Senhor Das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sequestro do Metro
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Tango e o Assassino
+http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Vigarista do Ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Reis de dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Os Seus os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Besouro verde
+http://media-br-am.crackle.com/1/b/n6/775lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O procurado
+http://media-br-am.crackle.com/1/c/56/r64lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O aprendiz de feiticeiro
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Grito
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Homem sem sombra
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sexto sentido
+http://media-br-am.crackle.com/1/z/p6/5b4lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Quarto do Panico
+http://media-br-am.crackle.com/1/k/f6/n2ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Oz magico e poderoso
+http://media-br-am.crackle.com/1/q/p6/6d4lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Operacao invasao
+http://media-br-am.crackle.com/1/1/p6/ef4lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Operacao invasao 2
+http://media-br-am.crackle.com/1/m/56/w74lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Poder e Corrupcao
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Procura-se um Bum Bum Desesperadamente
+http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Provas e Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rapida vinganca
+http://media-br-am.crackle.com/1/8/r6/dj6lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rota de fuga
+http://media-br-am.crackle.com/1/v/96/ad5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rec
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Riddick 3
+http://media-br-am.crackle.com/1/x/96/jg5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Red: Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Risco Absoluto
+http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,RONIN
+http://media-br-am.crackle.com/1/p/d6/02vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,S.W.A.T.
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sedutora e Diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sitie
+http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Soldado Universal 3
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Sobrevivendo ao inferno
+http://media-br-am.crackle.com/1/j/56/l74lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Soldado universal 4 O juízo final 
+http://media-br-am.crackle.com/1/m/96/7e5lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Showgirls . Dançando para viver
+http://media-br-am.crackle.com/1/i/z6/yf3lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Superbad - Eh Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tentaculos
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Final Cut
+http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Woman In The Fifth
+http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Formas de Amar
+http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Mulheres Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tudo que voce precisa saber sobre Sexo
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Turma do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Voo Muito Louco
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Tira Muito Suspeito
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Segredo entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ninja em Beverly Hills
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Homem Fora de Serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Dia Muito Louco
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Crime entre Amigas
+http://media-br-am.crackle.com/1/e/n6/h7ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Beijo Roubado
+http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vou te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,ViOLÁcao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vidas que se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vestida para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p_1mbps.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,xXx 2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,ZOHAN. O Agente Bom de Corte
+http://media-br-am.crackle.com/1/u/96/531lf_480p.mp4?LHMTv
+
+##########################################################################################################################
+## LISTA LHMTv. NÃO SEJA BABACA, COPIOU E REPASSOU. DEIXE OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
+##########################################################################################################################
+##Classicos##
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra O foguete da Morte
+http://balder.lhmtv.gq/redecanais/0071979CNTROFGUT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Cassino Royale
+http://balder.lhmtv.gq/redecanais/0072006CSNRYL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra A chantagem atomica
+http://balder.lhmtv.gq/redecanais/0071965CNTRACTGMATN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 A servico secreto da sua majestade
+http://balder.lhmtv.gq/redecanais/0071969ASVCSCRT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra Goldeneye
+http://balder.lhmtv.gq/redecanais/0071995CNTRGLDNE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra Goldfinger
+http://balder.lhmtv.gq/redecanais/0071964CNTRGLDFNG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra o homem com a pistOLÁ de ouro
+http://balder.lhmtv.gq/redecanais/0071974CNTROHMN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/classicos.png" group-title="Classicos" ,007 Contra O satanico Dr. No
+http://balder.lhmtv.gq/redecanais/0071962CNTROSTNC.mp4?LHMTv
+#EX…
